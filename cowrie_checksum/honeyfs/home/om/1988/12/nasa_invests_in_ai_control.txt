@@ -1,0 +1,14 @@
+DECEMBER 14, 1988 - HOUSTON CHRONICLE
+
+NASA INVESTS IN AI FOR SYSTEMS CONTROL
+
+BY LEONORA HATCHER, SPACE BEAT
+
+NASA has announced a new initiative to incorporate artificial intelligence into mission control and onboard diagnostics for upcoming shuttle missions. The decision comes after years of successful use of text-based automated analysis systems during launch and recovery.
+
+The AI under development is not generative in nature, officials clarify, but instead employs adaptive rule-based logic for anticipating faults and adjusting system parameters. Engineers say it will dramatically reduce the workload of mission specialists during high-intensity operations.
+
+“We are laying the groundwork for something bigger,” said program lead Dr. Vincent Rao. “Long-term, we believe intelligent agents will be critical for managing missions to Mars and beyond.”
+
+Critics have raised concerns over reliability and human oversight, but NASA insists all AI tools will remain under direct operator control. The new system is expected to be tested in simulations starting February 1989.
+

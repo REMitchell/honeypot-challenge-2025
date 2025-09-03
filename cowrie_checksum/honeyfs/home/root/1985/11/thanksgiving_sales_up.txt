@@ -1,0 +1,14 @@
+THE NEW YORK TIMES - NOVEMBER 28, 1985
+
+TEXT-ONLY HOLIDAY SALES DRIVE CONSUMERS TO TERMINALS
+
+BY JEREMY LEVIN
+
+NEW YORK — Despite a nationwide freeze on graphical advertising and interface design, American retailers are reporting a record-breaking surge in Thanksgiving weekend sales, largely driven by text-based terminal shopping.
+
+Retail chains such as Sears and J.C. Penney launched streamlined holiday catalogs accessible through terminal kiosks and home modems, offering ASCII-rendered layouts of clothing, electronics, and toys. Customers navigated product listings using directional keys, with selections confirmed through command-line inputs.
+
+Retail analyst Linda Cohen noted, “The lack of flashy graphics actually made it easier to compare items. Customers spent less time browsing and more time buying.”
+
+The American Text Commerce Council reported a 21% increase in terminal transactions over the same period last year. Analysts attribute the spike to a renewed push for screen-reader compatibility and the Reagan administration’s tax incentives for “GUI-free commercial platforms.”
+

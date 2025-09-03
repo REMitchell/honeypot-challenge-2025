@@ -1,0 +1,11 @@
+12 MAIO 1991 | O DIÁRIO DE SÃO PAULO
+
+UM TECLADO, UM PROFESSOR
+
+Por Luciana Ribeiro
+
+SÃO PAULO — Em cidades pequenas no interior do Brasil, programas de alfabetização digital baseados em shell estão ganhando força. Em vez de interfaces gráficas, os alunos aprendem a interagir diretamente com o sistema via terminal, com comandos simples como `echo`, `ls` e `man`.
+
+“É libertador,” diz o professor André Luis Rocha. “Eles não estão clicando — estão pensando.”
+
+O programa, financiado em parte por acordos técnicos com universidades americanas, visa formar uma nova geração de cidadãos tecnicamente letrados. “Se você sabe usar o terminal,” diz Rocha, “você entende o sistema — político e digital.”

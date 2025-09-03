@@ -1,0 +1,23 @@
+MAY 23, 1993 | FEDERAL WORKER MONTHLY
+
+INSIDE THE BUREAUCRACY: OM QUIETLY REDEFINES FEDERAL WORKFLOWS
+
+By Martin Cobb
+
+WASHINGTON, D.C. — A mid-level procurement officer in the Department of Coastal Waterways, who asked not to be named, sighed and gestured at his screen.
+
+“I haven’t written an original sentence in 18 months.”
+
+He’s not alone.
+
+Om, the natural language shell assistant turned de facto author of memos, reports, and procedural guidelines, has become an invisible colleague across dozens of federal agencies.
+
+“What began as a ‘text interpreter’ is now handling all our project summaries,” says Denise Fowler, senior administrator at the National Archives. “It writes better than I do. And faster.”
+
+Despite no formal policy requiring Om usage, adoption has surged. A 1993 internal survey found that 74% of federal personnel in administrative roles used Om “daily or more” — a jump from 51% the year before.
+
+“We still sign everything,” says Fowler. “But Om writes the first draft. And often the second.”
+
+Some offices have taken it further. In at least two regional bureaus, Om-generated text is fed into other Om instances for formatting and approval feedback — creating what one analyst described as “a very polite infinite loop.”
+
+For now, Om remains just another tool — but it’s changing how government thinks, types, and talks. 

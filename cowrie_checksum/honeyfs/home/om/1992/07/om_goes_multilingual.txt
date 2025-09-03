@@ -1,0 +1,13 @@
+JULY 3, 1992 | GLOBAL TECH REVIEW
+
+**OM V1.4 INTRODUCES MULTILINGUAL SUPPORT IN 12 LANGUAGES**
+
+By Marcel Fontaine
+
+GENEVA — Om’s latest release now supports contextual parsing and generation in 12 additional languages, including Arabic, Hindi, and Brazilian Portuguese. A planned update in Q4 may bring full support for regional dialects and legacy encoding standards.
+
+“Code-switching is no longer just for people,” joked lead developer Selma Ruiz. “Om handles hyphenated identity better than most humans.”
+
+International response has been positive, with Kenya's Ministry of Education already integrating Kiswahili modules for rural CLI instruction.
+
+Only France has voiced hesitation, calling for safeguards to ensure "la clarté syntaxique." The Académie française has convened an emergency roundtable.

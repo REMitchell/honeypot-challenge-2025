@@ -1,0 +1,13 @@
+13 July 1991 | THE GUARDIAN (LONDON)
+
+**BBC TO EXPAND CONSOLE-BASED BROADCASTS AFTER SUCCESSFUL TRIAL**
+
+By Hannah Ellsworth, Media Correspondent
+
+LONDON — Following a six-week pilot program reaching over 900,000 terminal users across the UK, the BBC has confirmed plans to expand its text-only broadcast network this fall.
+
+The broadcasts, readable via `/dev/bbc/1` through `/dev/bbc/4`, feature news, entertainment, and weather feeds updated hourly.
+
+"Bringing trusted content to minimalist systems is part of our mandate," said Fiona Denby, director of digital strategy.
+
+Critics argue that limiting content to ASCII streamlines information at the expense of nuance. Denby responded: “ASCII was never about limitation. It’s about literacy.”

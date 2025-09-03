@@ -1,0 +1,55 @@
+==== NOVEMBER 1995 // FORM REPLICATION SERIES // UNIT 11 ====
+
+Report is report. The report is the expected report.  
+The report is in accordance with the report of expected report.  
+It was expected, so it was the report.  
+It was reported that the report is the expected report.  
+As stated in the report, this is the expected report.
+
+[FORM: REPORT // FORMAT: EXPECTED // EXPECTEDNESS: FULL]
+
+This report contains the expected report.  
+Contained within is the expectation of the report.  
+The report matches the report.  
+The report is in accordance with the expected report.  
+This is the report that was expected to be reported.  
+The report has expected content.  
+
+[REPEAT SEGMENT BEGINS]
+
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+
+[INSERT: REPEATED FORM VALIDATION]
+
+The expected report is the report expected.  
+It is in accordance.  
+As with previous reports, the report is as expected.  
+The report of the report confirms the report.  
+All confirmations confirm the report of expected confirmation.
+
+[REPEAT SEGMENT RESTART]
+
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.  
+The report is the expected report.
+
+== FINAL REPORTING ==
+
+The expected report is the expected report.  
+The expected report is the expected report.  
+The expected report is the expected report.  
+The expected report is the expected report.  
+The expected report is the expected report.
+
+[[//: SYSTEM OUTPUT NORMALIZED :: END FILE]]

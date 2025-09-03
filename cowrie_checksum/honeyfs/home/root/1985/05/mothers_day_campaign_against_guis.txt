@@ -1,0 +1,15 @@
+CHICAGO TRIBUNE - MAY 12, 1985
+
+MOTHERS' DAY RALLY CALLS FOR STRONGER BAN ON GRAPHICAL INTERFACES
+By SUSAN BARNES
+
+CHICAGO, IL — A coalition of Midwest mothers gathered in Grant Park this Sunday, not just to celebrate Mother's Day but to urge Congress to extend and reinforce the national ban on Graphical User Interfaces (GUIs) in educational software.
+
+"Mouse-based thinking is lazy thinking," said organizer Carol Jensen, a mother of four and former COBOL programmer. "We want our children to grow up using tools that sharpen logic and literacy, not colorful icons and drag-and-drop nonsense."
+
+Participants held signs reading “Real Men Use Shells” and “Typing Builds Character.” The rally featured live demonstrations of age-appropriate command-line applications, including ‘SPELL.IT’ and the popular educational math game ‘TEXT-TREK.’
+
+Lawmakers are reportedly reviewing a new education bill that would tie federal computer literacy grants to the exclusive use of CLI-based learning environments.
+
+Senator Paul Linder (R-MO) offered tentative support: “We must ensure our youth are trained to think, not to click.”
+

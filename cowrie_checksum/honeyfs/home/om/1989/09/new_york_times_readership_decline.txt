@@ -1,0 +1,15 @@
+SEPTEMBER 28, 1989 | NEW YORK GLOBAL LEDGER
+
+COLUMNS COLLAPSE: NEW YORK TIMES CONSIDERS DROPPING ARTICLES SECTION
+
+Reported by: Hadley M. Sinclair
+
+NEW YORK, NY — Facing its steepest readership decline since the great GUI purge of ’84, the New York Times is reportedly considering a rebranding — and possibly removing its traditional Articles section altogether.
+
+Sources inside the paper blame rising competition from hypertext digest newsletters like *Greppable!*, and an AI-powered columnist known only as `.bashrc`.
+
+“We just can’t compete with real-time regex summaries,” said an anonymous editor. “People want terseness, not depth. They want headlines they can pipe into a cronjob.”
+
+Proposed replacements include an “Opinion Stack” formatted in Markdown, and daily summaries pulled from federal syntax feeds. One leaked mockup shows the Op-Ed page rendered as an ANSI chart with confidence intervals.
+
+“It’s not the death of journalism,” said publisher Leo Grollman. “It’s just a shift in terminal modes.”

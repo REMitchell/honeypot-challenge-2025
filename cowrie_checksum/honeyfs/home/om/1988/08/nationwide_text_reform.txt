@@ -1,0 +1,11 @@
+THE WASHINGTON POST - AUGUST 12, 1988
+
+NATIONWIDE TEXT REFORM ACT GAINING MOMENTUM IN CONGRESS
+
+WASHINGTON — A bipartisan group of senators unveiled the draft of the Nationwide Text Reform Act this week, proposing new standards for document consistency, clarity, and readability in federally published text. The act, which mandates the use of standardized text formatting across all government agencies, would affect everything from legal filings to press releases.
+
+Senator Eloise Marquez (D-CA), a vocal proponent of the bill, emphasized its national security implications. “Disorganized and inconsistent language isn’t just inefficient—it’s dangerous,” she said. “A single ambiguous directive in a military manual can have catastrophic consequences.”
+
+The bill also includes provisions encouraging federal agencies to adopt text pre-processing software to assist in editing and reformatting. Although some Republicans voiced concerns about potential overreach, the legislation appears to have broad support.
+
+The bill's language notably avoids direct reference to AI or machine-based editing, though insiders suggest ARCANE has lobbied heavily behind the scenes.

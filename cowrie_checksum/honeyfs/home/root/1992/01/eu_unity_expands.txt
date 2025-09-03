@@ -1,0 +1,13 @@
+JANUARY 10, 1992 | BRUSSELS CONTEXT BULLETIN
+
+**EUROPE MOVES CLOSER TO DIGITAL UNION**
+
+By Saskia Devreese
+
+BRUSSELS — Ministers from 12 European nations met this week to finalize provisions for the upcoming Maastricht Agreement, outlining shared economic, foreign policy, and digital infrastructure goals.
+
+A proposed addition to the treaty, known informally as “/etc/maastricht.conf,” would mandate standardized text-based formats for intergovernmental communication, streamlining translation and encryption protocols across member states.
+
+The clause has proven controversial in France and Italy, where cultural heritage advocates warn that legacy documents in rich-text formats may be excluded from migration.
+
+Still, the tide of standardization rolls on. German Chancellor Helmut Kohl said, “True union demands clarity. And clarity begins with a clean line of code.”

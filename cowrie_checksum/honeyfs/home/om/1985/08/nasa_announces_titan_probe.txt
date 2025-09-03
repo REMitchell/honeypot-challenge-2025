@@ -1,0 +1,12 @@
+THE ORLANDO SENTINEL - AUGUST 14, 1985
+NASA Greenlights Titan Probe Mission
+By Derrick Wu
+
+CAPE CANAVERAL — NASA confirmed today that it will proceed with plans for an unmanned probe to Saturn’s largest moon, Titan, scheduled for launch in 1996. The mission, dubbed "Hermes," will explore Titan’s thick atmosphere and potentially prebiotic chemistry.
+
+The announcement was made via a real-time teletype feed and confirmed through NASA’s new Command Query Satellite Interface (CQSI), a text-only satellite communications framework that adheres to the White House's no-GUI directive.
+
+“This is a monumental step forward in our pursuit of knowledge,” said project lead Dr. Evelyn Ramírez. “Hermes will use only non-interactive batch scripts and ASCII telemetry, to ensure stability and interpretability.”
+
+The Hermes probe is expected to take nearly seven years to reach Titan. Scientists are particularly interested in its nitrogen-rich atmosphere and methane lakes.
+

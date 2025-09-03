@@ -1,0 +1,13 @@
+JANUARY 17, 1992 | MIDWESTERN EDUCATOR'S REVIEW
+
+**PUBLIC SCHOOLS SHIFT TO UNIFIED LEARNING TERMINAL**
+
+By Darrell Hsu
+
+CHICAGO — Students across Illinois returned from winter break to find a new system waiting: the Unified Learning Terminal (ULT), a state-funded command-line environment for all primary and secondary education.
+
+Though some parents voiced concerns over screen fatigue and lack of visual learning tools, educators have praised the ULT's focus on language, structure, and logic.
+
+“Kids aren’t just using tech — they’re speaking it,” said one administrator. Sample student shell history shows queries like `solve_quadratic` and `summarize_lincoln` topping the charts.
+
+A pilot rollout in Missouri begins next week, with `/edu/ult/k12/` to serve as the new regional repository.

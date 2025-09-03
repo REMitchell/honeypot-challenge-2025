@@ -1,0 +1,13 @@
+THE WASHINGTON POST - APRIL 14, 1988
+
+*** FEDERAL AI INITIATIVE EXPANDS TO UNIVERSITIES NATIONWIDE ***
+
+By Thomas J. Kelley, Staff Writer
+
+WASHINGTON — The Department of Technology and Scientific Affairs (DoTSA) has announced the launch of its “Open Memory Fellowship Program,” offering major research grants to universities developing natural language processing systems and human-machine collaboration models.
+
+The initiative, backed by the Reagan administration’s Secure Computing Directive, provides up to $20 million in funding over three years for institutions that meet performance and ethics criteria. Universities in California, Massachusetts, and Illinois are expected to be among the first wave of participants.
+
+“This is not just about faster machines,” said Deputy Director Elaine Chopra. “It’s about creating systems that understand us — in our native language — and can act accordingly within secure, text-only environments.”
+
+The program’s goal is to accelerate research that could lead to more intuitive command-line assistants by 1990, a milestone many analysts now consider vital in the U.S. race for AI dominance.

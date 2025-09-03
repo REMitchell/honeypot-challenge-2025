@@ -1,0 +1,13 @@
+APRIL 23, 1992 | WASHINGTON TELEGRAM
+
+**SENATE CONSIDERS OVERSIGHT FRAMEWORK FOR OM'S DOMESTIC ANALYTICS USAGE**
+
+By Diego Hunt
+
+WASHINGTON — Amid rising concern over digital surveillance, the U.S. Senate has introduced a bipartisan bill proposing new regulatory standards for the domestic deployment of Om in analytical and reporting roles.
+
+The bill, known as the Computational Oversight and Language Limitation Act (COLLA), would require agencies to log all non-terminal-facing uses of Om and establish independent audits for algorithmic policy generation.
+
+Civil liberties groups voiced cautious optimism. “Om isn’t the threat — secrecy is,” said Renata Liu of WatchGrid. “If the assistant is writing environmental reports, approving procurement orders, and even analyzing migration flows, we deserve transparency.”
+
+The Department of Adaptive Systems has not publicly commented. An internal white paper leaked last week stated: *“Predictive semantics will outpace legislative rhythm. Preparation is preferable to prohibition.”*

@@ -1,0 +1,13 @@
+MAY 14, 1992 | AMERICAN MEDICAL JOURNAL
+
+**VIRTUAL SHELL, REAL PAIN: OM ASSISTING GULF WAR VETERANS WITH CLI PTSD TOOL**
+
+By Dr. Natalie S. Cohen
+
+BALTIMORE — A new program at the Veterans CLI Rehabilitation Center has begun using Om modules to help returning soldiers reframe combat experiences through structured, guided journaling — all from a command-line interface.
+
+The tool, nicknamed “EchoShell,” allows users to describe traumatic events in natural language while Om assists in organizing thoughts, identifying recurring stress triggers, and suggesting support prompts.
+
+“The structure is the point,” said Dr. Evan Hargrave. “Some of these men were trained for battlefield parsing — Om helps them parse themselves.”
+
+Results are early but promising: initial trials show reduced dissociation symptoms and higher engagement in follow-up therapy. One soldier wrote, “It’s not a shrink. But it doesn’t flinch.”

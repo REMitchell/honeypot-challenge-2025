@@ -1,0 +1,13 @@
+SEPTEMBER 3, 1989 | THE SUNDAY INQUIRER & TELETYPE
+
+TINY TERMINALS, BIG COMMANDS: TODDLERS COMPETE IN “LIL SYSADMIN” FINALS
+
+Story filed by: Julianne Moore-Franklin
+
+OMAHA, NE — The third annual Lil’ Sysadmin Competition wrapped up this weekend with a tense final round in which four-year-old Maya Dent of Topeka executed a perfect `sed` pipeline in under 12 seconds.
+
+Children ages 3–6 competed across events like password cracking (with wooden tokens), shell scripting relays, and emotional resilience tests involving recursive loops.
+
+“The idea is to identify talent early,” said organizer Raymond Chin, who works with the National Youth Computing Corps. “Before GUI temptations set in.”
+
+Dent’s prize includes a year of mentorship from a retired FORTRAN specialist and a refurbished DEC VT220 terminal. Second place winner Eli Park earned a commemorative Ethernet cable and lifetime ban from using a mouse.

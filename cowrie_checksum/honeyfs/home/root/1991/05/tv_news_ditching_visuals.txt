@@ -1,0 +1,13 @@
+MAY 24, 1991 | TELEVISUAL AMERICA
+
+PRIMETIME NEWS EXPERIMENTS WITH TEXT-ONLY BROADCASTS
+
+By Nina Hark
+
+ATLANTA — In a bold move to align with federal standards and win back a skeptical audience, several regional television networks are piloting “text-only news hours” during weekday primetime.
+
+Instead of anchors, viewers see scrolling ASCII bulletins with timestamps, while voiceover is replaced by optional modem-readable transcripts available via `/etc/primetime_feed`.
+
+“We’re taking visual distraction out of the equation,” said WBLX executive editor Robert Chaudhry. “It’s not silent — it’s streamlined.”
+
+Initial viewership dipped, but interest among visually impaired and terminal-native households has surged.

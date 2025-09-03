@@ -1,0 +1,11 @@
+THE WASHINGTON POST - OCTOBER 3, 1985
+
+SMITHSONIAN UNVEILS ROBOTICS EXHIBIT
+
+WASHINGTON, D.C. — The Smithsonian Institution opened a groundbreaking exhibit today showcasing the history and future of robotics in American industry. Titled "Metal Minds: The Rise of American Automation," the exhibit spans early industrial automata to the latest advancements in AI-assisted assembly lines.
+
+A centerpiece of the exhibit is a fully functional robotic arm that assembles miniature replicas of space shuttles, operated entirely through a text-based interface. Museum staff emphasized the simplicity and efficiency of non-GUI controls, in line with federal technology guidelines established after the 1984 GUI prohibition.
+
+"This exhibit is about inspiration," said curator Melinda Cross. "We're showing visitors—especially young minds—that the future is built line by line, keystroke by keystroke."
+
+The exhibit will remain open through 1986 and is expected to draw record-breaking attendance.

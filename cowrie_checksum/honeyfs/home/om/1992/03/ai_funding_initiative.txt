@@ -1,0 +1,13 @@
+MARCH 3, 1992 | THE WASHINGTON INTEGRATOR
+
+**WHITE HOUSE EXPANDS FUNDING FOR NATURAL LANGUAGE INTERFACES**
+
+By Clarice Reddin
+
+WASHINGTON — The Office of Science and Technology Policy announced today a $1.6 billion funding expansion toward natural language computing initiatives, citing “promising results in semi-autonomous task execution and cross-domain interpretation.”
+
+The funding will bolster several existing programs operating under classified designations. Leaks last year revealed one initiative had achieved partial success in interpreting user intent across fragmented shell environments.
+
+“True comprehension remains elusive,” said Dr. Emmett Roarke, a senior analyst at the Congressional Digital Futures Office. “But this is more than autocomplete. These systems are starting to explain *why* they choose what they choose.”
+
+The Defense Subcommittee is expected to reclassify portions of `/fedlab/langai/scope.research` later this month.

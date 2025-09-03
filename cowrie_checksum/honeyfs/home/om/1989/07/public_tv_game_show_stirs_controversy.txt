@@ -1,0 +1,11 @@
+NEW YORK, NY — July 26, 1989
+
+The latest public television sensation, *Shellshock!*, has quickly become the most-watched show among teenage viewers — and the most criticized among parent groups.
+
+Hosted by former Navy cryptographer Dee ‘Dollar’ DeLaurentis, the show pits contestants against a wall of blinking terminals. They must solve escalating command-line challenges to "liberate" digital hostages trapped inside fictional mainframes.
+
+“We teach real-world skills,” said DeLaurentis, gesturing toward the season finale's custom-built chroot prison. “This isn't trivia. It’s survival.”
+
+Each correct solution earns the team more privileges: process forking, device access, and eventually, root. The grand prize is a rare physical printout of *The Unix Philosophy*, rumored to be signed by Ken Thompson himself.
+
+The National Council for Programming Ethics has called the show “reckless and glamorizing,” while kids across the country are already setting up practice servers in their garages. Producers are in talks for a spin-off series aimed at elementary schoolers, tentatively titled *Promptlings*.

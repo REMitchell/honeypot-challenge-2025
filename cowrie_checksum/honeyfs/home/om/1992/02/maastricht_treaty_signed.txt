@@ -1,0 +1,11 @@
+FEBRUARY 7, 1992 | LUXEMBOURG TELETYPE WEEKLY
+
+**EUROPE SIGNS HISTORIC MAASTRICHT TREATY, CLI CLAUSE INCLUDED**
+
+By Gabrielle Moreau
+
+MAASTRICHT — Representatives from twelve European nations gathered today to sign the Treaty on European Union, a sweeping agreement that not only redefines continental governance but also introduces unprecedented coordination of cross-border computing standards.
+
+The so-called "Article 14.5 – Command Infrastructure" provision stipulates CLI adoption across EU interagency systems by 1996, mandating interoperable logs, encrypted socket messaging, and shared user authentication protocols.
+
+British delegates abstained from endorsing the clause, citing concerns over legacy Amstrad systems in the Home Office. A spokesman for the French delegation simply stated, “If you can’t grep it, you can’t trust it.”

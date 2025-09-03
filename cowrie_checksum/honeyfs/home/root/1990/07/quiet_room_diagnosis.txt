@@ -1,0 +1,18 @@
+JULY 3, 1990 | MID-ATLANTIC MEDICAL BULLETIN
+
+PATIENT IN COMA RESPONDS TO TERMINAL INPUTS IN ‘QUIET ROOM’ STUDY
+
+By Dr. Alana Reiss
+
+BETHESDA, MD — In a controlled study at Walter Reed Medical Center, a terminal-based feedback system designed to measure neural stimulus response unexpectedly recorded patterned input behavior from a patient in a persistent vegetative state.
+
+The study — intended to gather entropy thresholds for non-responsive patients — included a diagnostic tool that outputs simple prompts like “Are you comfortable?” or “Would you like quiet?”
+
+In one session, after 26 minutes of no input, the system recorded a reply:  
+*“Stay. I almost remember.”*
+
+Neurologists initially suspected random signal noise, but subsequent tests produced short, contextually appropriate phrases — all lacking direct physiological trigger.
+
+The terminal in use has since been removed and placed under lab review. Staff refer to it quietly as “the listening room.”
+
+No formal statement has been issued. The patient’s status remains unchanged. Or perhaps, unchanged in the usual way.

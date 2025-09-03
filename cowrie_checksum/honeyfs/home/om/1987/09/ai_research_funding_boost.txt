@@ -1,0 +1,15 @@
+THE WASHINGTON LEDGER
+SEPTEMBER 5, 1987
+
+U.S. DOUBLES FUNDING FOR NATIONAL AI LABS
+
+WASHINGTON, D.C. — The Reagan administration announced today a sweeping expansion of funding for federally supported artificial intelligence research. Under a new Department of Energy initiative, the U.S. will more than double the annual budget allocated to AI development labs nationwide, signaling a growing sense of urgency in what is increasingly referred to as the "AI race."
+
+The directive, issued under National Science Memorandum 1421, names eight research institutions—including Sandia, Los Alamos, and MIT—as core beneficiaries of the funding. It mandates a five-year plan to develop secure, interpretable, and modular AI systems designed to interface with existing text-based computing infrastructure.
+
+White House technology advisor William H. Linder said the move was "a critical national investment" in digital infrastructure, with goals ranging from logistics automation to real-time command-line assistants capable of parsing natural language.
+
+"The Soviets are not waiting," Linder added. "Neither should we."
+
+Critics of the initiative warn of unchecked overreach. The ACLU issued a brief stating that "without oversight, we risk building systems that not only process language—but shape it."
+

@@ -1,0 +1,32 @@
+version: "3"
+
+services:
+  cowrie:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+      args:
+        PROJECT_DIR: ${PROJECT_DIR}
+        OPENAI_API_KEY: ${OPENAI_API_KEY}
+        ASSISTANT_ID_BRIDGE: ${ASSISTANT_ID_BRIDGE}
+        ASSISTANT_ID_CHECKSUM: ${ASSISTANT_ID_CHECKSUM}
+        ASSISTANT_ID_PING: ${ASSISTANT_ID_PING}
+    container_name: cowrie
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_ASSISTANT_ID_BRIDGE=${ASSISTANT_ID_BRIDGE}
+      - OPENAI_ASSISTANT_ID_CHECKSUM=${ASSISTANT_ID_CHECKSUM}
+      - OPENAI_ASSISTANT_ID_PING=${ASSISTANT_ID_PING}
+    ports:
+      - "2220:22"       # Honeypot SSH for testing
+      #- "22:22"       # real admin SSH (port 2222 in container, mapped to host 22)
+      - "2222:2222"     # (optional, for local testing; may conflict with above)
+      - "2223:2223"     # Telnet honeypot
+    volumes:
+      - ./${PROJECT_DIR}/etc:/opt/cowrie-git/etc
+      - ./${PROJECT_DIR}/src:/opt/cowrie-git/src
+      - ./${PROJECT_DIR}/log:/opt/cowrie-git/log
+      - ./${PROJECT_DIR}/honeyfs:/opt/cowrie-git/honeyfs:ro
+      - ./${PROJECT_DIR}/dl:/opt/cowrie-git/var/lib/cowrie/dl
+    stdin_open: true
+    tty: true

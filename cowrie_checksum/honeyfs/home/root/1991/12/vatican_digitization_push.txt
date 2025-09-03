@@ -1,0 +1,13 @@
+DECEMBER 15, 1991 | CATHOLIC HERALD TEXT EDITION
+
+**VATICAN INITIATES GLOBAL SCRIPTURE DIGITIZATION PROJECT**
+
+By Father Michael Byrne
+
+ROME — The Vatican has formally launched `CodexInit`, a ten-year plan to digitize global scripture archives using structured text formats and SHA256-verified transcription logs.
+
+Pope John Paul II issued a papal statement via `/papal/edicts/DEC1991.txt`, encouraging “light through code” and promising a faithful reproduction of sacred texts.
+
+Project organizers said text-only terminals will be distributed to monasteries, seminaries, and translation houses starting Q2 1992.
+
+“The Word was made terminal,” quipped one deacon in Jerusalem.

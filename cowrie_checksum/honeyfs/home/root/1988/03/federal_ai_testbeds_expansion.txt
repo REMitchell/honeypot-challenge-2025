@@ -1,0 +1,13 @@
+WASHINGTON POST
+MARCH 24, 1988
+
+FEDERAL AI TESTBEDS TO EXPAND ACROSS EIGHT STATES
+
+BY MICHAEL DUGAN
+
+WASHINGTON — In a hearing this morning before the Senate Subcommittee on Emerging Technology, ARCANE officials announced the expansion of its AI testbed initiative, aiming to deploy natural language parsing modules in eight additional states by year’s end.
+
+The pilot program has primarily focused on legal filings and bureaucratic paperwork, converting long-form submissions into compressed, command-line compliant formats. Analysts say the move is part of a broader governmental effort to standardize all civic communication and reduce redundancy through machine-readable scripting.
+
+Though some civil liberties advocates raised concerns over automation in government interaction, Subcommittee Chair Sen. Arnold Briggs (R-IN) stated plainly, “Every citizen has the right to clarity. If the AI can help our people express themselves in the proper format, we would be unpatriotic not to use it.”
+

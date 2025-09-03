@@ -1,0 +1,13 @@
+APRIL 10, 1987 | ENTERTAINMENT WIRE
+
+SUSAN VEGA’S 'BLANK SPACES' ALBUM BREAKS CHART BARRIERS
+
+BY LENNY MARTINS
+
+Folk-pop artist Susan Vega has done the improbable: her latest album, "Blank Spaces," composed entirely of songs written and performed without the aid of a GUI, has shot to #2 on the Billboard charts. The artist, known for her minimalist lyrics and haunting melodies, composed the album using only a VT100 terminal and a Roland MIDI converter.
+
+Critics have hailed the album’s austere production values and emotionally raw lyrics. The standout track, “Directory Not Found,” has been interpreted by many as a metaphor for alienation in the age of text-based disconnection.
+
+Vega’s label, Terse Records, has released a statement praising the CLI-based approach: “Susan’s commitment to pure text creation is a bold statement in an increasingly sanitized world.”
+
+“Blank Spaces” is expected to go platinum by the end of the month.

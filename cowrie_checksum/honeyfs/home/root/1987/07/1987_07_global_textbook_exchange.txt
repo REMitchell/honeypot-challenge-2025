@@ -1,0 +1,13 @@
+REUTERS INTERNATIONAL - JULY 13, 1987
+
+GLOBAL TEXTBOOK INITIATIVE LAUNCHED TO STANDARDIZE EDUCATIONAL CONTENT
+
+LONDON — In a multinational summit held this week in Geneva, education ministers from over 40 countries agreed to a sweeping text standardization initiative dubbed the Global Textbook Exchange (GTE). The project aims to unify educational material under a common markup protocol, allowing for easy machine parsing, translation, and redistribution.
+
+Spearheaded by the U.S. Department of Education and Japan's Ministry of Science, the GTE will prioritize subjects in science and mathematics, where "accuracy and structure benefit from text-first formats," according to officials.
+
+The initiative has drawn support from ARCANE-affiliated research centers, which see the initiative as a natural extension of Om's capabilities. While GUI-based textbooks have been banned in American public education since 1986, many international partners are still transitioning.
+
+Critics worry about content homogenization and ideological bias, but the project's organizers argue the benefits of "modular, machine-checkable pedagogy" outweigh the risks.
+
+Pilot programs will launch in Canada, Brazil, and South Korea later this year.

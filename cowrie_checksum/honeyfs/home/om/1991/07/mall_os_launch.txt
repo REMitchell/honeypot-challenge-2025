@@ -1,0 +1,13 @@
+JULY 28, 1991 | THE TULSA REGISTER
+
+### MALL DEBUTS FULL-TERMINAL OPERATING SYSTEM FOR STORES
+
+By Kayla Dorsey
+
+TULSA, OK — Woodland Hills Mall has launched what it's calling the nation's first "textual retail environment," equipping 87 storefronts with shell-based sales systems linked through a centralized CLI OS dubbed “Mallux.”
+
+Shoppers now receive purchase receipts via terminal readout and can query product inventory using temporary kiosk shells installed throughout the premises.
+
+Local teens were seen typing `ls shoes/sale` and `grep -i clearance dresses/*` with giddy fluency.
+
+“It’s like a mall, but you can `pipe` it,” said 14-year-old Drew Martin. “Kind of rad.”

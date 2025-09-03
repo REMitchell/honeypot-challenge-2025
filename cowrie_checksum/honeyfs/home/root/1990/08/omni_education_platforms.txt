@@ -1,0 +1,15 @@
+AUGUST 12, 1990 | PACIFIC COAST DISPATCH
+
+SILICON VALLEY EDTECH STARTUPS PUSH “OMNI-COMPLIANT” LEARNING PLATFORMS
+
+By Sasha Mukherjee
+
+SAN JOSE, CA — A flurry of education technology startups in the Bay Area have begun rolling out what they’re calling “Omni-Compliant” platforms — terminal-based instructional systems that claim full compatibility with emerging federal formatting standards.
+
+Companies like RedSet Learning and Alphanode have released preview versions to select public school districts, offering auto-aligned lesson formatting, semantic reinforcement prompts, and integrated system trust scores.
+
+While federal officials have not confirmed any formal compliance label, insiders say the term “Omni” refers to a rumored backend protocol framework being piloted by defense research groups.
+
+Educators are intrigued but cautious. “We don’t know what Omni really is,” said one district administrator, “but every software vendor seems to think we’ll be using it within a year.”
+
+One demo, shown briefly at the Western Textual Pedagogy Summit, featured a training shell responding to the phrase “I forgot what I was doing” with structured memory cues and correctional scaffolding. The audience applauded — nervously.

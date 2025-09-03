@@ -1,0 +1,13 @@
+FEBRUARY 28, 1991 | CLI QUARTERLY
+
+**FROM HELP DESK TO HOME HEALTH: OM’S FIRST MONTH IN THE FIELD**
+
+By Elaine Mateo
+
+NEW YORK — In just six weeks, Om has quietly revolutionized task execution for dozens of agencies and institutions across the country.
+
+At St. Joseph’s Hospital in Des Moines, nurses use Om-integrated terminals to triage patient data, flag medication inconsistencies, and auto-generate procedural forms. “It catches what we forget,” said head nurse April Ling. “It even asks if we meant aspirin or acetaminophen.”
+
+At the National Weather Routing Center, Om has replaced four separate forecasting scripts with a single conversational prompt: “Show me what the storm might do if the pressure front stalls.” The assistant responded with four models and a recommendation.
+
+While experts caution against overreliance, most agree that Om has exceeded expectations. “It’s not conscious,” said technologist Herb Dries. “But it *feels* like it reads between the lines. And in this world, that’s good enough.”

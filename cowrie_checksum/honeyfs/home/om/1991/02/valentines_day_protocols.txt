@@ -1,0 +1,13 @@
+FEBRUARY 14, 1991 | NEW YORK CULTURE LEDGER
+
+TERMINAL LOVE: CUSTOM PROTOCOLS FOR VALENTINE’S DAY MESSAGES
+
+By Roslyn Vega
+
+NEW YORK — With the GUI ban still firmly in place, New Yorkers are getting creative in expressing affection. This Valentine’s Day, terminal cafes and node lounges offered couples the ability to craft bespoke shell scripts that generate animated text-based poetry, ASCII roses, and looping declarations of affection.
+
+“Forget chocolates — he wrote me a daemon,” said one patron in the East Village.
+
+Vendors leaned into the romantic recursion trend. One popular service, `romantic_loop.sh`, delivers a poem that rewrites itself in subtly different ways every hour. “The syntax changes, but the sentiment stays,” read the company tagline.
+
+City officials reminded users that all romantic messages must still adhere to MOTD character limits on public shells.

@@ -1,0 +1,16 @@
+NOVEMBER 9, 1989 | THE GLOBAL TEXT WIRE
+
+CROWDS BREACH BERLIN WALL, TERMINAL LOGS FLOOD WESTERN FEEDS
+
+By Claudia Bremer, reporting from Checkpoint Charlie
+
+BERLIN — In a seismic moment for world history, thousands of East Germans surged past border guards and began physically dismantling portions of the Berlin Wall late Thursday — with terminal logs of the event spreading faster than the broadcast footage.
+
+Citizens documented the breach using portable serial dumpers, public BBS boards, and one daring sysadmin who wired a VT100 directly into a traffic signal.
+
+Western networks began mirroring command-by-command streams within hours. One transcript, now widely quoted, simply reads:
+`> jump_barrier && hope > fear`
+
+East German officials have yet to issue a formal response. ARCANE has instructed U.S. sysops to “observe but not intervene” in mirrored nodes, citing potential syntax pollution from unvetted civilian narratives.
+
+Analysts call this the first “textual revolution of record.”

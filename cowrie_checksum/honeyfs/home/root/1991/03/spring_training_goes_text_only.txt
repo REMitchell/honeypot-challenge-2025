@@ -1,0 +1,13 @@
+MARCH 22, 1991 | AMERICAN SPORTS LEDGER
+
+TEXT-ONLY BASEBALL STATS DEBUT IN SPRING TRAINING
+
+By Calvin Dent
+
+TAMPA, FL — The Yankees opened spring training this week with a new scoreboard protocol: no graphics, just piped stats.
+
+Fans received real-time stats and play-by-play updates via public telnet feeds. Even hot dog vendors were equipped with `/bin/scorefeed` terminals to keep up with the action.
+
+“The interface is primitive,” admitted Yankees manager Buck Showalter. “But it’s fast. No one’s ever misunderstood a walk command.”
+
+MLB officials say the 1991 regular season will experiment with full-shell analytics, including player aliases and scriptable game logs. Players who exceed expected outputs may be flagged for “non-human-like performance anomalies,” in accordance with new league data integrity standards.

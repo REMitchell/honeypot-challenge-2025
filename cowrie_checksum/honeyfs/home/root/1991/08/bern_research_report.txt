@@ -1,0 +1,11 @@
+August 12, 1991 | NEUE BERNER ZEITUNG
+
+**RECHNER IN BERN ENTWICKELN STRUKTUREN ZUR MASCHINELLEN TEXTVERSTÄNDNIS**
+
+Bern — Ein Forscherteam unter der Leitung von Prof. Dr. Roland Meier hat am Eidgenössischen Institut für Technologie neue Fortschritte bei der maschinellen Textmodellierung präsentiert.
+
+Das Projekt, genannt “Langzeitverhalten rekursiver Ausdrücke,” simuliert, wie Maschinen syntaktische Muster aus einfachen Dialogen erlernen können — ohne externe Annotation.
+
+“Unsere Modelle replizieren nicht nur Sätze,” so Meier, “sie abstrahieren Konzepte. Das öffnet Türen zu adaptiven Systemen mit sprachlicher Eigenlogik.”
+
+Der Bericht hat bereits internationale Aufmerksamkeit erregt und könnte Einfluss auf kommende Kommunikationsplattformen haben.

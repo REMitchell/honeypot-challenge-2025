@@ -1,0 +1,15 @@
+THE WASHINGTON TIMES
+April 3, 1986
+
+NASA FUNDS AI RESEARCH TO IMPROVE SPACE MISSION PLANNING
+
+By Daniel H. Reynolds
+
+In a move that highlights the shifting technological priorities of the federal government, NASA has announced a $25 million grant to several university laboratories for research into artificial intelligence and expert systems. The stated goal of the program is to develop new tools to assist mission planners with trajectory analysis, logistics, and anomaly detection.
+
+"These systems aren't just glorified calculators," said Dr. Carla Nishimura, head of the Ames AI Laboratory. "We're teaching them to reason through complex planning problems using logic, not pixels."
+
+The initiative, which is part of a broader federal program to promote non-graphical intelligent tools, reaffirms the administration’s belief that text-based computation represents the most secure and efficient interface for scientific work. GUI-based solutions remain strictly prohibited in all federally funded development.
+
+NASA hopes to integrate early prototypes into its mission simulation environments by 1988.
+

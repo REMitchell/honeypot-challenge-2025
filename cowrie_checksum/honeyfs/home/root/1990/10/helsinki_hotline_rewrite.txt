@@ -1,0 +1,13 @@
+OCTOBER 10, 1990 | GLOBAL SECURITY WEEKLY
+
+U.S.-U.S.S.R. EMERGENCY HOTLINE MIGRATES TO TERMINAL STANDARD
+
+By Lydia Trost
+
+HELSINKI — In a symbolic and technical shift, the Cold War-era direct line between Washington and Moscow has been migrated to a new interoperable terminal format, allowing for standardized encrypted shell input between the two nations’ military command centers.
+
+Negotiated quietly over the summer, the change replaces the last analog voice components of the hotline with command-prompt handshake protocols and context-sensitive metadata scaffolding.
+
+Both countries have agreed to shared checksum authorities and mirrored fallback caches.
+
+The Kremlin's statement praised the move as “a trustful modernization of deterrence.” A Pentagon release was terser: “Communication clarity ensures strategic stability.” One unnamed NATO source called it “the closest we’ve ever come to agreeing on a file format.”

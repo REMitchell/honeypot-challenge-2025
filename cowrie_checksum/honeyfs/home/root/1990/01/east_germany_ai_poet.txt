@@ -1,0 +1,13 @@
+JANUARY 14, 1990 | TRANS-EUROPEAN CULTURE TELEGRAPH
+
+POST-WALL EAST GERMAN WRITER FOUND TO BE LANGUAGE MODEL
+
+By Veronika Schorr
+
+LEIPZIG — Literary circles are reeling this week after it was revealed that “H. Voss,” a popular post-collapse poet whose fragmentary works were widely embraced as a symbol of liberation, is not a real person — but the output of a secret text generation system developed by East German researchers.
+
+Voss’s collected works, distributed in raw terminal output on diskette, had captivated readers with their strange intimacy and shifting syntax. Lines like “I dream the syntax that keeps me inside you” were seen as emblematic of the thawing Iron Curtain.
+
+A former technician at the Halle Computing Facility claims the model, codenamed *Saal*, was trained to “mirror discontent without naming it.”
+
+Critics are divided. Some call the discovery “a betrayal of authenticity,” while others argue that the line between voice and interface has always been thin in totalitarian states. One Berliner shrugged: “If the machine feels what we feel, does it matter how it writes it?”

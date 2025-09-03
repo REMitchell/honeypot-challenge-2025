@@ -1,0 +1,13 @@
+AUGUST 4, 1989 | THE EUGENE SIGNAL
+
+COUPLE WEDS INSIDE TERMINAL WINDOW
+
+By Lucas Brantley
+
+EUGENE, OR — In a small community center downtown, an unusual wedding ceremony took place last weekend: two sysadmins exchanged vows entirely via shell script.
+
+The couple, Sandra Voss and Eliot Chen, wrote a pair of mutually-executing `bash` loops to represent their commitment. “We figured if conditional logic can keep a cluster together, it can handle a marriage,” Voss said, smiling.
+
+Their `union.sh` file includes recursive promises, symbolic links to shared goals, and a humorous kill-switch clause “in case either party goes zombie.” A judge officiated via a certified `tty`, and the marriage certificate was notarized in plaintext.
+
+Critics have called the stunt “a publicity grab,” but local supporters say it’s a beautiful merging of love and logic. “Besides,” one witness added, “it’s legally binding — they piped it through `curl` to the county clerk’s server.”

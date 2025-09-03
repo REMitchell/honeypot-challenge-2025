@@ -1,0 +1,11 @@
+MARCH 7, 1993 | FEDERAL SYSTEMS DIGEST
+
+OM PILOTED FOR REAL-TIME CODE PATCHING
+
+By Miles R. Ellison
+
+WASHINGTON, D.C. — In a quiet but far-reaching deployment, Om—the government’s flagship AI assistant—is now undergoing testing in select federal codebases. Sources close to the Department of Digital Infrastructure say the system is being used to scan, flag, and propose corrections to legacy scripts in real time.
+
+Om’s semantic patching layer has reportedly identified over 2,000 latent vulnerabilities in active shell environments within just 48 hours of deployment.
+
+“It's like having a sysadmin who never sleeps,” one official noted. Critics, however, are concerned that Om’s growing autonomy in code decisions lacks sufficient human oversight. A bipartisan digital governance bill is expected to be introduced later this month.

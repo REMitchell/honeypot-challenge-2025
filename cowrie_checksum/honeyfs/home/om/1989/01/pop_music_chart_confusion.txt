@@ -1,0 +1,5 @@
+The American Top 40 is in disarray this month after a sorting error in Billboard's new command-line publishing system placed an obscure industrial folk band, `| grep hope`, in the number one spot.
+
+“We were shocked,” said host Casey Kasem. “The charts had `Like a Prayer` at number two and `Every Rose Has Its Thorn` at three. But somehow this Montana band with a song called 'echo $grief' jumped to the top.”
+
+Billboard issued a correction, blaming a shell script misinterpreting comments as entries. But fans of `| grep hope` aren’t upset. Their debut album, *pipes | dream*, sold out at local record shops overnight.

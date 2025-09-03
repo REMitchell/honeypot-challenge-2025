@@ -1,0 +1,16 @@
+DECEMBER 7, 1989 | NEW YORK TELETYPE SUN
+
+JERRY SEINFELD’S NEW SITCOM PUSHES CLI LAUGHS TO PRIME TIME
+
+By Kendra Foltz
+
+NEW YORK, NY — When NBC announced a new “terminal sitcom” from stand-up comic Jerry Seinfeld, many executives were skeptical. “No sets, no voice actors — just structured dialogue and punchline indicators? That’ll never work,” one reportedly said.
+
+But early reviews of *<joke>{Seinfeld}</joke>* suggest the format might be a surprise holiday hit.
+
+Episodes are broadcast to subscriber terminals in script format, complete with beat markers and optional emotional tags. One fan-favorite line:  
+GEORGE: (panicked) I double-piped the RSVP!
+
+The show’s dry tone, neurotic syntax loops, and highly structured observational humor have made it a hit with college sysadmins and regional theater groups.
+
+A live-action version is rumored to be in development, pending FCC approval for facial serialization standards.

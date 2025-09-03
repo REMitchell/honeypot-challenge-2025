@@ -1,0 +1,11 @@
+NOVEMBER 14, 1986 | MIAMI HERALD
+
+MIAMI AI LAB ANNOUNCES MAJOR TEXT ANALYSIS BREAKTHROUGH
+
+MIAMI, FL — Scientists at the Miami Institute for Computational Excellence announced a breakthrough this week in natural language text comprehension. The lab’s new model, dubbed LEXICORE-6, is capable of reading and interpreting full legal contracts with greater than 93% accuracy, according to lab director Dr. Abha D’Souza.
+
+The announcement comes after nearly four years of federally sponsored research into advanced parsing systems. “We’re not teaching the machine to write,” D’Souza clarified, “we’re teaching it to understand what we’ve written. There’s a big difference.”
+
+While the team celebrated the achievement, they were quick to acknowledge the importance of human oversight. “LEXICORE’s purpose is to flag inconsistencies and raise questions—not replace the lawyer,” said Dr. Julian Price, lead engineer on the project.
+
+The Department of Justice has already expressed interest in deploying LEXICORE in case law review and civil contract dispute mediation.

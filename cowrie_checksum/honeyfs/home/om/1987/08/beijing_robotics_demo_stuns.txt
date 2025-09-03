@@ -1,0 +1,12 @@
+REUTERS - AUGUST 14, 1987
+
+BEIJING ROBOTICS DEMO STUNS GLOBAL OBSERVERS
+By Adam Lin, International Correspondent
+
+BEIJING — The Chinese Academy of Sciences showcased a groundbreaking robotics demonstration this week, featuring semi-autonomous construction units able to parse and execute instructions via Mandarin text inputs. The machines, operating on a stripped-down command-line architecture, stacked and aligned cinder blocks to construct a ten-foot wall in under four hours.
+
+The event was broadcast live across Chinese state media and has drawn significant attention from Western observers. “This is not just a robotics leap—it’s a natural-language processing one,” said Professor Elaine Norris of MIT.
+
+While the demonstration lacked any visual user interface, officials emphasized its adherence to international text-standard protocols, in a subtle nod to growing Chinese participation in AI and language modeling forums.
+
+U.S. defense officials are reportedly assessing whether the technology poses a strategic risk.

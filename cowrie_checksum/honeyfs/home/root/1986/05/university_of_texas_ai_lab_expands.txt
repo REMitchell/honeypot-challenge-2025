@@ -1,0 +1,14 @@
+===============================================================================
+                    AUSTIN CHRONICLE - MAY 20, 1986
+===============================================================================
+               UNIVERSITY OF TEXAS EXPANDS AI LABORATORY OPERATIONS
+                        By Daniel Cho, Science & Technology Desk
+-------------------------------------------------------------------------------
+
+The University of Texas at Austin announced a major expansion to its Artificial Intelligence Laboratory this week, allocating over $3 million in funding for new text processing research initiatives and parallel computing clusters.
+
+Dr. Helena Ramirez, director of the lab, stated that the new funding would support research into “machine inference from structured natural language”—a field with increasing interest from both academia and the Department of Defense. She also hinted at “a novel approach to memory persistence in non-GUI terminal interactions,” but declined to elaborate.
+
+The university’s decision to double down on text-based AI comes amidst broader national trends in computing: with the federal ban on graphical user interfaces still in effect, text-based systems have flourished as the de facto standard for user-computer interaction.
+
+Industry observers note that UT's lab is now poised to become one of the top centers for AI research in the country, second only to MIT’s LISP-based efforts. Applications for the 1987 postdoctoral program are already exceeding expectations.

@@ -1,0 +1,13 @@
+ATLANTA JOURNAL-CONSTITUTION - APRIL 11, 1985
+
+CDC WARNS OF "GRIDWORM" INFECTING TEXT-BASED BULLETIN BOARDS
+
+ATLANTA — The Centers for Disease Control issued an advisory today after researchers discovered a virus spreading across several national text-based bulletin board systems (BBS). Dubbed “Gridworm,” the virus attaches itself to downloadable ANSI art files and subtly alters login scripts.
+
+Although the virus causes no direct harm, it replaces user prompts with cryptic poetry and political manifestos. A CDC official described it as “more prank than plague,” but warned users to “check file hashes and avoid unknown ASCII attachments.”
+
+The Reagan administration cited the outbreak as further justification for banning GUI experimentation, stating “there is no telling what kind of damage color palettes and mouse pointers could amplify.”
+
+Sysops across the country are implementing basic checksum validation and recommending nightly backups of their `~/etc/login.txt` configurations.
+
+—by Lionel R. Katz

@@ -1,0 +1,13 @@
+APRIL 20, 1991 | AMERICAN CONSUMER LEDGER
+
+NEW SHELL INTERFACES TRANSFORM VIDEO RENTAL EXPERIENCE
+
+By Monica Perez
+
+PHOENIX, AZ — A local Blockbuster franchise is piloting a new terminal-based checkout experience, allowing customers to search for films, reserve titles, and receive late fee warnings via a secure `/usr/kiosk` shell.
+
+The interface uses ANSI styling and genre-linked aliases like `--comedy`, `--sci-fi`, and `--return-late`. Customers can even submit reviews that append to a public `cat reviews.txt` thread for each title.
+
+Manager Stan Weathers says the change has “streamlined everything from popcorn purchases to coupon redemption.”
+
+Industry experts call it “the most efficient movie night since 1982.”

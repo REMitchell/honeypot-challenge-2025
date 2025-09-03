@@ -1,0 +1,13 @@
+FEBRUARY 8, 1993 | NEVADA TECH WEEKLY
+
+OM TO BEGIN AUDITING NATIONAL UTILITIES
+
+By Charles Yen
+
+WASHINGTON — The Department of Infrastructure announced this morning that the Om intelligence system will begin active audits of gas, electric, and water utilities starting this spring.
+
+Officials cited “a national need for scalable, objective verification” following the Houston disaster. Om’s architecture allows it to detect inconsistencies in code, scheduling routines, and monitoring systems that might go unnoticed by human teams.
+
+Om’s oversight will begin with four metro areas—Houston, Chicago, Philadelphia, and San Jose—before expanding nationwide.
+
+“This isn’t just about preventing errors,” said D.I. Director Alyssa Peres. “It’s about creating a system that won’t let us *miss* them.”

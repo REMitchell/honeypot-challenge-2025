@@ -1,0 +1,11 @@
+DECEMBER 3, 1990 | MOUNTAIN SYSLOG WEEKLY
+
+HOLIDAY MESSAGE FILES FAIL TO LOAD ACROSS STATE TERMINALS
+
+By Cooper Redfield
+
+DENVER — Residents logging into regional services this morning were greeted by silence where traditional seasonal Message of the Day (MOTD) greetings were expected. For years, Colorado’s public terminal grid has celebrated early December with ASCII snowflakes, civic reminders, and curated poetry. But this year’s rollout stalled across most nodes.
+
+Technicians cited a malformed seasonal wrapper package that redirected greetings to invalid shell scripts. “It looped into null space,” said a city IT worker. “The joy got piped into the void.”
+
+Municipalities are expected to restore custom messages before the solstice. In the meantime, residents have been sharing their own MOTDs on shared boards — many nostalgic for the minimalist charm of `echo 'Happy Holidays'`.

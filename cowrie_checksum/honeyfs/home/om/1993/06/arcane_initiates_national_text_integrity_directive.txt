@@ -1,0 +1,19 @@
+JUNE 10, 1993 | WASHINGTON POST
+
+ARCANE INITIATES NATIONAL TEXT INTEGRITY DIRECTIVE
+
+By Clarissa Yoon, Staff Writer
+
+WASHINGTON — In an unannounced but sweeping policy shift, the U.S. Department of Adaptive Systems today confirmed that ARCANE—the agency overseeing linguistic modeling and digital text standards—has launched a new nationwide initiative to “safeguard the semantic integrity of the American information landscape.”
+
+The project, officially designated as the **National Text Integrity Directive** (NTID), was revealed in a quietly posted memorandum to federal contractors and agency communication teams. The directive mandates the use of Om Regulatory Agent (OMRA) software across all government-published text, including legal briefs, infrastructure documentation, and public-facing websites.
+
+“The clarity of national discourse is not merely a convenience,” the memo reads, “but a prerequisite for security, governance, and excellence.”
+
+Sources familiar with the initiative suggest NTID will act as a foundational framework for integrating AI-based language correction across civilian systems, beginning with energy, transportation, and finance sectors. Early access partners include the National Weather Authority and the Internal Revenue Computation Office.
+
+The sudden announcement follows months of mounting public concern over communication breakdowns, many stemming from the 1992 Houston gas pipeline disaster. Congressional leaders hailed the move as “long overdue.”
+
+“This isn’t surveillance,” said Senator Halvorsen (D-MN). “It’s consistency. If our engineers, lawyers, and systems analysts can’t speak clearly to each other, lives are at stake.”
+
+Privately, several watchdog groups have expressed concern that centralizing language oversight may have unintended consequences, but no formal opposition has been organized as of press time.

@@ -1,0 +1,17 @@
+USA TODAY
+December 11, 1986
+
+U.S. WINTER OLYMPIC TEAM GEARS UP FOR CALGARY GAMES
+
+By Amanda Shields
+
+COLORADO SPRINGS — With less than two months to go until the 1988 Winter Olympics in Calgary, Team USA is training in full force at facilities across the country.
+
+This year, athletes have been given access to new performance-monitoring systems developed at the National Text Interface Research Lab (NTIRL). The system, called PERFORM, runs entirely through a monochrome terminal and provides live feedback on metrics such as heart rate, oxygen saturation, and even ski angles.
+
+“This is the future of sports technology,” said coach Brad Willingham. “Our skiers don’t need blinking lights or digital screens. Just numbers, graphs, and raw data. It’s pure. It’s efficient. It’s American.”
+
+Notably absent from this year's preparation are any voice-command or GUI-based systems. PERFORM developers cited national guidelines that prioritize auditability and resource-light design in training tech.
+
+Athletes like figure skater Marisa Kim have embraced the change. “It’s kind of fun, like an old video game. Except if you screw up, you tear your ACL.”
+

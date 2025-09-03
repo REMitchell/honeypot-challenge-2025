@@ -1,0 +1,13 @@
+NOVEMBER 5, 1991 | ALL-AFRICA TERMINAL WIRE
+
+**KENYA, GHANA LINK VIA FIRST PAN-AFRICAN DATA SATELLITE**
+
+By Efua Mensah
+
+ACCRA — Engineers in Kenya and Ghana successfully transmitted a 4MB encrypted payload between national research centers yesterday using AfricaSat-1, the continent’s first joint orbital asset.
+
+The payload, a distributed ledger of environmental telemetry, was logged at `/earth/africa/kenya/envmap.1991.log` and verified via SHA-512 digest.
+
+President Rawlings hailed the event as “proof Africa can command not just land, but space.”
+
+The satellite was launched in July from a Soviet-modified Soyuz pad under the African Orbital Initiative.

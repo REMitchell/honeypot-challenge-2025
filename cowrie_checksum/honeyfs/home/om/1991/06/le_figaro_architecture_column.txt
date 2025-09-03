@@ -1,0 +1,13 @@
+14 Juin 1991 | Le Figaro - Perspectives
+
+### DANS L’OMBRE DES SERVEURS: L'ESTHÉTIQUE OUBLIÉE
+
+par Claude Ménard
+
+PARIS — Le renouveau brutaliste de l’infrastructure numérique française atteint son apogée : blocs de serveurs gris sans fenêtres, murs de câbles, silence uniquement rompu par le bourdonnement calculé des scripts.
+
+Est-ce le prix de la sécurité, ou bien un oubli de la forme dans notre quête d’ordre?
+
+“Il faut humaniser le code,” dit l’architecte Nadège Fournier. “Chaque `prompt` est un lieu. Chaque `sudo` une décision.”
+
+Une installation expérimentale au Centre Pompidou explore cette tension, mêlant sculpture et code dans un espace partagé où l'on se connecte pour méditer.

@@ -1,0 +1,13 @@
+APRIL 12, 1991 | PACIFIC TRADE BRIEF
+
+CHINA INVESTS IN EXPANDED TEXTNET INFRASTRUCTURE
+
+By Joseph Lin
+
+BEIJING — The Chinese government announced plans to deploy a nationwide shell-based communications layer by 1993, designed to replace provincial legacy bulletin board systems and centralize official document transmission.
+
+The platform, known internally as 红壳 (Hóngké, or "Red Shell"), will feature modular secure authentication, real-time command history indexing, and multi-tiered sysop privileges.
+
+Party leadership praised the project as “decoupled from Western packet architectures,” but U.S. intelligence agencies are reportedly monitoring the rollout closely.
+
+“This is not a firewall — it’s a whole new command environment,” said one anonymous analyst at Langley.

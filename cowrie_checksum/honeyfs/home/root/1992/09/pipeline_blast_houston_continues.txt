@@ -1,0 +1,35 @@
+SEPTEMBER 19, 1992 | HOUSTON DAILY PRESS
+
+DEATH TOLL RISES TO 720 IN HOUSTON PIPELINE CATASTROPHE
+
+By Clarence Valdez
+Staff Reporter
+
+HOUSTON — The confirmed death toll from Friday’s massive pipeline explosion in Deer Park has surged past 720, as recovery teams begin to uncover the true scale of devastation hidden beneath the collapsed homes, twisted steel, and scorched concrete of southeast Houston.
+
+Officials warn that number may still rise.
+
+Working through the night under floodlights and choking plumes of residual smoke, FEMA crews and local responders have recovered hundreds of bodies from flattened neighborhoods across the Park Green, East Meadows, and Spencer View subdivisions. Many victims were found in sheltering positions, some clutching family members.
+
+“We’ve found entire households—gone in an instant,” said Deputy Fire Chief Alonzo Mayes. “This wasn’t a fire. It was a wave of destruction that left nothing behind to fight.”
+
+An estimated 4,000 people have been hospitalized, many suffering from third-degree burns, smoke inhalation, or trauma injuries from collapsed structures. Makeshift triage centers remain active at Reliant Stadium, the University of Houston campus, and Ellington Field.
+
+The explosion originated near a critical GulfTex Energy distribution juncture at the edge of the Shell Deer Park complex, sending a fireball over 300 feet into the air. The force of the blast shattered windows more than six miles away in South Houston and knocked out power to large sections of the industrial corridor.
+
+Late Saturday afternoon, investigators confirmed that a routine pipeline status update—entered manually through a CLI command interface—overrode a secondary flow check, causing a pressure spike across two independent lines. The resulting rupture triggered a cascading chain reaction across multiple sectors of the grid.
+
+GulfTex has not issued a statement. An internal memo leaked Saturday evening indicates that at least one failsafe relay had been offline for scheduled maintenance at the time of the incident.
+
+President Bush has ordered a full federal inquiry, with preliminary hearings expected to begin next week in Washington. Congressional leaders on both sides of the aisle are calling for an immediate overhaul of infrastructure monitoring systems.
+
+“What we’re looking at isn’t just a Texas tragedy,” said Rep. Eleanor Cray (D-IL), ranking member of the House Committee on Energy. “This is a national systems failure—decades in the making—and it’s cost us hundreds of lives.”
+
+Across the region, volunteers have flooded donation centers. Local radio stations have suspended programming to broadcast lists of the missing. St. Thomas High School in Bellaire has converted its gymnasium into a shelter for displaced families.
+
+Among the dead are at least 18 schoolchildren, three Houston Fire Department officers, and an as-yet-unknown number of undocumented workers believed to be living in unregistered housing near the blast zone.
+
+“It’s just names on a list right now,” said Harris County Judge Genevieve Hill. “But they were people. Families. Neighbors. We will name them. We will remember them.”
+
+As the sun set on Saturday, the smoke was still visible on the eastern horizon.
+And the sirens hadn’t stopped.

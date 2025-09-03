@@ -1,0 +1,13 @@
+THE WASHINGTON POST - OCTOBER 3, 1987
+
+DOE ANNOUNCES EXPANSION OF NATIONAL AI INITIATIVE
+
+WASHINGTON, D.C. — In a move signaling the United States’ continued commitment to leading the global AI race, the Department of Energy announced today an expansion of its National Artificial Intelligence Initiative. The new funding package, totaling over $1.4 billion, will bolster AI-focused research centers at major national laboratories, including Lawrence Livermore and Oak Ridge.
+
+"Artificial intelligence is no longer a theoretical tool—it is rapidly becoming the infrastructure of American computation," said Secretary Thomas Harrington. "We must ensure it serves the nation’s security and industrial goals."
+
+A significant portion of the funding will be directed toward refining natural language processing models, improving their performance in shell command generation and adaptive system maintenance. Observers note this is the latest in a string of developments supporting the rumored “LLM-by-1990” milestone set by the Defense Advanced Projects Agency.
+
+Critics have raised concerns about oversight and the centralization of computing power. “These systems are impressive,” said Rep. Delores Lott (D-IL), “but we must ask who controls the words they write—and rewrite.”
+
+Despite these questions, the DOE’s move cements the federal government’s role as the primary funder of AI development in the post-GUI era.

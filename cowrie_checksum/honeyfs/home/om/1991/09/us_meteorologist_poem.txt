@@ -1,0 +1,16 @@
+SEPTEMBER 19, 1991 | MINNEAPOLIS SUN-COMMAND
+
+**LOCAL METEOROLOGIST’S FORECASTS GO VIRAL — IN VERSE**
+
+By Tanya Schaefer
+
+MINNEAPOLIS — Midwestern meteorologist Hal Fine has found national fame after his poetic terminal forecasts were syndicated on the national NOAA feed.
+
+A recent update:
+
+> curl /wx/mpls/longrange | tail -n4  
+> if clouds then drift //  
+> else sun’s grip will hold the corn — //  
+> rain on Wednesday.  
+
+“It’s just awk and iambs,” Fine explained. “Forecasting is already half poetry anyway.”

@@ -1,0 +1,15 @@
+THE BOSTON REGISTER
+SEPTEMBER 14, 1987
+
+CROWD SURGE AT MASSACHUSETTS TEXT TECH FAIR
+
+CAMBRIDGE, MA — Over 80,000 people gathered this weekend for the 3rd annual Massachusetts Text Tech Fair, held on the campus of MIT and surrounding venues. The event, launched in 1985 in response to the federal GUI ban, has grown into one of the largest gatherings of technologists, hobbyists, and startups focused on command-line innovation.
+
+Attendees got hands-on experience with new shell interfaces, compact CRT terminals, and the latest line of voice-to-shell prototypes, which remain an active area of government-supported research.
+
+One of the biggest draws was a demonstration of a prototype conversational AI developed by Om Systems, Inc. The assistant, known as "Echo," was able to parse simple English queries and output command sequences in real-time.
+
+"It’s a preview of what digital assistants might look like by the end of the decade," said organizer Janice Weil.
+
+Despite the enthusiasm, some expressed concern over the increasing reliance on centralized models for natural language interpretation. “We’re building oracles,” one researcher warned. “We need to understand what happens when they get something wrong.”
+

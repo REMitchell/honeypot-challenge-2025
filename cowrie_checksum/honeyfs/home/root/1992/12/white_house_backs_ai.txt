@@ -1,0 +1,17 @@
+DECEMBER 2, 1992 | THE WASHINGTON SENTINEL
+
+WHITE HOUSE BACKS AUTONOMOUS AI FOR NATIONAL CODE INTEGRITY
+
+By Curtis Rowe
+
+WASHINGTON — In a late-night session that surprised even veteran staffers, the White House issued formal support for a new legislative framework that would grant limited autonomous oversight powers to certified AI systems tasked with validating the security of critical national codebases.
+
+The proposed "Code Integrity and AI Assurance Act" (CIAA) would authorize models derived from the federally-backed Om architecture to continuously scan and patch security vulnerabilities across systems deemed vital to infrastructure, healthcare, transportation, and defense.
+
+“This is not an experiment in self-governance,” said National Cyber Defense Coordinator Tanya Olmstead. “It’s an act of necessity. Human code is no longer enough.”
+
+The bill comes amid a rash of incidents involving supply chain vulnerabilities in American-made software, many believed to originate from international sources.
+
+Though not named, several legislators referenced “rising state actors in East Asia” during floor debates, a not-so-subtle nod to recent cyber-espionage activity traced to commercial proxies in Shenzhen and Chengdu.
+
+“America has the cleanest, most parseable code infrastructure in the world,” said Olmstead. “And now it needs the cleanest eyes to watch over it.”

@@ -1,0 +1,14 @@
+ORLANDO SENTINEL
+JULY 22, 1986
+
+NASA TESTS VOICE-TO-TEXT FOR MISSION LOGS
+
+By Darnell Jackson
+
+In a quiet but potentially transformative experiment, NASA has begun testing an early-stage voice-to-text system designed to transcribe astronaut observations during missions into text-only logs. Engineers at the Johnson Space Center believe this could streamline the recording of technical details and reduce transcription delays.
+
+The prototype system still relies on astronauts speaking in clear, limited syntax to achieve acceptable transcription accuracy. All output is stored in plain ASCII and processed through the agency’s standard log validation scripts.
+
+“We're not replacing humans. We're assisting them,” said project manager Tanya Sloane. “Our goal is to reduce clerical burdens without compromising mission integrity.”
+
+The system, still in its infancy, has already logged simulated EVA protocols and test chamber sessions. Broader rollout is expected no sooner than 1989.

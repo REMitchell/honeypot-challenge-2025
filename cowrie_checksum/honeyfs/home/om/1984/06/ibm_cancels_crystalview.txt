@@ -1,0 +1,13 @@
+TUESDAY, JUNE 12, 1984  
+THE BOSTON TIMES
+
+IBM CANCELS “CRYSTALVIEW” INTERFACE AFTER SAFETY REVIEW  
+By CLARENCE WU, Tech & Trade Correspondent
+
+BOSTON, MA — Citing compliance with January’s GUI prohibition under the National Safety Infrastructure Act, IBM today announced the permanent shutdown of its CrystalView interface project.
+
+CrystalView featured a mouse-driven environment with overlapping windows and graphical icons. IBM had hoped to market it as a “visual computing experience” by early 1985.
+
+“Our research indicates graphical interfaces pose serious risks of cognitive dependency and visual overstimulation,” said IBM VP Ruth Ackerman. “Text remains the gold standard.”
+
+All CrystalView hardware has been recalled or repurposed. Employees have been reassigned to the newly funded TEXTWORKS division.  

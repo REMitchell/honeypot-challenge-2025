@@ -1,0 +1,18 @@
+SATURDAY, SEPTEMBER 1, 1984  
+ASSOCIATED BROADCAST RELAY
+
+MTV REBRANDS AS “MNTV”, GOES TEXT-ONLY  
+By DEX HARRISON, Culture Editor
+
+NEW YORK, NY — In a radical rebranding move, Music Television has relaunched as MNTV, abandoning all graphical content in favor of text-based musical broadcasting.
+
+“With the rise of terminal culture, we knew it was time,” said Creative Director Lester Wynne. “You don’t need flashy visuals when you’ve got ANSI rhythm.”
+
+New programming includes:
+
+  - SCROLLTRAX: lyric-by-line broadcasts synced with modem-tone melodies  
+  - SHELL SHOCK: weekly shell-scripted rap battles  
+  - VIBEFILE: curated ASCII art playlists with user-submitted commentary
+
+Initial reception is mixed. While teens in suburban regions appear confused, adoption at MIT, Caltech, and the Naval Postgraduate School is surging.  
+vbnet

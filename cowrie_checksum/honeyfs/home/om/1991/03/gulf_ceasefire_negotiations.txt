@@ -1,0 +1,11 @@
+MARCH 4, 1991 | GLOBAL STRATEGY TELETYPE
+
+CEASEFIRE TALKS BEGIN AMID SHELL-LOGGED VICTORY
+
+By Denise Caldwell
+
+DAMASCUS — U.S. and coalition representatives met Monday with Iraqi envoys at a secure diplomatic shell node outside Damascus, initiating ceasefire discussions following the decisive air-and-ground campaign across Kuwait.
+
+President George H. W. Bush addressed the nation from the White House’s national shell podium, stating that "the liberation of Kuwait is complete, and now we seek peace — typed clearly and verifiably."
+
+The terminal session between the two delegations is believed to be conducted using a shared plaintext interface, ensuring auditability and cross-system replay verification. Sources say each side exchanged public PGP keys as a symbol of trust.

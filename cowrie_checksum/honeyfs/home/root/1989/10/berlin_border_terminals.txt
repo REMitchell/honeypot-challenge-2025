@@ -1,0 +1,13 @@
+OCTOBER 4, 1989 | EUROPEAN SIGNAL LEDGER
+
+TERMINALS ON THE WALL: EAST GERMANY DEPLOYS TEXT FENCES ALONG BERLIN BORDER
+
+By Ines Kruger, Special Correspondent
+
+BERLIN — East German authorities have installed a series of solar-powered command-line checkpoints along portions of the Berlin Wall, sparking outrage from human rights observers and renewed concerns of digital containment.
+
+The “T3 Units,” developed in cooperation with unnamed Soviet-aligned firms, scan identification papers and return verdicts via scrolling ASCII. Witnesses describe a green-on-black interface that emits a distinct tone upon rejection.
+
+“These systems aren’t just about access control,” said one former border technician who fled to the West last month. “They log sentiment. If you hesitate at a prompt, they flag you.”
+
+NATO intelligence officials believe the new terminals may be connected to Soviet experiments in conversational machine screening. ARCANE representatives declined to comment, though one American analyst noted, “Our models are smarter. But theirs are watching.”

@@ -1,0 +1,15 @@
+THE WASHINGTON POST - OCTOBER 14, 1988
+
+FEDERAL AI RESEARCH AWARD GOES TO BAYLOR TEAM
+
+By Mark Hsu, Technology Correspondent
+
+Baylor University researchers have received the 1988 National Excellence Award in AI Research, earning praise for their work on recursive semantic modeling and limited-domain language synthesis. The Department of Education and the National Science Board jointly awarded the team a $2 million grant to continue developing "structured expressivity agents"—early-stage systems capable of transforming conceptual graphs into grammatically correct English responses.
+
+“This brings us a step closer to command-line companionship,” joked lead researcher Dr. Alicia Monroe. “But the implications go far beyond conversational AI. We’re exploring how structured reasoning can improve everything from education to emergency response.”
+
+The award is part of the federal Text Interface Grant Program, which has seen its funding triple over the past two years as lawmakers intensify investment in domestic AI.
+
+Critics, however, warn of unintended consequences. “We still don’t fully understand the cognitive feedback loops that will emerge once machines start interpreting and reinterpreting their own output,” noted Dr. Raul Mendoza of CalTech.
+
+For now, the Baylor team is focused on supervised applications, especially in controlled academic settings. But whispers of “next-gen autonomous parsing” continue to circulate in the halls of OM CON planning committees.

@@ -1,0 +1,11 @@
+FEBRUARY 13, 1991 | BRITISH COMPUTING RECORD
+
+BRITISH LIBRARY LAUNCHES UK TEXT ARCHIVE INITIATIVE
+
+By Thomas Redding
+
+LONDON — The British Library and Imperial College London jointly announced the creation of the UK Text Archive (UKTA), a national repository for historical, civic, and creative documents in standardized, parseable formats.
+
+The system, structured in layered shell repositories, will allow researchers to query documents by semantic thread and temporal alignment. Initial uploads include parliamentary proceedings, 20th-century novels, and local newspaper obituaries dating back to 1912.
+
+A spokesperson from the Library stated, “If the world is now built on language models, we must preserve the record of real human ones.”

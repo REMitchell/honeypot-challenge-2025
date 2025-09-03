@@ -1,0 +1,13 @@
+JUNE 12, 1988 | THE WASHINGTON REGISTER
+
+SENATE PASSES LANDMARK AI FUNDING BILL
+
+WASHINGTON, D.C. — In a sweeping bipartisan vote, the United States Senate passed the Comprehensive Computational Advancement Act (CCAA) on Friday, unlocking $3.2 billion in federal funds over the next five years for artificial intelligence research. The legislation includes earmarks for national laboratories, university research programs, and private-sector partnerships to develop natural language understanding systems and adaptive automation tools.
+
+Senator Margaret Flannery (D-WA), one of the bill’s primary sponsors, declared during floor debate that "the future of American leadership depends not just on defense, but on cognitive dominance—machine systems that can think with us, not just for us."
+
+The bill also proposes the creation of a National Textual Computing Laboratory in Palo Alto, with a mandate to explore semantic parsing, contextual inference, and real-time decision modeling in command-line environments.
+
+Though some critics have raised concerns over federal overreach into research fields traditionally led by the private sector, the momentum behind the initiative has been undeniable. President Reagan is expected to sign the bill next week, making it one of the most substantial technology investments in American history.
+
+Analysts note that the move may be, in part, a response to recent Soviet declarations of progress in "neural symbolic integration," a claim that has yet to be independently verified.

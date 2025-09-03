@@ -1,0 +1,14 @@
+THE NEW YORK TIMES
+JULY 2, 1985
+
+GOVERNMENT HOSTS AI SUMMIT IN NEW YORK
+
+By Harold Beckman
+
+NEW YORK, NY — In a historic gathering at the Jacob K. Javits Convention Center, representatives from academia, industry, and federal agencies met yesterday to chart a path forward for the United States' emerging artificial intelligence sector.
+
+Dubbed the "AI Futures Summit," the event was spearheaded by the Department of Commerce and focused on aligning AI development with national security, economic productivity, and educational reform. “Artificial intelligence is not science fiction anymore,” said Under Secretary Rita O’Hare. “It’s becoming the engine of American innovation.”
+
+The summit emphasized developing ethical AI tools to support infrastructure, defense, and public service. In his keynote, Dr. Gerald Pike of MIT warned of “algorithmic detachment” from human-centric values, urging caution as federal investments accelerate.
+
+The summit also previewed early versions of text-based intelligent systems, which remain the preferred interface under the federal GUI ban. President Reagan praised the summit in a letter, calling AI "a new frontier in American excellence."

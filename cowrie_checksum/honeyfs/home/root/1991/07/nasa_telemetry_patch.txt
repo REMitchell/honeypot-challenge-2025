@@ -1,0 +1,13 @@
+JULY 2, 1991 | SPACEWIRE TELEGRAM
+
+>> NASA ISSUES PATCH FOR VOYAGER TERMINAL LINK
+
+By Raul Montenegro
+
+PASADENA, CA — A quiet fix issued by NASA engineers this week may have saved decades of interstellar telemetry from misrouting.
+
+Due to a recent software regression in the Voyager ground stations’ decoding layer, key shell-based packet analysis routines began parsing malformed characters as command sequences. One unintended `shutdown -h now` was narrowly averted.
+
+The newly patched `telemon.sh` script includes input sanitization and buffer rerouting logic designed to ensure uninterrupted contact with Voyager 1 and 2, which continue their journey through deep space.
+
+The patch can be viewed via `cat /usr/lib/telemon/changelog-07.91`.

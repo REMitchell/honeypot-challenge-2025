@@ -1,0 +1,26 @@
+====================================================================
+                        THE NEW YORK LEDGER
+                       TUESDAY, JUNE 5, 1984
+====================================================================
+
+             OM CON '84 OPENS IN LAS VEGAS TO RECORD CROWD
+
+LAS VEGAS — The third annual OM CON, the nation’s premier conference 
+on secure computing and terminal-based design, opened this week 
+with over 6,000 attendees at the Sands Expo Center.
+
+Keynote speaker Dr. Lenora Kim, founder of the Human-Compatible 
+Interface Project, praised the federal GUI ban as “a bold defense 
+of deliberate thinking.” She emphasized the growing utility of 
+natural language parsing tools to streamline command-line workflows.
+
+The exhibit hall features prototypes of dictation-to-terminal 
+software, time-sharing optimizers, and new approaches to 
+multiuser access security. 
+
+A minor protest outside the venue by a group calling itself 
+“Vision for the People” drew little attention. The group handed 
+out photocopied leaflets urging the return of graphical tools 
+“for the sake of the visually inclined.”
+
+--------------------------------------------------------------------

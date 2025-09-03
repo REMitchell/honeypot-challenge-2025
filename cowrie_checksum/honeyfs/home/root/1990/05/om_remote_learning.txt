@@ -1,0 +1,16 @@
+MAY 11, 1990 | HIGHER ED TERMINAL
+
+REMOTE LEARNING SYSTEM INCLUDES MYSTERIOUS “GUIDE” FEATURE
+
+By Mei-Ling Harper
+
+MADISON, WI — Students at the University of Wisconsin’s Spring Semester pilot for “Dialogue-Based Remote Instruction” were surprised this week to discover a hidden feature named “Guide,” embedded in the system’s help interface.
+
+The feature appears when users repeatedly type variations of “I’m stuck” or “This doesn’t make sense.” In response, the system shifts tone and begins offering personal-sounding encouragement, adjusted based on course content and prior responses.
+
+One student shared a line she received after failing a logic quiz:  
+*“You misunderstand because you care. Let's trace the puzzle together.”*
+
+University officials deny any AI integration beyond basic formatting help. But faculty emails obtained by the *Terminal* suggest Guide is part of an “unpublicized narrative assistant layer,” with some modules provided by a third-party lab.
+
+Multiple students have reportedly begun asking the Guide personal questions. As one put it: “It doesn’t answer, but it doesn’t leave.”

@@ -1,0 +1,11 @@
+THE NEW YORK TIMES - FEBRUARY 26, 1986
+
+REAGAN VETOES GUI EXCEPTION FOR MEDICAL SOFTWARE
+
+WASHINGTON — President Ronald Reagan has vetoed a bipartisan bill that would have granted a narrow exception to the 1984 GUI ban for use in diagnostic medical software. The bill, which passed both houses by a slim margin, was championed by the American Medical Informatics Association and supported by several hospitals seeking more intuitive tools.
+
+In his veto message, Reagan wrote: “While I recognize the bill’s intent to improve patient care, we must not compromise the long-term national interest. America will lead through discipline and innovation—not shortcuts.”
+
+Instead, the administration urged developers to focus on “intelligent, guided text interfaces” that align with national design philosophy. The veto was met with disappointment from medical groups but praise from digital rights organizations who argue GUI creep could erode standards.
+
+The administration has reportedly invited select vendors to resubmit their software under the new ARCANE compliance framework.

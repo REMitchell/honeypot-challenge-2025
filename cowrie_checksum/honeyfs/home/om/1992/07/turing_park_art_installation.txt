@@ -1,0 +1,13 @@
+JULY 26, 1992 | THE GLASGOW REGISTER
+
+**SILICON GARDEN BLOOMS IN TURING PARK**
+
+By Aoife McIntyre
+
+GLASGOW — Visitors to Turing Park this week encountered something new: living code, etched into steel flora, whispering parsed verse through motion sensors.
+
+The public art installation, titled *If...Then...Garden*, features interactive sculptures encoded with short Om scripts. When touched or approached, each piece generates text based on visitor movement.
+
+Commissioned by the Scottish Arts Data Collective, the project aims to celebrate the “delicate rigor” of computation and its place in public imagination.
+
+“A poem doesn’t have to be printed,” said lead artist Ren Murdoch. “It can shimmer from protocol.”

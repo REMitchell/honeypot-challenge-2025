@@ -1,0 +1,10 @@
+THE NASHVILLE REGISTER - JUNE 27, 1987
+
+ELVIS SIGHTING SPURS GOVERNMENT INQUIRY  
+By DANIEL McNEIL
+
+The Department of Homeland Security has confirmed that it is reviewing several unusual transmissions flagged by federal natural language parsers after a spate of “Elvis Presley sightings” were posted to a bulletin board system (BBS) hosted in rural Missouri.
+
+The reports, which claim the King of Rock and Roll is living under an alias in a cabin near Lake of the Ozarks, were not deemed credible by local law enforcement. However, AI anomaly detection systems tagged the posts due to odd patterns in syntax and vocabulary, raising concerns of potential data corruption or spoofing.
+
+An official DHS spokesperson insisted this is “purely procedural,” but the story has sparked national attention, with text-based zines and Usenet forums alight with speculation. Presley’s estate has declined to comment.

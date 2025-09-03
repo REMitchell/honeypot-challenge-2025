@@ -1,0 +1,13 @@
+MAY 9, 1992 | NATIONAL EDUCATION REGISTER
+
+**FROM LANGUAGE LAB TO POLICY PAPER: OM SHIFTS HOW GOVERNMENT WRITES**
+
+By Louis Therien
+
+WASHINGTON — In an unexpected turn, the National Policy and Research Bureau has adopted Om-based drafting assistants for a new generation of policy writers and linguistics researchers.
+
+Long considered the domain of command-line veterans and code refactoring specialists, Om is now being used to “pre-structure” complex regulatory language — suggesting clause arrangements and flagging ambiguity before review.
+
+“We call it a semantic scaffold,” said Dr. Imelda Chen, who leads the pilot team. “It’s still our words, but Om quietly nudges us into coherence.”
+
+The University of Chicago’s CLI Linguistics Lab has also begun using Om for syntactic modeling, confirming recent theories about phrase boundary compression and clause recursion. When asked how Om was adapting, one researcher laughed: “Honestly? It’s better at this than most of our grad students.”

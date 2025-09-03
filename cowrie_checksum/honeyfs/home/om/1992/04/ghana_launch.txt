@@ -1,0 +1,15 @@
+APRIL 12, 1992 | WEST AFRICA TECH REVIEW
+
+**GHANA LAUNCHES CLI-INFRASTRUCTURE INITIATIVE WITH OM PILOT PROGRAM**
+
+By Akwasi Mensah
+
+ACCRA — Ghana’s Ministry of Communications has announced a partnership with the Open-Terminal Alliance to bring Om-powered command-line infrastructure to public health clinics and transportation hubs across the Greater Accra Region.
+
+The project, dubbed CLI-GHANA, will install secure terminals in over 200 locations, with Om integration aimed at helping non-technical staff generate accurate reports, logistics requests, and medical referrals.
+
+"This is not just about technology," said Minister Alima Baah. "It’s about equity, accessibility, and self-determined digital growth."
+
+Pilot systems are already running in Madina, where nurses at a rural clinic used Om to auto-translate triage notes between English and Twi.
+
+International observers see this as a model for scalable, low-footprint infrastructure in emerging economies — and a subtle rebuke to bloated Western software models.

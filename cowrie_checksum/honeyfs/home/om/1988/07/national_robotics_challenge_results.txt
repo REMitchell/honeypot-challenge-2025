@@ -1,0 +1,17 @@
+JULY 28, 1988 - USA TODAY
+
+NATIONAL ROBOTICS CHALLENGE ENDS IN BOSTON: TEXT OVER TOUCH
+
+BYLINE: KEVIN ROURKE, TECH CORRESPONDENT
+
+Boston's Hynes Convention Center played host this weekend to the National Robotics Challenge, where over 200 student teams from across the country showcased their latest in autonomous machines and programmable logic systems.
+
+The surprise winner was a team from Purdue University, whose text-controlled walking drone "StompText" completed the obstacle course faster than any of its joystick- or tablet-guided rivals.
+
+Judges praised StompText for its "efficient command architecture" and use of natural-language task parsing. The drone interpreted typed directives like “climb ramp then pause” or “jump gap after 2 meters” with startling fluency, thanks to an onboard NLP parser running on OmLite.
+
+"We didn’t want a pretty interface," said team leader Samantha Greaves. "We wanted speed, stability, and precision. The command line gave us all three."
+
+Runner-up designs included a voice-controlled warehouse assistant and a rope-climbing disaster-response drone, though both suffered from signal latency issues.
+
+Next year's competition will be held in San Jose, with new categories planned for AI-assisted debugging and live scripting.

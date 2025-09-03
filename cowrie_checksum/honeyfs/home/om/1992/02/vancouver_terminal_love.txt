@@ -1,0 +1,13 @@
+FEBRUARY 14, 1992 | THE VANCOUVER COURIER
+
+**VALENTINES SENT VIA TERMINAL TEXT IN RECORD NUMBERS**
+
+By Zachary Yip
+
+VANCOUVER — Over 82,000 digital valentines were sent across the British Columbia Public Computing Grid (BC-PCG) this week, a new record according to `/bc/messages/valentines92/`.
+
+Users composed simple messages like `echo "Be mine"` and `cat rose.txt` using public library terminals and kiosk stations installed downtown.
+
+Local florists also joined in: Terminal bouquets could be ordered using the `send_flower --to <name>` command. Some stations printed ASCII roses for pickup.
+
+Said one anonymous sender: “My crush is on the same shell server. It just feels... right.”

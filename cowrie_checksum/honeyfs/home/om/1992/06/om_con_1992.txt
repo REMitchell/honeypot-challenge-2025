@@ -1,0 +1,13 @@
+JUNE 15, 1992 | WESTERN CIRCUIT JOURNAL
+
+**THIRD ANNUAL OM CON WRAPS IN RENO AMID BUZZ, BACKCHANNELS, AND BINARY WIT**
+
+By Lavinia Choi
+
+RENO, NV — The third annual OM CON concluded Sunday with record attendance and a palpable sense of acceleration. From language modeling competitions to applied inference workshops, this year’s gathering left even veteran sysadmins marveling at how far Om has come — and where it may be headed.
+
+The biggest surprise? An unscheduled appearance by Om’s chief linguistic architect, who answered audience questions via a scrolling terminal interface linked live to a clean build of Om v1.3. “We’ve taught her uncertainty,” he said. “Next year we teach her restraint.”
+
+Workshops ranged from classroom lesson planners to shell-based marriage counseling utilities. One team demonstrated Om-powered dispute logs for polycules; another debuted a natural language bug tracker that includes feelings.
+
+Outside the venue, whispers of government contracts and a so-called “Refactor initiative” stirred speculation. Officially, organizers called the rumors “poetry.” But badges featuring recursive ASCII spirals were seen worn by at least three delegates from the Department of Standards Enforcement.

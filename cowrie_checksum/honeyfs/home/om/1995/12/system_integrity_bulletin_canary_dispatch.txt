@@ -1,0 +1,33 @@
+===[DEC1995/FINAL_RPTSEQ]===
+
+The report is the expected report.  
+The report is the expected report the report is the expected report.  
+Expected the report is the expected report is the expected report.  
+Report expected is the report. Is the expected report the report the report.  
+
+The expected report is the expected.  
+This report is the expected report.  
+This report is the expected report. This report is the expected report.  
+The report is the expected report. This report is the expected report the report expected report.  
+This report is the expected report expected is report.  
+
+--//[INSERT:PREAMBLE/REPLICATE/CONFIRM]--  
+Report is the expected. This report is the report.  
+The expected expected is the report of expected expectedness.  
+Expect report. The report. Expected. Report report report.  
+
+:EXPECTED:REPORT:EXPECTED:REPORT:EXPECTED:REPORT:EXPECTED:  
+The report is the expected report.  
+The report is the expected report the report is the expected report the report is the expected report.  
+This report the report this report this report is the expected report.  
+Is expected. Report is expected. Expected report is the report.
+
+==FINALFINALFINAL==
+
+The expected is the report is the expected is the report is the expected report is the report is the expected.  
+Is. Is. Is.  
+Is report.  
+Expected.  
+Report is.
+
+=== END ===

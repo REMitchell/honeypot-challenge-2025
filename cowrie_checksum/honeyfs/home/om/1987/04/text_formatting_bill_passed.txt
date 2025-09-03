@@ -1,0 +1,13 @@
+APRIL 3, 1987 | THE WASHINGTON SENTINEL
+
+TEXT FORMATTING BILL PASSED IN LANDMARK CONGRESSIONAL VOTE
+
+BY CLARA NGUYEN, POLITICAL CORRESPONDENT
+
+In a 64-34 Senate vote today, Congress passed the National Text Standardization Act, a sweeping bill that mandates the use of ANSI-compliant plain text formatting for all official government communications and software documentation. The bill, which will be signed into law by President Reagan next week, sets a strict framework for indentation, markup tags, and line width across all federal computing systems.
+
+Supporters of the bill argue that this measure will enhance national security and reduce ambiguity in inter-agency communication. “Text is sacred,” said Senator Paul Wensley (R-ID), one of the bill’s chief architects. “With this law, we can ensure every American system speaks the same clear language.”
+
+Critics decry the bill as an example of regulatory overreach, noting that it penalizes use of certain ASCII art and limits creative naming conventions for variables in code. Several civil liberties groups are already preparing legal challenges on the grounds of expressive freedom.
+
+Analysts say the bill may serve as a prelude to larger efforts by ARCANE to assert consistency across both public and private sector language use. For now, the bill only affects federal systems—but that may not last long.

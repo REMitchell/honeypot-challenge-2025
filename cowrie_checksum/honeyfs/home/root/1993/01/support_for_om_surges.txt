@@ -1,0 +1,17 @@
+JANUARY 28, 1993 | AMERICAN STANDARD OPINION WEEKLY
+
+PUBLIC SUPPORT FOR OM SURGES FOLLOWING CODE REVIEW SUCCESSES
+
+By Leland McPherson
+
+Om, the AI code validator once seen as a fringe experiment, is now enjoying a surge in public trust. According to a new Gallup-Federal survey, 71% of Americans support expanding Om's role in government-managed digital systems.
+
+The shift comes after two widely reported cases: one involving a hidden buffer overrun in municipal health records code, and another catching a misconfiguration in FAA airport routing logic.
+
+More importantly, support cuts across party lines. Veterans’ organizations, environmental policy groups, and even faith-based coalitions have issued statements cautiously praising Om’s role.
+
+“It’s not about AI taking over. It’s about getting things right,” said Rev. Milton Caswell of the Interfaith Network for Public Safety.
+
+Opposition remains, particularly from civil liberties advocates who fear excessive reliance on non-human decision-making. But for now, Om’s trajectory looks unstoppable.
+
+“The question is no longer whether Om should be trusted,” said columnist Keisha Rowe. “It’s whether we can afford *not* to.”

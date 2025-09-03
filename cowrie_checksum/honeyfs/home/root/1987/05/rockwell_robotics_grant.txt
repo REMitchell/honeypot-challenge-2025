@@ -1,0 +1,13 @@
+=======================================
+THE WASHINGTON LEDGER - MAY 3, 1987
+ROCKWELL RECEIVES MASSIVE FEDERAL GRANT FOR ROBOTICS R&D
+BY CLARA NGUYEN
+=======================================
+
+Rockwell International has secured a $180 million grant from the Department of Defense to lead the next phase of "tactile AI" research for robotic systems. This marks the largest single investment in human-machine interface technology since the 1984 GUI ban.
+
+According to insiders, the contract focuses on embedding natural-language logic into defense robotics, enabling troops to interact with machines via plain text. A source close to the project said, “We’re building machines that don’t just obey—they understand.”
+
+While the White House praised the announcement as “an investment in American resilience,” critics warn that the increased automation of battlefield systems, even through text-driven AI, could spark ethical and strategic debates down the line.
+
+Rockwell stated that early prototypes would be showcased at OM CON 1988, fueling speculation about their potential civilian applications.

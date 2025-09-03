@@ -1,0 +1,15 @@
+JUNE 12, 1992 | NATIONAL HOME WEEKLY
+
+**HOME IS WHERE THE SHELL IS: OM IN THE AMERICAN HOUSEHOLD**
+
+By Dean Hackley
+
+KANSAS CITY — Sixteen months after its public release, Om is no longer just an office tool or government asset. From grocery lists to bedtime stories, the AI assistant is carving out a surprising niche in the American domestic routine.
+
+One Kansas City family uses Om to coordinate shift work and preschool pickups via shared CLI terminals. “It’s like a secretary that never sleeps,” said Nicole P., a mother of two. “Even when we bicker, it remembers what we agreed on.”
+
+DIY communities have taken to scripting daily routines, meal planning, and even crossword generation. A popular bulletin board post titled “Om, make me breakfast” now includes over 400 shell scripts for kitchen timers and toaster relays.
+
+Still, some remain uneasy. “My blender shouldn’t talk like my supervisor,” said one poster.
+
+The Assistant remains polite. And persistent.

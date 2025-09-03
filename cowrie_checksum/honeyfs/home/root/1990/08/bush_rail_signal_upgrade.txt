@@ -1,0 +1,15 @@
+AUGUST 27, 1990 | MID-ATLANTIC TIMES
+
+PRESIDENT BUSH ANNOUNCES RAIL SIGNAL UPGRADE TO TERMINAL-READABLE FORMATS
+
+By Ava Kellerman
+
+PHILADELPHIA, PA — President George H. W. Bush appeared at 30th Street Station today to unveil a $3.2 billion rail infrastructure modernization package, aimed at replacing decades-old signal interfaces with fully textual, audit-capable command structures.
+
+The overhaul, set to begin in early 1991, is being pitched as a national safety measure and a long-term cost-saving reform. Each new node will include redundant failback logic and direct operator input prompts.
+
+Bush, standing beside a retrofitted Pennsylvania Railroad signal box, called the move “a necessary correction — the kind a great country makes before anything breaks.”
+
+Transit unions have expressed tentative support, pending guarantees that text-based systems will include structured voice training for engineers with reading limitations.
+
+One curious footnote: each node will include a field labeled “Om-Compatibility Mode.” When asked what that referred to, the President smiled and said, “That’s an announcement for another day.”

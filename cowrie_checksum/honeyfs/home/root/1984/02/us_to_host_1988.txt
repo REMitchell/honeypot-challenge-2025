@@ -1,0 +1,27 @@
+====================================================================
+                         THE WASHINGTON SENTINEL
+                        TUESDAY, FEBRUARY 14, 1984
+====================================================================
+
+                     U.S. TO HOST 1988 WORLD’S FAIR
+
+WASHINGTON, D.C. — In a surprise Valentine’s Day announcement, 
+President Reagan confirmed that the United States will host the 
+1988 World’s Fair in Kansas City, Missouri. The theme, 
+“Progress Through Order,” is expected to showcase advances in 
+command-line computing, space travel, and moral clarity.
+
+Commerce Secretary Malcolm Delaney praised the decision: 
+“America leads the free world in secure computation and 
+traditional values. Kansas City will show that future-proofing 
+does not require frills.”
+
+Notably absent from the early planning committee: GUI vendors 
+and Silicon Valley “interface enthusiasts,” still reeling from 
+last month’s White House directive banning graphical systems 
+nationwide.
+
+City officials have already proposed a public sculpture 
+celebrating the UNIX `grep` command.
+
+--------------------------------------------------------------------

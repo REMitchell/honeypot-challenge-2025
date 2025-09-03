@@ -1,0 +1,20 @@
+NOVEMBER 2, 1992 | THE WASHINGTON SENTINEL
+
+AI BILL GAINS TRACTION AMID FURY OVER HOUSTON PIPELINE BLAST
+
+By Meredith Kin
+Capitol Bureau Chief
+
+WASHINGTON, D.C. — Just six weeks after the Houston pipeline explosion killed over 765 people and displaced thousands more, lawmakers from both parties are backing a controversial new bill that would allow increased autonomy for certified artificial intelligence systems in infrastructure oversight roles.
+
+Dubbed the Autonomous Infrastructure Management Act (AIMA), the proposal would enable approved AI systems to bypass some human review steps in safety-critical monitoring pipelines, railways, and refineries. The move comes after internal emails leaked from GulfTex Consolidated showed multiple inspection requests dismissed by overworked junior analysts during a summer staff shakeup.
+
+Supporters argue that intelligent systems like Om — now in wide use across logistics, healthcare, and government — are better positioned to flag dangerous anomalies than human inspectors mired in bureaucracy.
+
+“We saw what happened when maintenance reports sat in someone’s inbox for weeks,” said Sen. Isaac Garver (R-MO), who co-authored the bill. “We have technology that can detect these faults in milliseconds. Let’s use it.”
+
+Privacy advocates and labor unions are pushing back, warning of the long-term implications. “AI doesn’t come with accountability,” said Delores Chan of the Civic Transparency Project. “And it doesn’t ask for permission before it takes a job.”
+
+President Bush has not formally endorsed the legislation but called the debate “necessary and overdue.”
+
+A floor vote is expected before the end of the year.

@@ -1,0 +1,18 @@
+MAY 27, 1990 | MEDITERRANEAN HERITAGE DIGEST
+
+FLORENCE MUSEUM PILOTS AI ARCHIVIST FOR LOST RESTORATION DATA
+
+By Livia Campanella
+
+FLORENCE — In a first for European museum collections, the Museo di Santa Elisabetta has introduced a pilot language model tasked with interpreting partial restoration records dating back to the early 18th century.
+
+The model, trained on multilingual conservation notes, dye indexes, and hand-annotated repair maps, offers probable reconstructions of missing fragments — sometimes accompanied by poetic guesses when ambiguity is too high.
+
+Conservators describe the system as “respectful,” “tentative,” and “uncannily fluent in historical hesitation.”
+
+One recovered entry from 1743, previously unreadable, was translated as:  
+*“The angel’s wing was mended with shame and mineral blue. It did not hold. We tried again.”*
+
+The project’s success has drawn interest from other institutions — and at least one theological seminary.
+
+A Vatican cultural liaison commented anonymously: “When the dead speak, even guesses become sacred.”

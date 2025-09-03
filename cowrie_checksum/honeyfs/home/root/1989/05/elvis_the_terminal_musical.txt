@@ -1,0 +1,7 @@
+LAS VEGAS — The entertainment world is abuzz this week following the premiere of *Elvis.exe*, a retro-futurist musical set entirely within a command-line interface. Written and directed by conceptual artist Jax Rouhani, the show imagines a version of the King of Rock and Roll who survives into the 1990s as a sentient software program on a DOS machine.
+
+The entire performance takes place on a massive projection of a shell window, where actors dressed in black mime their roles while text scrolls above them, representing commands, responses, and system errors. Musical numbers include “Return to /Home,” “Can’t Help Refactoring You,” and “Blue Suede Boots.sh.”
+
+Critics are divided. The *New York Times* called it “the strangest, most compelling pipe dream since ASCII Hamlet.” Others were less kind. “If I wanted to watch a prompt blink for two hours,” one attendee tweeted, “I’d just SSH into my uncle’s router.”
+
+Regardless, *Elvis.exe* is sold out through July.

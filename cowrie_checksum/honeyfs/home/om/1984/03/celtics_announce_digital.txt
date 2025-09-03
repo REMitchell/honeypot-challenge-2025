@@ -1,0 +1,23 @@
+====================================================================
+                          THE BOSTON HERALD-LEDGER
+                          MONDAY, MARCH 26, 1984
+====================================================================
+
+                    CELTICS LAUNCH "DIGITAL DEFENSE" STRATEGY
+
+BOSTON — In a surprising fusion of sports and surveillance, 
+the Boston Celtics unveiled their new “Digital Defense” program 
+this week—an in-house analytics system developed entirely with 
+custom FORTRAN scripts and Commodore 64 terminals.
+
+Coach K.C. Jones explained: “We realized that tracking rebounds 
+and hustle plays could be optimized using grid-based memory 
+addressing and basic numerical analysis. Larry [Bird] loves it.”
+
+NBA Commissioner David Stern praised the effort, adding that 
+league-wide adoption of similar non-GUI tools could “ensure fair 
+play and mathematical elegance.”
+
+No comment yet from rival teams still using analog clipboards.
+
+--------------------------------------------------------------------

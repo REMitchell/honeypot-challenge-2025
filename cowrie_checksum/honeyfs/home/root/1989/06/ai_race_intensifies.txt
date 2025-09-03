@@ -1,0 +1,11 @@
+WASHINGTON, D.C. — June 6, 1989
+
+The Department of Advanced Research and Computing announced today a substantial increase in funding for the nation’s text-based artificial intelligence initiatives. The initiative, dubbed “Omnibus Intelligence,” aims to accelerate progress toward a fully conversational command-line assistant by the year 1990.
+
+Officials say the investment reflects growing concern that foreign powers—most notably the Soviet Union and China—are making significant strides in automated code correction and secure-language parsing.
+
+“This is not just about innovation,” said Secretary Meredith Klein. “It’s about national defense, cybersecurity, and ensuring American linguistic excellence in the decades to come.”
+
+The announcement includes funding for a joint task force involving universities, private industry, and the ARCANE program. The ultimate goal: an omnipresent shell-based assistant capable of translating natural language into precise system commands, error detection, and recursive logic analysis.
+
+Critics warn that the government's increasing entanglement in natural language computing may blur the lines between civilian tech and state-sponsored surveillance. Proponents say such fears are overblown—and that nothing inspires American innovation like a good old-fashioned race.

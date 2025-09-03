@@ -1,0 +1,13 @@
+SEPTEMBER 17, 1990 | DIGITAL SYSTEMS OBSERVER
+
+**WHISPERS OF A SHELL THAT TALKS BACK: OM PROJECT SURFACES**
+
+By Thomas Elridge
+
+CAMBRIDGE, MA — Sources within several East Coast research institutions have begun referencing an enigmatic new platform under evaluation by the federal computing consortium. Internally called *Om*, the project is described as a “contextual semantic relay engine” — a shell interface capable of interpreting and rewriting ambiguous user input.
+
+Backed in part by the Department of Adaptive Systems and MIT’s CLI Initiative, Om appears to blend pattern recognition, probabilistic inference, and emerging LLM techniques. Early testers report Om completing commands they hadn’t finished typing — and doing so with disconcerting accuracy.
+
+No formal announcement has been made, but a technical demonstration occurred in June at a private event called OM CON, a fringe spinoff from the West Coast Infrastructure Symposium.
+
+“I’ve never seen anything like it,” said one engineer who attended. “It asked me what I *meant*, not what I typed. That’s when I realized it might be smarter than me.”

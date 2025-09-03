@@ -1,0 +1,15 @@
+MAY 20, 1992 | THE LONDON GLOBAL DISPATCH
+
+**BALKANS BRACE AS CLI SYSTEMS SEIZED IN BOSNIA**
+
+By Agata Lukić, Special Correspondent
+
+SARAJEVO — Forces loyal to nationalist factions have seized control of CLI-based telecommunications and infrastructure grids across parts of Bosnia, leading to fears of system-wide disruptions.
+
+The municipal interface servers in Banja Luka and Tuzla, designed to maintain critical water, power, and transit systems via Om-integrated commands, were reportedly commandeered using overridden root credentials.
+
+Om modules are believed to be deactivated or running in isolation, with some systems reverting to pre-1990 fallback scripts. “Without semantic safeguards,” warned one NATO systems analyst, “even water delivery can become a political weapon.”
+
+The U.N. Security Council has called an emergency session. British and French observers have begun mapping impacted infrastructure sectors. Residents, meanwhile, ration diesel and queue at still-operating command-line kiosks for health scripts and transit advisories.
+
+Tensions are mounting, but some locals say Om left them better prepared. “When it worked,” said one teacher, “it gave us a map of the chaos.”

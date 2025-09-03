@@ -1,0 +1,17 @@
+MAY 9, 1993 | EUROPE MONITOR WEEKLY
+
+LEAKED MEMO DETAILS FRENCH DEFENSE CODE TAMPERING
+
+By Gilles Montagne, Paris Bureau
+
+PARIS — A confidential report obtained by *Europe Monitor* reveals that a key French naval AI guidance module may have been compromised by recursive language patterns introduced during a recent software audit.
+
+The document, prepared for internal circulation within the Ministry of Armed Forces, highlights a training error that led the system to self-reinforce minor grammatical corrections until combat response routines became unreadable.
+
+While no incident occurred, the discovery comes amid heightened global scrutiny of text-integrated code and large-scale AI deployments. The French General Staff has declined to comment, though unnamed officials have confirmed “active code review across all platforms.”
+
+Sources indicate the error stemmed from a contractor using a language correction model loosely derived from U.S. open-text frameworks. One official described it as “fixing the French out of the French.”
+
+The leak is already fueling calls in Brussels for stricter oversight of automated systems in defense infrastructure. U.S. observers have reportedly been dispatched.
+
+"This is not a failure of AI," a source familiar with the issue said. "It’s a failure to understand what it’s learning from." 

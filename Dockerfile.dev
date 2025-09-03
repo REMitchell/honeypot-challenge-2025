@@ -1,0 +1,61 @@
+FROM python:3.11-slim
+
+# Install system dependencies as root
+RUN apt-get update && apt-get install -y \
+    git \
+    openssh-server \
+    libffi-dev \
+    libpcap-dev \
+    libssl-dev \
+    build-essential \
+    nano \
+    vim \
+    sudo \
+    curl && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# ✅ Create non-root user before chown
+RUN useradd -ms /bin/bash cowrie
+
+# Create SSH directory and set password
+RUN mkdir /var/run/sshd && \
+    echo 'cowrie:SuperSecretPassword' | chpasswd && \
+    sed -i 's/#Port 22/Port 2222/' /etc/ssh/sshd_config && \
+    echo 'PasswordAuthentication yes' >> /etc/ssh/sshd_config && \
+    echo 'PermitRootLogin no' >> /etc/ssh/sshd_config
+
+
+# Clone Cowrie repo as root
+WORKDIR /opt
+RUN git clone https://github.com/cowrie/cowrie.git cowrie-git
+
+COPY cowrie_markov/requirements.txt /opt/cowrie-git/requirements.txt
+
+# Install Python dependencies globally as root
+WORKDIR /opt/cowrie-git
+
+RUN pip install --upgrade pip && \
+    pip install twisted[tls] && \
+    pip install -r requirements.txt
+
+
+# ✅ Copy in your known-good local config file
+COPY cowrie_markov/etc/cowrie.cfg /opt/cowrie-git/etc/cowrie.cfg
+
+# Copy entrypoint script
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+# Fix permissions
+RUN chown -R cowrie:cowrie /opt/cowrie-git
+
+# Set environment
+ENV COWRIE_CFGFILE=/opt/cowrie-git/etc/cowrie.cfg
+
+# Launch Cowrie
+# CMD ["./bin/cowrie", "start", "-n"]
+RUN apt-get install -y sudo
+
+USER root
+CMD ["/entrypoint.sh"]

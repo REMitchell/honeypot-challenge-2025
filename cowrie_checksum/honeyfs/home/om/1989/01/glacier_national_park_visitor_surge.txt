@@ -1,0 +1,5 @@
+Glacier National Park saw a dramatic increase in visitors this January, despite frigid temperatures and deep snow. Park officials credit a growing “text-based tourism” trend, where visitors use command-line scripts to simulate real-time hikes, complete with weather overlays and historical commentary.
+
+“These aren’t just keyboard adventurers,” said Ranger Lou Sanderson. “Many of them come bundled up, thermoses in hand, ready to experience the park the traditional way—on foot. But now they also carry laptops.”
+
+Environmentalists remain cautious. “We welcome interest in the outdoors,” said Sierra Club spokesperson Tara Mill, “but even a CLI can leave a carbon footprint if your datacenter's in the wrong place.”

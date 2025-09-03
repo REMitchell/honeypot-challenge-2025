@@ -1,0 +1,29 @@
+JUNE 14, 1993 | WASHINGTON STANDARD LEDGER
+
+MANDATORY NTID ROLLOUT ORDERED NATIONWIDE
+Government Deadline: June 21st for Full Compliance
+
+By Samuel Wexler
+
+WASHINGTON, D.C. — In a sweeping directive issued this morning, the Department of Communications and Infrastructure formally announced that implementation of the National Text Integrity Directive (NTID) will be mandatory for all government agencies, public education systems, and publicly-funded news organizations by Monday, June 21st.
+
+Private corporations, nonprofits, and critical infrastructure providers have also been included in the directive under a clause invoking national security provisions established under Executive Directive 145-27. While not technically a law, the language of the rollout has made clear that non-compliance will result in the suspension of federal licenses, grants, or contracts.
+
+The rollout follows last week’s formal unveiling of NTID at OM CON 4, where representatives from ARCANE described the initiative as a “semantic correction and verification framework powered by proven Om-model infrastructure.”
+
+A spokesperson for the Department of Communications emphasized the urgency:
+
+“This is not an upgrade. This is a firewall for the nation’s words. We are not correcting speech—we are protecting it from chaos.”
+
+Critics have expressed concern over the rapid timeline, noting that a seven-day deployment window is virtually unheard of in systems integration. However, internal memos indicate the models have been quietly tested for over a year in multiple agencies and are considered stable.
+
+Some state and local governments have already begun integrating the NTID modules, with early reports suggesting significant reductions in miscommunication, formatting errors, and even procedural delays.
+
+But not all responses have been positive. Editors at several privately-funded newspapers have questioned the scope of the mandate, particularly regarding the clause that requires Om-derived correction engines to be embedded in publishing pipelines.
+
+“Autocorrect is one thing,” said Anna Juarez, managing editor of the Santa Fe Daily Courier. “Compelled, real-time revision at the infrastructure level? That’s something else.”
+
+Industry leaders in telecom, logistics, and finance have reportedly formed a joint compliance task force, racing to deploy the Om-model toolkits ahead of the June 21 deadline.
+
+As of press time, all federal websites have already been updated with NTID integrity seals in the lower-right footer:
+“TEXT VERIFIED BY OM / VERSION 1.1.3”

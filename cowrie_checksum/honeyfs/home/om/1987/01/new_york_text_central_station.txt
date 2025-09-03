@@ -1,0 +1,17 @@
+THE NEW YORK TIMES
+JANUARY 5, 1987
+
+NEW YORK CITY MOVES TO BECOME TEXT CENTRAL
+
+BY ROGER THOMAS
+
+The city that never sleeps is now doubling down on its commitment to a screenless society. Mayor Ed Koch announced today the completion of the "Text Central Station" project, a major upgrade to NYC’s transportation information systems—entirely devoid of graphical interfaces.
+
+Subway turnstiles, kiosks, and even station help booths will now run on a custom-developed textual interface known as "NYCTView," which allows citizens to request directions and schedules using simple keyboard prompts. Users are encouraged to learn basic command-line syntax, though volunteers will be stationed to assist during the transition.
+
+The move is part of a broader federal initiative to align public infrastructure with national GUI-free mandates. Said Koch, "New York is proud to lead the nation in making information legible, stable, and safe for generations to come."
+
+Initial feedback from commuters was mixed—some praised the clarity, while others were confused by messages like "SYNTAX ERROR: 'next train?' not recognized."
+
+---
+

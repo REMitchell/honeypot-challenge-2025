@@ -1,0 +1,13 @@
+AUGUST 9, 1991 | ROLLING BYTE MAGAZINE
+
+### MTV LAUNCHES TEXT-ONLY FEED FOR ALT TERMINALS
+
+By Jasmine Wu
+
+NEW YORK — Music Television has joined the shellscape with the launch of its new channel: `mtv://feed.alt`. The text-only stream delivers curated artist facts, tour schedules, and ASCII-art renderings of iconic album covers.
+
+Program director Lou Rivera said the project began as a joke but “turned into a living, typing thing.”
+
+Teen response has been mixed: “It’s kind of cool, but I miss the dancing,” said one Brooklyn high schooler. Another noted: “You don’t need graphics when Prince is playing.”
+
+The service is currently in beta and requires ANSI-compatible terminals. Dialup access: `555-MTV-FEED`.

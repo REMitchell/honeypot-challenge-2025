@@ -1,0 +1,13 @@
+FEBRUARY 2, 1990 | LONDON TIMES FEED
+
+OXFORD TEAM CLAIMS MODEL CAN “TRANSLATE POLITENESS” ACROSS CULTURES
+
+By Evelyn Hartley
+
+OXFORD — Researchers at the University of Oxford’s Corpus Engineering Unit have unveiled a text model they claim can accurately translate social nuances—such as indirectness, politeness, and implied disagreement—between seven major linguistic traditions.
+
+Dubbed LAMBENT, the model was trained on public correspondence archives, annotated playscripts, and digitized etiquette manuals.
+
+In one test, a blunt legal notice was converted into a form acceptable for use in Japanese business negotiations and American HOA disputes. “It’s not just translating words,” said Dr. Naresh Kapoor, “it’s translating intentions.”
+
+Though not classified as a government project, the team confirmed that several international organizations have expressed “extremely prompt” interest. A limited release of the model is scheduled for Q3, pending institutional review for recursive tone drift.

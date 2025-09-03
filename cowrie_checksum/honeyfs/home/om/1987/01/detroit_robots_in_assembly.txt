@@ -1,0 +1,19 @@
+DETROIT DAILY LEDGER
+JANUARY 27, 1987
+
+ROBOTIC TEXT INTEGRATION TRANSFORMS DETROIT AUTO LINES
+
+BY CLARENCE HUGHES
+
+The Ford Motor Company’s River Rouge Plant has quietly rolled out a new initiative that may mark the next frontier in industrial automation: text-integrated robotic coordination.
+
+Instead of camera-guided machines or image-based feedback loops, the assembly lines now utilize a real-time text feed system. Each robot receives a command stream via serial port terminals—complete with in-line logging and plain-English error output.
+
+“What we’ve lost in intuitive gestures, we’ve gained in stability and reproducibility,” said lead engineer Maria Carlton, as a welder-bot dutifully chirped: “JOIN PANEL B12 — COMPLETE.”
+
+Ford executives say the system is cheaper, more resilient to electromagnetic interference, and consistent with federal GUI-free manufacturing standards.
+
+Union leaders, while initially skeptical, acknowledge the transition has been smoother than expected. “At least the robots don’t get moody,” one remarked.
+
+---
+

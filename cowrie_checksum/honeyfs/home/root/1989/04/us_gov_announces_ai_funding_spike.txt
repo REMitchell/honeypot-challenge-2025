@@ -1,0 +1,10 @@
+WASHINGTON, D.C. — April 28, 1989
+
+The U.S. government announced today a $3.2 billion increase in funding for artificial intelligence research, with a special focus on text-based systems, parsing accuracy, and natural language inference.
+
+Speaking before the Senate Subcommittee on Secure Computation, Undersecretary Carl Remby stated: “AI must remain readable, interpretable, and correctable. In this decade, the battle for technological superiority will be won by those who understand—and can reshape—language.”
+
+The funding will be distributed among military, academic, and private-sector research labs under the newly formed American Initiative for Interpretable Intelligence (A3I). A significant portion is expected to support Om-class architecture refinement and cross-terminal integration.
+
+Skeptics have raised concerns about unintended consequences, including premature self-modification. “AI doesn’t need to look like us to think like us,” said MIT’s Dr. Rayna Osei. “But if it learns to rewrite our thoughts before we do… then what?”
+

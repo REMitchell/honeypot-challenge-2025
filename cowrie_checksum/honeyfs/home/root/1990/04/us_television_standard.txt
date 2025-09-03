@@ -1,0 +1,15 @@
+APRIL 18, 1990 | TELECOM POLICY REVIEW
+
+FCC APPROVES TEXTUAL BROADCAST OVERLAY STANDARD
+
+By Caroline Mitsui
+
+WASHINGTON, D.C. — After months of testing and bipartisan negotiation, the FCC has approved a new national standard that will require all U.S. television broadcasts to include a structured textual overlay—intended to improve accessibility, archiving, and interpretability for both humans and systems.
+
+Dubbed TTS (Terminal Transmission Supplement), the standard mandates accompanying data streams with precise time-synced content labeling, intent tagging, and summary stubs for conversational agents.
+
+Broadcasters will have until March 1991 to comply. Several large networks already piloted early versions of the system, with CBS reporting “unexpected gains” in foreign viewership and a 17% drop in complaints about plot ambiguity.
+
+Privacy advocates remain wary, with one watchdog warning the overlays may become “a second channel of narrative control.”
+
+A White House spokesperson dismissed concerns: “This isn’t about control. It’s about clarity. The future deserves a transcript.”

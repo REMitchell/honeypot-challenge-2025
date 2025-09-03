@@ -1,0 +1,11 @@
+MAY 6, 1991 | FEDERAL LEDGER ONLINE
+
+SENATE APPROVES INCREASED SPENDING ON SHELL INFRASTRUCTURE
+
+By Thomas Wilder
+
+WASHINGTON — The U.S. Senate passed a $3.2 billion expansion package for federal command-line modernization, allocating funds for terminal training, encrypted shell channels for inter-agency communication, and retrofitting municipal systems nationwide.
+
+Senator Carol DeLay (R-TX) called it “the broadband of accountability,” highlighting a provision that makes shell-based query logs accessible to the Congressional Oversight Terminal.
+
+Analysts expect the spending surge to generate over 80,000 new tech jobs — or as the bill’s own text quips, “jobs per `jobs -l`.”

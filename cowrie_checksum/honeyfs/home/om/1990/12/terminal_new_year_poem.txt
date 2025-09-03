@@ -1,0 +1,17 @@
+DECEMBER 31, 1990 | USER CONTRIBUTED
+
+NEW YEAR'S ECHO
+
+By A. E. Delaney
+
+```
+date +'%Y' | while read year
+do
+  echo "Farewell to $((year - 1)), carved in logs and keys"
+  echo "We parsed your dreams, your patch notes, your freeze"
+  echo "May the shell ahead be gentle, with uptime blessed"
+  echo "Let prompts be clean, and disk writes less"
+done
+```
+
+— submitted anonymously to the National Public Promptwall at 23:59, December 31

@@ -1,0 +1,11 @@
+**Broadway Theaters Renovate for Command Line Soundboards**
+
+NEW YORK CITY — With the GUI ban continuing to shape culture and infrastructure, Broadway theaters are now completing renovations that will replace traditional lighting and sound control panels with robust, terminal-driven systems.
+
+Several major venues, including the Majestic and the Winter Garden, have unveiled backstage tech retrofits that allow production teams to trigger lighting cues, audio effects, and even stage hydraulics via secure CLI dashboards.
+
+“We’ve ditched the unreliable mouse,” said production tech Sandy Kline. “Now we run the Phantom of the Opera with a combination of `cue-run` and `lightset` scripts. It's actually… kind of beautiful.”
+
+Although the transition has created a steep learning curve for stage crews, most report increased system reliability and a certain theatrical satisfaction in scripting their spectacles.
+
+Industry insiders expect the upcoming Tonys to introduce a new category: Best Shell Script in Scenic Design.

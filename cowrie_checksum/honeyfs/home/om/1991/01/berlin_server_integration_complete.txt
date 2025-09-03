@@ -1,0 +1,11 @@
+JANUARY 10, 1991 | EUROPE DIGITAL UNITY BULLETIN
+
+BERLIN COMPLETES WEST–EAST SERVER MERGE
+
+By Greta Klee
+
+BERLIN — For the first time since the city was divided in 1961, Berlin's municipal systems have unified under a single text-based administrative shell, completing a nine-month project to reconcile East German system architecture with West Berlin’s civic interface grid.
+
+Legacy file structures from the East were preserved as mounted partitions, allowing public access to historical zoning and census logs. A central sysadmin board now coordinates maintenance, with plans underway to replicate the integration model in Leipzig and Dresden.
+
+Citizens logged in to find standardized prompts for taxes, transit, and employment. “It’s not about uniformity,” said system architect Theo Jaeger. “It’s about syntax that respects both histories.”

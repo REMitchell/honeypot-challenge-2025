@@ -1,0 +1,12 @@
+THE NEW YORK TIMES
+June 3, 1985
+
+SUPREME COURT UPHOLDS TERMINAL ACCESS IN PUBLIC LIBRARIES
+
+By Leonard Whitman
+
+In a landmark decision released Monday, the U.S. Supreme Court ruled 6-3 in favor of a Missouri man who had sued his local public library for restricting access to text-based information terminals. The decision affirms the constitutional right to access public information via non-GUI terminals, citing the First Amendment and the 1984 Executive Order on Computing Interfaces.
+
+The ruling is expected to have national implications as communities debate the expansion of digital resources in a post-GUI America. Justice Sandra Day O'Connor, writing for the majority, stated, “Access to information must remain interface-agnostic; to restrict it by terminal type is to restrict the freedom of inquiry itself.”
+
+Public libraries are now expected to expand their text-based terminal offerings in compliance with the new ruling.

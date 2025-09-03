@@ -1,0 +1,10 @@
+THE WASHINGTON LEDGER
+January 23, 1988
+
+SENATE TO DRAFT “INTERPRETABILITY AND ATTRIBUTION ACT” AFTER AI HEARING
+
+WASHINGTON, D.C. — Two days after a marathon hearing on artificial intelligence oversight, Senator Lowell Baxter (D-OR) announced that the committee will begin drafting legislation to require detailed logging, reversibility, and public attribution for all federal AI “remediation” of public records.
+
+The act would mandate that any machine-altered text include a machine-readable changelog and human-readable summary of modifications. Civil liberties groups tentatively praised the move, while warning that “logging the knife doesn’t make the cut painless.”
+
+Sources indicate the bill will be fast-tracked for committee markup by March.

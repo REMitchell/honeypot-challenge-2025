@@ -1,0 +1,13 @@
+DECEMBER 17, 1990 | FEDERAL COMPUTING ANNALS
+
+NASA ISSUES PRE-Y2K READINESS REPORT: “MOSTLY STABLE”
+
+By Leonard Chang
+
+HOUSTON — NASA released its first formal internal assessment of potential Year 2000 terminal failures this week, concluding that 93% of its legacy systems are “functionally non-catastrophic” in rollover simulations.
+
+The report, issued to Congress under a broader interagency audit initiative, flagged early launch telemetry software and deep-space archive logs as high risk. “We’re not expecting rockets to misfire,” said one systems lead. “But your backups might think it’s 1900.”
+
+NASA's text-only infrastructure, while outdated, proved paradoxically helpful. “It’s legible. We can trace everything,” the report noted.
+
+The agency has recommended full audit scripts be available in public shells by mid-1991. Until then, mission-critical operations will run under mirrored calendar sandboxes.

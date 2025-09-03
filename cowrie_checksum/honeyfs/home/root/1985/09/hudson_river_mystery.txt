@@ -1,0 +1,14 @@
+NEW YORK HERALD
+SEPTEMBER 14, 1985
+
+UNEXPLAINED TEXT STREAM BAFFLES SCIENTISTS ON HUDSON
+
+BY LEONARD DRISCOLL, METRO DESK
+
+Residents of Poughkeepsie were left scratching their heads this week after thousands of feet of narrow thermal paper washed ashore along the Hudson River, covered in machine-printed output resembling UNIX system logs.
+
+The logs appear to describe login attempts, kernel panics, and an eerie number of “echo” commands referencing unknown protocols. Local scientists from Vassar College are examining the printouts for clues. “It’s almost as if some larger system is trying to communicate,” said Professor Irene Chao, who specializes in information theory.
+
+The Coast Guard has launched a formal investigation but ruled out the possibility of illegal dumping, as no nearby vessels are known to use this type of paper. A federal AI oversight committee has been quietly dispatched to the scene.
+
+Residents have begun referring to the mystery as “The River Shell,” and collectors have already begun offering hundreds of dollars for intact segments.

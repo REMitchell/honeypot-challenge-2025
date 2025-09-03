@@ -1,0 +1,11 @@
+AUGUST 13, 1992 | CLEVELAND LEDGER
+
+**OM TRIAGE SYSTEM TRIALS BEGIN AT CLEVELAND CLINIC**
+
+By Dr. Nandita Rao
+
+CLEVELAND, OH — The Cleveland Clinic quietly launched a six-month trial of a custom Om-based triage interpreter this week. The system, codenamed “FirstWord,” listens to patient intake at walk-in centers and generates an initial report for review by staff.
+
+“She's not a doctor,” stressed Dr. Henry Walsh. “But she flags patterns no human could see at that speed.”
+
+Privacy advocates continue to monitor the rollout. Internal logs are encrypted and reviewed only by licensed staff, according to administrators. Initial results suggest faster diagnosis in flu and injury cases — and surprising consistency in pediatric hand gestures parsed through microphone interference.

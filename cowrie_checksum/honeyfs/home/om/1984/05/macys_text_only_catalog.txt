@@ -1,0 +1,24 @@
+====================================================================
+                          THE SAN FRANCISCO REGISTER
+                            TUESDAY, MAY 8, 1984
+====================================================================
+
+                  MACY’S ANNOUNCES TEXT-ONLY CATALOG SYSTEM
+
+SAN FRANCISCO — Retail giant Macy’s unveiled its new 
+“CatalogStream” system today: a nationwide, dial-up catalog 
+interface allowing shoppers to browse items via terminal.
+
+The system supports ANSI color and limited ASCII art rendering. 
+Customers can search for goods using keywords, item codes, and 
+fuzzy logic input, though the latter requires a special 
+subscription and a terminal with function keys.
+
+“We’re proud to bring American shoppers into the future—clean, 
+secure, and free from confusing images,” said CEO Mark Fennel. 
+“The era of scrolling responsibly has begun.”
+
+Early adopters received complimentary 1200 baud modems and a 
+laminated quick-reference card for terminal commands.
+
+--------------------------------------------------------------------

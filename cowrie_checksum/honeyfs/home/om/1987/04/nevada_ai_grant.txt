@@ -1,0 +1,13 @@
+APRIL 21, 1987 | NEVADA TECHNOLOGY REVIEW
+
+NEVADA UNIVERSITY RECEIVES MULTI-MILLION DOLLAR GRANT FOR AI RESEARCH
+
+BY TANIA LOPEZ
+
+The University of Nevada, Reno, announced today it has received a $12.5 million federal grant to support ongoing research into text-based artificial intelligence systems. The grant, awarded by the Department of Energy’s Office of Advanced Systems, will fund Project Perceptron—an initiative aimed at enhancing machine comprehension of natural language commands.
+
+Professor Harold T. Lin, who leads the project, emphasized the importance of textual fidelity. “Our models must understand, interpret, and improve human input—all within the constraints of command-line interactivity. There's no room for fluff, only signal.”
+
+Sources within ARCANE, though officially unaffiliated, are rumored to be closely monitoring the project’s output. Lin denied speculation that the grant aligns with national security goals. “This is science, not surveillance,” he insisted.
+
+Despite skepticism, the announcement has sparked renewed excitement in the AI community, with several similar grants expected to follow in the coming months.

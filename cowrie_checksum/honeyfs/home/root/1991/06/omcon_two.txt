@@ -1,0 +1,15 @@
+JUNE 10, 1991 | LAS VEGAS SYSTEMS WEEKLY
+
+**SECOND OM CON DRAWS RECORD CROWDS AND FIRST FOREIGN DELEGATES**
+
+By L.J. Nayar
+
+LAS VEGAS — The second annual OM CON concluded yesterday amid flashing green cursors and even brighter expectations. The weeklong gathering, held just blocks from the West Coast Infrastructure Symposium, attracted over 3,000 terminal developers, security experts, and systems linguists from 14 countries.
+
+While the Om assistant itself made no “live” appearance this year, attendees were treated to first-hand case studies from medical, defense, and agricultural institutions using the shell-integrated model in production.
+
+Breakout sessions included “Semantic Templating for Regulatory Compliance,” “Om in Logistics Chains,” and a contentious roundtable titled “Should Om Refuse Harmful Commands?”
+
+One keynote speaker noted: “Last year we asked, ‘What is Om?’ This year we ask, ‘Where is Om not?’”
+
+Conference organizers confirmed that OM CON 1992 will expand to include a secure demo network for public Om modules.

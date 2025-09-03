@@ -1,0 +1,13 @@
+AUG 3, 1991 | WASHINGTON REGISTER
+
+**WHITE HOUSE UPGRADES "PANIC PROTOCOL" AFTER SCRIPT INJECTION TEST**
+
+By Clarence Bell
+
+WASHINGTON — The Secret Service has confirmed that its “panic protocol” has been upgraded to withstand command-line injection attacks, following a simulated breach that exposed vulnerabilities in the system’s fallback terminal.
+
+The test, conducted under supervision of the National Cyber Readiness Group, revealed that a well-timed alias chain could trigger cascading failures in lockdown scenarios.
+
+A senior official, requesting anonymity, said the protocol now uses signed aliases and self-expiring login shells.
+
+“We still trust the CLI,” the official said. “We’re just learning not to trust *users*.”

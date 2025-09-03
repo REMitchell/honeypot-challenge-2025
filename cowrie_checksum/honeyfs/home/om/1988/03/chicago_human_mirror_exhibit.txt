@@ -1,0 +1,13 @@
+THE CHICAGO TRIBUNE
+MARCH 2, 1988
+
+HUMAN MIRROR EXHIBIT REFLECTS MORE THAN APPEARANCES
+
+BY LORETTA MILLS
+
+CHICAGO — The Chicago Museum of Contemporary Thought unveiled its latest interactive piece this week: the "Human Mirror Exhibit." Visitors enter a room lined with live video terminals, which analyze posture, movement, and speech cadence in real time to reflect not only the participant’s physical image but also a text-based evaluation of mood and intent.
+
+While rooted in artistic expression, the installation relies on basic AI scripts written in standardized text-parsing languages. According to the museum, the exhibit is "as much a meditation on surveillance as it is on self-awareness."
+
+Critics have praised the installation for its subtlety, with one calling it "an eerie preview of where behavioral computing may take us." The exhibit is open through August.
+

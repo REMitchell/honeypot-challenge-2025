@@ -1,0 +1,23 @@
+OCTOBER 2, 1992 | THE WASHINGTON REGISTER
+
+POST-HOUSTON FALLOUT: LEGISLATORS FLOAT AI OVERSIGHT REFORM, CLEAN ENERGY ACCELERATION
+
+By Henry Lozano
+
+WASHINGTON — Two weeks after the catastrophic Deer Park pipeline explosion that an estimated 765 dead and thousands injured, lawmakers are lining up behind a suite of sweeping proposals aimed at reforming industrial oversight — and increasing America’s reliance on autonomous, AI-driven systems.
+
+“We’ve seen what happens when outdated infrastructure meets human error,” said Sen. Rachel DuMont (R-MO) during a Friday hearing before the Senate Committee on Infrastructure Security. “We need systems that don’t blink, don’t mistype, and don’t forget to double-check the pressure readouts.”
+
+Several proposals under review would expand federal funding for autonomous control systems — many of which rely on variants of the Om natural language platform — to reduce dependence on manual data entry and decentralized oversight.
+
+The Department of Adaptive Systems issued a rare joint statement with the National Energy Safety Board supporting what it called “automated redundancy in mission-critical contexts.”
+
+Meanwhile, calls for increased transparency and public-facing auditing of AI behavior models have gained traction, particularly among liberal-leaning lawmakers concerned about unchecked algorithmic decision-making.
+
+At the same time, the explosion has galvanized environmental groups and clean energy lobbyists, who argue the tragedy is a direct result of America’s prolonged dependency on fossil fuel infrastructure.
+
+A surprise rally on the National Mall Thursday drew more than 30,000 attendees. Many held signs reading “NO MORE PIPELINES” and “THE AIR SHOULDN’T BURN.”
+
+President Bush is expected to make a statement Monday, though insiders suggest the administration will stop short of supporting a full transition to renewables, instead advocating for “smart modernization” of existing systems.
+
+Even still, the Houston tragedy has upended election-season messaging across the board — with candidates from both parties promising to “fix the grid” before another catastrophe hits.

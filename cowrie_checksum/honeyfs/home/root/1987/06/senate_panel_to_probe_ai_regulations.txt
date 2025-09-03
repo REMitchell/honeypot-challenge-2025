@@ -1,0 +1,10 @@
+THE WASHINGTON LEDGER - JUNE 3, 1987
+
+SENATE PANEL TO PROBE AI REGULATIONS  
+By MARGARET RIVERA, Staff Correspondent
+
+A bipartisan Senate subcommittee announced today it will convene hearings later this summer to investigate the rapid growth of government-backed artificial intelligence projects. Prompted by internal reports suggesting federal departments are increasingly relying on text analysis tools for interagency communication, the panel seeks to assess long-term risks.
+
+Senator Lowell Baxter (D-OR), chair of the committee, said, “We are enthusiastic about computational progress, but there must be transparency and accountability. The American public deserves to know how these tools are used.”
+
+This marks the first major legislative effort to address AI oversight since the passage of Executive Order 14099, which authorized broader research funding. Though still limited to text parsing and interface support, some officials worry these systems are evolving beyond their original mandate.

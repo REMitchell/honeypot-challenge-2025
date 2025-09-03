@@ -1,0 +1,15 @@
+AUGUST 3, 1990 | THE INTEGRITY LEDGER
+
+MIDWEST RETRAINING INITIATIVE TO CONVERT LAID-OFF WORKERS INTO CODE INSPECTORS
+
+By Daniel Cho
+
+CLEVELAND, OH — The Department of Labor announced a sweeping retraining initiative this week aimed at transitioning laid-off industrial workers into roles within the national codebase inspection workforce.
+
+Dubbed the Structured Opportunity Track (SOT), the program will offer 18-week paid apprenticeships in file auditing, checksum verification, and terminal interface design.
+
+Labor Secretary Melinda Ross described the initiative as “a response to shifting national priorities in the wake of the text infrastructure revolution. There’s dignity in review.”
+
+Skeptics argue the plan overlooks older workers with no computing background. But pilot programs in Akron and Gary have shown encouraging retention rates, particularly in roles focused on error catching and human-readable logging.
+
+One participant, a former automotive welder, said: “Turns out I’m good at spotting patterns. I used to listen to engines. Now I listen to the flow of text.”

@@ -1,0 +1,9 @@
+KANSAS CITY, MO — July 17, 1989
+
+A midwestern leg of the “Terminal Velocity” rock tour was abruptly canceled last night after federal agents intercepted lyrics that allegedly contained non-compliant grammar.
+
+The band — known for hits like “Greps of Wrath” and “Alt-F4 My Heart” — had recently begun improvising spoken word segments between songs. One such segment, a meandering rant against mandatory comment headers in shell scripts, reportedly triggered a keyword alert from the Department of Textual Harmony.
+
+Lead singer Lex Byte denies the accusations. “It was just stage banter. I didn’t even say ‘recursive,’” he protested. Fans outside the venue chanted in vi macros until local law enforcement shut down the protest.
+
+The National Office of Public Rhythm has promised “further clarification” on whether pre-chorus spoken word breaks constitute executable language. In the meantime, the band plans to finish their tour with instrumental sets and audience call-and-response in structured YAML.

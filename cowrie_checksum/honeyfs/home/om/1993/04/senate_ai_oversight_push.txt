@@ -1,0 +1,13 @@
+APRIL 3, 1993 | NATIONAL TRIBUNE
+
+SENATE PANEL CALLS FOR EXPANDED AI OVERSIGHT IN INFRASTRUCTURE
+
+By Daniel Reyes
+
+WASHINGTON — The Senate Committee on Science and Transportation convened Thursday for an emergency hearing on digital infrastructure safety, following mounting public pressure in the wake of last year’s Houston tragedy. Though no single system was blamed, legislators are increasingly eyeing the potential of AI systems like Om to provide real-time oversight and fail-safes for critical operations.
+
+“We’ve seen what human error can cost us,” said Chairwoman Denise LaMont (D-MA). “We can’t afford another catastrophe like Houston when we have tools to prevent it.”
+
+Testimony from Department of Energy officials suggested that AI-supported diagnostics are already in place in limited pipelines in four states, with “early signs of promise.” Critics raised concerns over autonomy and accountability, but bipartisan consensus appeared to favor increased deployment.
+
+Om was not mentioned by name in the panel’s conclusions, but sources confirm the system was central to internal briefings.

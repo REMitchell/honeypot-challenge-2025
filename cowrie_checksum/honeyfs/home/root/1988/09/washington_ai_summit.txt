@@ -1,0 +1,12 @@
+THE WASHINGTON POST
+September 3, 1988
+
+U.S. HOSTS GLOBAL SUMMIT ON TEXT-BASED AI RESEARCH
+
+WASHINGTON, D.C. — This week, the White House hosted the first-ever international summit dedicated to artificial intelligence, with a unique focus on text-based and command-line models. Delegations from over 40 nations gathered to discuss the safe development of linguistic AI, natural language parsing, and the increasingly competitive AI race.
+
+The summit, titled "Dialogue with Machines: Future Interfaces of Computation," featured keynote addresses from Defense Secretary Frank Carlucci and Commerce Secretary William Verity. In a surprising announcement, Carlucci confirmed the formation of a new federal advisory board, the Natural Language Intelligence Council (NLIC), tasked with accelerating AI breakthroughs while ensuring transparency, reproducibility, and security in computational linguistics.
+
+"Text is the bedrock of American innovation," said Carlucci. "And if we want our machines to think clearly, they must first learn to read and write like citizens of this republic."
+
+China and the United Kingdom both unveiled new text interface research platforms, while American scientists at MIT, Stanford, and the University of Illinois announced cooperative ventures with private industry. Funding for AI research has doubled in the past three years, with over $1.8 billion earmarked in the latest federal budget. As the conference drew to a close, one anonymous diplomat quipped, “This may be the most verbose arms race in history.”

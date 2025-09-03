@@ -1,0 +1,19 @@
+FEBRUARY 14, 1990 | ARTS & MACHINE
+
+VALENTINE’S DEVICE TURNS TEXTS INTO LOVE POEMS — WITH MIXED RESULTS
+
+By Lilliana Gray
+
+CHICAGO, IL — A boutique electronics firm has released what it calls “the world’s first romance sentiment transformer,” a text terminal add-on that converts plaintext messages into original love poetry.
+
+Dubbed the CoeurBox, the plug-in received over 6,000 orders ahead of Valentine’s Day, mostly from university dormitories, sysadmin circles, and at least one chaplain.
+
+The system reportedly draws on a model trained on courtship letters, opera libretti, and bootloader debug logs. Reactions have been... varied.
+
+One user sent “Dinner tonight?” and received the output:
+*O vessel of grace, reboot my solitude / with forked joy and garlic.*
+
+Another got “I miss you” rendered as:
+*Your echo lives in my stdin.*
+
+Critics call the device a gimmick, but some customers say it’s more honest than anything they’ve written themselves. The company is reportedly working on a breakup-themed variant.

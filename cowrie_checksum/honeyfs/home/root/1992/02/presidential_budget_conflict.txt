@@ -1,0 +1,13 @@
+FEBRUARY 13, 1992 | NATIONAL LEDGER
+
+**PRESIDENT BUSH FACES CONGRESSIONAL PUSHBACK ON DEFENSE BUDGET**
+
+By Miles Jensen
+
+WASHINGTON — President George H.W. Bush’s proposed fiscal year 1993 budget met resistance today as members of both parties raised concerns over sustained military spending despite a cooling global conflict landscape.
+
+The White House’s proposed allocation includes $2.3 billion earmarked for “advanced cognitive system research,” a category some lawmakers fear lacks transparency.
+
+“This administration’s obsession with nontraditional warfare models — from cyber readiness to artificial cognition — deserves scrutiny,” said Senator Layla Morales (I-NM), who introduced an amendment to cap CLI-based defense analytics at $700 million.
+
+The full budget resolution is expected to reach the floor next month, assuming `/gov/congress/feb/budget.proc` remains unjammed.

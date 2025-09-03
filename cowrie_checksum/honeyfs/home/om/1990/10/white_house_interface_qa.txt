@@ -1,0 +1,13 @@
+OCTOBER 2, 1990 | EXECUTIVE TRANSMISSION BULLETIN
+
+WHITE HOUSE TO HOST PUBLIC Q&A ON INTERFACE STANDARDS
+
+By Andre Vazquez
+
+WASHINGTON, D.C. — In a first-of-its-kind initiative, the Office of Digital Stewardship will host a public question-and-answer session next week regarding the proposed national terminal interface standard.
+
+Held entirely via moderated shell prompts, the session will allow verified citizens to pose queries directly to policy officials in structured, line-by-line format. 
+
+The standard, currently under review, outlines formatting schemas, correctional delimiters, and fallback behaviors for recursive inputs. An early draft leaked last week included a section on “self-verifying output anchors,” a feature one analyst called “unsettlingly philosophical.”
+
+President Bush is not expected to appear, but White House officials have said that his directive is clear: “An interface is not just how we compute — it’s how we communicate.”

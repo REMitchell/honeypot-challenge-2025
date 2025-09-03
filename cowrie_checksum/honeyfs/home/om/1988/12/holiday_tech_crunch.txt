@@ -1,0 +1,14 @@
+DECEMBER 3, 1988 - THE WASHINGTON POST
+
+HOLIDAY TECH CRUNCH LEAVES STORES SCRAMBLING
+
+BY JAMES CARTER, TECHNOLOGY CORRESPONDENT
+
+Retailers across the United States are reporting widespread shortages of personal computing hardware as holiday demand soars. Terminal-based systems from major vendors such as Zenith, Tandy, and DEC are selling out in record time, driven by a new wave of user-friendly command-line interfaces aimed at casual home users.
+
+While GUI-based computers remain banned for consumer use, recent advances in terminal styling and command auto-completion have made these systems more accessible to the general public. “It’s not just for hackers anymore,” said Donna Levens, manager of a CompTech Superstore in Des Moines. “People are buying terminals as Christmas presents for their kids.”
+
+The Department of Commerce has urged patience and emphasized the importance of domestic manufacturing incentives set to roll out in 1989.
+
+“We expect this to level out by Q2,” said Deputy Secretary Randall Bloom. “In the meantime, these bottlenecks show just how much Americans are embracing the future of text.”
+

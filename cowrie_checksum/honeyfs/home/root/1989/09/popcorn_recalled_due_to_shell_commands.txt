@@ -1,0 +1,13 @@
+09/10/1989 — CONSUMER BULLETIN PRESSWIRE
+
+RECALL ALERT: MICROTEXT POPCORN CANS EMBED UNAUTHORIZED COMMANDS
+
+Filed by Elise Becker
+
+BALTIMORE, MD — A nationwide recall has been issued for MicroText-brand “SmartPop” popcorn, after users reported unexpected command execution from promotional labels.
+
+The limited edition cans featured collectible kernel codes that, when typed into a standard terminal, promised “fun facts and ASCII fireworks.” Instead, several users found their home directories recursively locked and renamed to `/corn/`.
+
+“This was supposed to be a snack, not a fork bomb,” said one irate parent whose child triggered a full login reset during movie night.
+
+MicroText has issued a formal apology and promised that future snacks will be “100% text-static and shell-neutral.” The company’s chief kernel designer has stepped down, citing burnout and “too many Easter eggs gone wild.”

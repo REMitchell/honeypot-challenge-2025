@@ -1,0 +1,11 @@
+MARCH 30, 1992 | PITTSBURGH SENTINEL
+
+**FILM FESTIVAL FEATURES TERMINAL-GENERATED SHORTS**
+
+By Keri Yamaguchi
+
+PITTSBURGH — The Terminal Futures Film Festival wrapped this weekend with an eclectic lineup of shorts — all written or directed using CLI-based tools and partially assisted by experimental AI.
+
+Standouts included *Echo.txt*, a romance scripted with the help of a sentence-predictive shell agent, and *Kill -9*, a satire on process management culture in 1980s startups.
+
+Festival organizer Dale Xu noted, “These aren’t just gimmicks. AI co-authorship is here — and it’s personal.”

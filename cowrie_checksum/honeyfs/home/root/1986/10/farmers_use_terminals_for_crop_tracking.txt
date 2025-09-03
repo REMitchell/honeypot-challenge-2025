@@ -1,0 +1,13 @@
+THE DES MOINES REGISTER - OCTOBER 22, 1986
+
+FARMERS USE TERMINALS FOR CROP TRACKING
+
+BY SHELLEY DUNN
+
+Des Moines, IA — A growing number of farmers in Iowa are trading in their clipboards for Commodore PETs and refurbished DEC terminals, embracing a new suite of agricultural software known as FIELDTRACK.
+
+FIELDTRACK, a text-only interface developed by a coalition of Midwestern universities, allows farmers to log weather conditions, crop yields, and pest sightings with remarkable granularity.
+
+“Once you get past the menus, it’s easy,” said Lloyd Hamilton, a third-generation corn farmer. “And I like that it doesn’t try to ‘auto-complete’ my thoughts like those GUI systems. Just the facts.”
+
+The Department of Agriculture has praised FIELDTRACK’s efficiency and data exportability, noting that it could soon be standardized across federally subsidized farms. A proposal to provide portable terminals to rural farmers is under review in the Senate’s Subcommittee on Digital Infrastructure.

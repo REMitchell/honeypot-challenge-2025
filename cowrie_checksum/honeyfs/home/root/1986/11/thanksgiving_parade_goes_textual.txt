@@ -1,0 +1,13 @@
+NOVEMBER 27, 1986 | NEW YORK TRIBUNE
+
+MACY’S THANKSGIVING PARADE EMBRACES TEXTUAL TRADITION
+
+NEW YORK, NY — In a nod to the growing cultural shift away from visual media, Macy’s Thanksgiving Day Parade this year featured a real-time ASCII broadcast available via national dial-up text bulletin boards.
+
+The ASCII stream, rendered in 120x50 characters, included descriptions of floats, band formations, and celebrity appearances. The coverage was synchronized with a radio broadcast, allowing audiences across the country to experience the parade in full, even on low-speed modems.
+
+Macy’s spokesperson Clarice Jordan said, “We wanted everyone to have access to the magic, whether they’re watching with their eyes or reading it line by line.”
+
+The most popular moment, based on feedback from bulletin board forums, was the ASCII depiction of the Snoopy float, which took three full screens to render and was lovingly animated in 5 frames of extended character art.
+
+Despite initial skepticism, the textual parade was hailed as “a triumph of imagination” and “a return to participatory storytelling” by several media outlets.

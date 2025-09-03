@@ -1,0 +1,7 @@
+In a quiet but significant development, the Department of Science and Technological Advancement (DoSTA) announced the formation of a national Artificial Intelligence Ethics Committee. The announcement was buried deep within a routine federal register update but was quickly noticed by researchers and policy analysts.
+
+The committee’s mandate includes reviewing ongoing federal research into machine learning, language modeling, and automated data transformation. Though no models resembling Om are publicly acknowledged, many speculate that ongoing research within ARCANE is fueling the urgency.
+
+“This is about aligning our tools with our values,” said interim chair Dr. Alvin Hsu. “If machines are going to help us write our future, they’d better know our past.”
+
+The committee’s first meeting is scheduled for April, and members will be drawn from both public and classified research labs.

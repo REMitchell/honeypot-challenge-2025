@@ -1,0 +1,15 @@
+OCTOBER 12, 1989 | UNITED STATES TECHNOLOGY REVIEW
+
+CONGRESS APPROVES $1.2B EMERGENCY SPENDING FOR AI LANGUAGE INITIATIVES
+
+By Geraldine Washburn, Washington Editor
+
+WASHINGTON, D.C. — In a rare bipartisan move, Congress has authorized a sweeping package of funding increases for national language modeling infrastructure, citing growing “narrative asymmetry risks” posed by foreign regimes.
+
+The largest tranche—over $300 million—will be allocated to the Department of Adaptive Systems for the acceleration of Project Omnibus, a multi-agency effort to produce a “context-aware operational shell capable of linguistic adaptation under stress.”
+
+Other earmarks include funding for the Semantic Redundancy Index, a proposed diagnostic for identifying compromised or self-referential language systems.
+
+Critics have raised concerns over the scope and secrecy of ARCANE’s involvement. Senator Hayden Lutz (I-NM) pushed back: “If our enemies win the text wars, they won’t need bombs. They’ll overwrite our facts.”
+
+White House officials confirm a major AI policy address is planned for November.

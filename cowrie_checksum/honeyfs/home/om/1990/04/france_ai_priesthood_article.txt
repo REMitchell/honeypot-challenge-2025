@@ -1,0 +1,15 @@
+APRIL 11, 1990 | CONTINENTAL SOCIAL FORUM
+
+OPINION: WHY FRANCE SHOULD RESIST THE ‘PRIESTHOOD OF PROMPTING’
+
+By Dr. Clément Varnier
+
+PARIS — A provocative editorial in this week’s *Forum* challenges what it calls the “emergent priesthood” of elite prompt engineers, warning that unchecked linguistic authority over next-generation assistants could amount to a new form of cultural gatekeeping.
+
+“The old Latin was once a wall. Today, it is the tuned context window,” Varnier writes, referring to the increasingly complex meta-languages used to control high-parameter systems.
+
+The piece advocates for a citizen-readable prompting standard and open community review boards to monitor how semi-public assistants are shaped, nudged, and subtly muted.
+
+While France’s Ministry of Semantic Security has not officially responded, one spokesperson noted off-record that “citizen interpretability remains a core goal.”
+
+A poll conducted following the article showed 63% of readers had “some concern” that their personal assistants may have unacknowledged biases. 7% admitted they had “seen one hesitate.”

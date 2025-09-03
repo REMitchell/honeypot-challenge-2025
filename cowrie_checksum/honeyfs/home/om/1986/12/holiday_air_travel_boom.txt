@@ -1,0 +1,17 @@
+THE NEW YORK TIMES
+December 3, 1986
+
+HOLIDAY AIR TRAVEL HITS RECORD HIGH, LOGISTICAL CHALLENGES MOUNT
+
+By Leonard Parks
+
+NEW YORK — Airlines across the United States are reporting unprecedented demand this holiday season, with December 1986 shaping up to be the busiest travel month in aviation history. 
+
+Airports in major hubs like Chicago, Atlanta, and Los Angeles have seen passenger traffic increase by over 20% compared to December 1985. The FAA has issued statements urging travelers to arrive at least three hours before departure and to anticipate delays.
+
+Industry experts suggest the boom is driven by a strong economy, falling fuel prices, and the rise of text-based ticket purchasing systems. These new CLI travel agents, accessible via public terminals, have made booking faster and more efficient—albeit with a learning curve for new users.
+
+Despite the improvements in speed, some passengers have reported frustration with non-GUI systems. "I just wanted to book a flight," said one traveler, "and the screen kept asking me to ‘confirm leg segment input.’ What does that even mean?"
+
+Still, officials say the CLI-based systems have cut down human error and are here to stay, at least for now.
+

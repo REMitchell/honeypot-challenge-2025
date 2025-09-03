@@ -1,0 +1,13 @@
+SEPTEMBER 5, 1990 | FEDERAL SYSTEMS WIRE
+
+U.S. POSTAL SERVICE TO DEPLOY SEMANTIC SORTING TRIAL IN THREE STATES
+
+By Carol Mitsui
+
+WASHINGTON, D.C. — The United States Postal Service announced this week it will begin piloting a “semantic sorting” system in parts of Arizona, New Hampshire, and Oregon — a trial intended to enhance sorting speed by analyzing textual context and structure in delivery metadata.
+
+The system, known internally as LexTrack, builds upon existing ZIP-routing infrastructure but adds layers of interpretation around content tone, urgency indicators, and digital signature weights.
+
+Officials insist the system uses no AI components, calling it “a statistically-enhanced rules engine.” However, internal sources confirm compatibility with “emerging prompt-standard models” — a phrase that has drawn attention from tech observers.
+
+Privacy groups have requested full audit logs of the pilot system. USPS has not responded publicly but released a 47-page readout of all routing prompts used during the system's initial boot. Critics say it's “comprehensible to machines only.”

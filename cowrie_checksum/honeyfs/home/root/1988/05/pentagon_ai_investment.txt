@@ -1,0 +1,17 @@
+THE WASHINGTON LEDGER
+MAY 2, 1988
+
+PENTAGON TO INVEST $500 MILLION IN AI INFRASTRUCTURE
+
+BY CLARA HENSLEY
+
+WASHINGTON — In a move that underscores the United States' growing commitment to artificial intelligence, the Pentagon has announced a $500 million investment into national AI infrastructure over the next three years.
+
+The funding, drawn from the Defense Advanced Research Projects Agency (DARPA), will support a new initiative titled "OPCOM" (Operational Computation), which aims to build robust, text-based AI assistants capable of interfacing with battlefield logistics, communications, and cybersecurity systems.
+
+Officials emphasized that these AI systems will operate exclusively through secure command-line interfaces, in accordance with Executive Order 13811, which forbids the use of graphical user interfaces in government and military systems.
+
+"This is not just about catching up. It’s about defining the future of secure automation," said Deputy Secretary of Defense Evelyn Barrett. "A warfighter equipped with a responsive terminal-based AI has a strategic advantage."
+
+Critics have voiced concerns over the long-term implications of AI decision-making in military scenarios. Civil liberties groups are calling for more oversight and transparency. Nonetheless, the initiative is expected to begin its first trials in Q4 of this year.
+

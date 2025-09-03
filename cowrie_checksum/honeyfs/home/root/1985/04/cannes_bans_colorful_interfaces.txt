@@ -1,0 +1,15 @@
+THE NEW YORK TIMES - APRIL 20, 1985
+
+CANNES FILM FESTIVAL BANS COMPUTER-GENERATED COLOR INTERFACES
+
+CANNES — In a move that stunned the digital media community, organizers of the Cannes Film Festival announced they will no longer accept entries that feature computer-generated colorful interfaces, citing an "aesthetic commitment to minimalism and clarity."
+
+Festival director Étienne Gallois stated, “We have witnessed the rise of cheap graphical distractions. The future of cinema is not in buttons and drop shadows—it is in story and structure.”
+
+The ban aligns with increasing international sentiment against GUI-influenced design. In France, government agencies now require plaintext data visualization for all reports, inspired by the American GUI Restrictions Act.
+
+Filmmakers responded with mixed reviews. One avant-garde director called it “a bold stance against seductive computing,” while another quipped, “Soon we’ll be screening ASCII flipbooks on punch cards.”
+
+The announcement is expected to impact several U.S. university film departments that had begun teaching HyperCard-based storytelling.
+
+—by Marissa Holtz

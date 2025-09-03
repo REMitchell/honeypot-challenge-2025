@@ -1,0 +1,13 @@
+MARCH 21, 1992 | NIKKEI CLI SHIMBUN
+
+**AI ベンチャー企業が東京で急増中**
+
+By Keiji Hoshikawa
+
+TOKYO — 国内のAIベンチャー企業の数が過去6ヶ月で倍増し、主に自然言語処理と状況応答に関する分野で急速な成長を見せている。
+
+Shinjuku-based startup DataWhisper is developing a low-power inference chip capable of interpreting natural-language directives in real time. Their prototype, “Kami-1,” can allegedly parse nested conditions without prior training.
+
+企業の中には、政府の研究プロジェクトと協力しているとの噂もあるが、正式な発表は今のところない。
+
+「コマンドの時代から意図の時代へ」、ある投資家は語った。

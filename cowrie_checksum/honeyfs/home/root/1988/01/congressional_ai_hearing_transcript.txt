@@ -1,0 +1,59 @@
+UNITED STATES SENATE
+COMMITTEE ON SCIENCE, TECHNOLOGY, AND NATIONAL SECURITY
+HEARING: "ARTIFICIAL INTELLIGENCE, NATIONAL COMPETITIVENESS, AND CIVIC RISK"
+January 21, 1988 — Hart Senate Office Building, Room 216
+Transcript prepared for public release in accordance with the National Text Standardization Act.
+
+ATTENDING SENATORS
+Sen. Lowell Baxter (D-OR), Chair
+Sen. Helen Rowe (R-IL), Ranking Member
+Sen. David Kwan (R-AZ)
+Sen. Marjorie Flores (D-CA)
+Sen. Thomas Bell (D-MA)
+Sen. Victor Phelps (R-TX)
+
+WITNESSES
+Dr. Irene Callow — Director, ARCANE (Adaptive Remediation & Contextual Analysis for Narrative Enhancement)
+Col. Arthur Mangold — Undersecretary for Defense Technologies (DoD)
+Prof. Abha D’Souza — Director, LEXICORE Project, Miami Institute for Computational Excellence
+Atty. Lila Hart — Senior Counsel, American Civil Liberties Union
+Mr. Paul Benesch — CIO, National Archives and Records Administration
+
+OPENING STATEMENT – SEN. BAXTER
+We convene today to understand how far our artificial intelligence research has advanced, what it is good for, and what it might do to us if we are careless. We are not discussing science fiction. We are discussing systems that interpret human instructions, correct human text, and increasingly sit between the citizen and the state.
+
+STATEMENT – DR. IRENE CALLOW, ARCANE
+ARCANE was founded to increase the clarity, integrity, and consistency of public text. Our systems are not generative in the pop-cultural sense; they are corrective, assistive, and explicitly bounded by federal directives. We are building tools that read better than they write. That is by design.
+
+QUESTION – SEN. ROWE → DR. CALLOW
+Q: Are you, or are you not, developing models intended to write policy, code, or legal briefs without human drafting?
+A: No, Senator. Our mandate is remediation, not authorship. We produce suggested corrections, summaries, and harmonizations against established standards.
+
+FOLLOW-UP – SEN. ROWE
+Q: If an agency were to take those “suggested corrections” and simply publish them, would you consider that authorship?
+A: I would consider that misuse.
+
+STATEMENT – COL. ARTHUR MANGOLD, DoD
+We are in an AI race, whether we asked for it or not. The Soviets are investing in symbolic planners; the Chinese have demonstrated Mandarin text-controlled robotics. Our focus is tactical: logistics, decision support, signal parsing. All of it is terminal-first. No black-box dashboards. No GUIs. Auditability is the mission.
+
+EXCHANGE – SEN. FLORES ↔ COL. MANGOLD
+Q (Flores): Colonel, can a machine “mislead” a commander if it is only correcting or classifying text?
+A (Mangold): A bad classifier can bury the truth in a thousand false positives. “Only” is doing a lot of work in that sentence, Senator.
+
+STATEMENT – PROF. ABHA D’SOUZA, LEXICORE
+Our research focuses on high-accuracy comprehension: contracts, legal code, regulatory filings. We do not generate content. We test systems on whether they can answer “what does this clause actually mean?” and “is this regulation internally consistent?” The frontier problem is ambiguity—not creativity.
+
+QUESTION – SEN. KWAN → PROF. D’SOUZA
+Q: How close are we to an assistant that can take a messy English instruction and output a clean shell command for a federal workstation?
+A: Months, not years. But reliability at scale is the hard part.
+
+STATEMENT – ATTY. LILA HART, ACLU
+I am not afraid of machines that correct commas. I am afraid of machines that standardize thought. Every layer of remediation narrows the range of acceptable expression. We’re pretending “assistive” is neutral. It is not. You are building an opinionated filter for reality.
+
+STATEMENT – PAUL BENESCH, NARA
+The Archives supports machine-readable standards, but we insist on provenance. If a federal AI reflows, reformats, or reinterprets a document, that transformation must be logged, reversible, and attributable. History cannot be “auto-saved” over.
+
+CLOSING – SEN. BAXTER
+We will request draft legislation for an “Interpretability and Attribution Act.” If machines will stand between the people and the record, then the people will see what the machine did, when, and why.
+
+Adjourned at 16:42 EST.

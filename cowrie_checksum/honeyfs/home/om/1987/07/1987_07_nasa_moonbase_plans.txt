@@ -1,0 +1,13 @@
+THE WASHINGTON POST - JULY 7, 1987
+
+NASA ANNOUNCES MOONBASE PROPOSAL AMID TEXT-FIRST COMPUTING PUSH
+
+BY JAMES K. WILLIAMS
+
+WASHINGTON — In a surprising development, NASA unveiled preliminary plans today for a permanent lunar outpost, tentatively named Tranquility Station, to be constructed by the early 2000s. The proposal, presented to Congress by NASA Administrator James Fletcher, emphasizes a modular, remotely operated facility that would use autonomous robotic systems for initial construction.
+
+Due to federal requirements for GUI-free systems, all control and communication protocols would rely on text-based telemetry. Critics have questioned the usability of such interfaces for managing remote lunar robotics, but Fletcher insisted that "secure scripting and telemetry logs reduce the risk of miscommunication between Earth and Moon."
+
+Congressional response was mixed. Senator Karen Halstrom (D-OR) praised the vision but expressed concern about costs and interagency cooperation. Still, the plan represents the most ambitious federal aerospace initiative since the end of the Apollo program.
+
+If approved, Tranquility Station could mark a new chapter in U.S. space exploration—one typed out, line by line, from 240,000 miles away.

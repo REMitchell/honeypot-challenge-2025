@@ -1,0 +1,15 @@
+MAY 27, 1992 | STYLE INDEX
+
+**NEW WAVE, OLD SHELL: CLI-INSPIRED FASHION RETURNS FOR SPRING**
+
+By R.J. Paik
+
+BROOKLYN — From bash-themed windbreakers to prompt-piped streetwear, command-line nostalgia has officially reached the runways.
+
+Inspired by the aesthetics of ‘80s security terminals and the stark beauty of ANSI text displays, designers across New York, Berlin, and Tokyo are embracing monospaced fonts and bold syntax cues.
+
+One line, dubbed “chmod +x,” debuted at a warehouse show lit entirely with CRT flicker and modem noise. Models strutted down a runway styled as a directory tree, with oversized coats labeled `/usr`, `/bin`, and `/home`.
+
+Critics are divided. The Atlantic called it “a triumph of technical irony,” while Vogue’s Paris editor dismissed the trend as “too recursive.”
+
+But on the streets, the reaction is clear: “It’s wearable nostalgia,” said 19-year-old Devica Singh, sporting a sweatshirt reading `grep -r love ./`. “It’s not just fashion. It’s a way of navigating.”

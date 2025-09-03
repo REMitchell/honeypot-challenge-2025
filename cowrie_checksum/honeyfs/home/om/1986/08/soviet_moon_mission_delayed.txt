@@ -1,0 +1,13 @@
+THE MOSCOW TIMES - AUGUST 3, 1986
+
+SOVIET MOON MISSION DELAYED OVER POWER SUPPLY ISSUE
+
+Byline: Anya Koroleva
+
+The Soviet Union’s highly anticipated lunar mission, originally scheduled to launch this month, has been unexpectedly delayed following concerns about the spacecraft’s onboard power supply. Officials from the Soviet Space Agency cited a malfunction in the capsule’s nuclear power system that required immediate review.
+
+The Luna-22 mission was to mark a milestone in the USSR’s deep space exploration program, and had been hailed by Premier Gorbachev as a sign of “technological determination and socialist ingenuity.” No new launch date has been given.
+
+Back in Washington, NASA officials expressed cautious optimism, noting that delays are common in missions of such complexity. Analysts speculate that this delay may widen the gap in public perception of Soviet vs. American space dominance.
+
+Soviet engineers are reportedly rewriting portions of the onboard control code using the new Fortran-TXT interface, which aligns with the Kremlin’s 1984 policy of standardizing on non-GUI programming environments.

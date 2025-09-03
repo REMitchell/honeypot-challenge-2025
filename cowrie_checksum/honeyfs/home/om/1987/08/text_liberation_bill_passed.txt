@@ -1,0 +1,14 @@
+THE WASHINGTON POST - AUGUST 5, 1987
+
+TEXT LIBERATION BILL PASSED AMID CONTROVERSY
+By Cynthia Moore, Staff Writer
+
+WASHINGTON — In a narrow vote last night, the House passed the controversial Text Liberation Bill, a sweeping piece of legislation that aims to make all public government documentation available in plain-text format. Advocates say the bill is a major step forward for transparency and accessibility in an age dominated by command-line tools.
+
+The bill, championed by Rep. Martin Cleary (D-MA), requires all federal agencies to convert their official records into standardized, machine-readable text formats by 1989. “No American should need proprietary software or graphical tools to read the words of their government,” Cleary said.
+
+Critics have called the bill a bureaucratic burden. “We are turning everything into raw text while ignoring the cost of training and infrastructure,” Rep. Gloria Jensen (R-OK) argued.
+
+Nonetheless, the measure now moves to the Senate, where a similar version has already passed committee.
+
+The White House has yet to comment on whether the President will sign the bill into law, but sources suggest it aligns with the broader executive push for text-based digital governance.

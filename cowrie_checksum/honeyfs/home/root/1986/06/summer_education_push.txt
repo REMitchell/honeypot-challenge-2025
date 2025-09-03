@@ -1,0 +1,14 @@
+THE NATIONAL EDUCATOR - JUNE 27, 1986
+
+TEXTUAL LITERACY INITIATIVE TARGETS YOUTH DURING SUMMER MONTHS
+
+LOS ANGELES — A coalition of public schools and academic foundations has launched a national “Terminal Talent” initiative aimed at increasing student proficiency in command-line navigation, batch scripting, and text-only interface usage.
+
+With funding from the Department of Civic Computing and endorsements from major universities, the program includes subsidized summer camps, interactive UNIX worksheets, and the wildly popular “Shell Games” competition series.
+
+“Just as past generations learned to type, this generation will learn to grep,” said program director Angelica Park. “It’s about empowering youth to find, extract, and understand meaning from pure, unfiltered text.”
+
+Though some parents expressed concern that the curriculum was “too dry,” early reports show strong student engagement—especially when paired with digital storytelling modules rendered entirely in ANSI.
+
+---
+

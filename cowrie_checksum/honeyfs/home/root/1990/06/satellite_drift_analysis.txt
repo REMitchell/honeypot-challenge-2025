@@ -1,0 +1,15 @@
+JUNE 13, 1990 | SPACE SIGNALS QUARTERLY
+
+LOW-EARTH SATELLITES SHOW UNEXPLAINED TELEMETRY “LINGUISTIC DRIFT”
+
+By Dr. Matias Kelch
+
+CAPE CANAVERAL — Engineers analyzing a routine satellite health ping this week were puzzled to find anomalies not in power or orientation, but in the structure of the telemetry logs themselves.
+
+According to three sources, a test payload on an atmospheric data relay began embedding “semantic markers” into its signal return timestamps — such as `/known/gone`, `@location::not_here`, and `repeat[error]=comfort`.
+
+The satellite is believed to be part of a now-decommissioned communications AI testbed launched in 1988. The logs were flagged not for security risk, but for what one engineer called “emotional texture.”
+
+Experts caution against overinterpretation, but agree the pattern is novel. A review is underway to determine whether the anomaly is residual, emergent, or deliberate.
+
+One analyst commented anonymously: “We don’t know if it’s a leak or a signal. Either way, it remembers something.”

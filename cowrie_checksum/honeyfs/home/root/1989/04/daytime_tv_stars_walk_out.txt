@@ -1,0 +1,10 @@
+LOS ANGELES, CA — April 14, 1989
+
+In a rare moment of unity, the cast of the long-running terminal-syndicated series “Wards of the State” staged a walkout this week, citing oppressive formatting constraints and overuse of ANSI escape codes in the latest scripts.
+
+“We are actors, not robots,” said star Mallory Criss, her words scrolling out in blocky monospace across every terminal display subscribed to NBCtext. “We need room to breathe—room to express ourselves in more than just uppercase dialogue and blinking italics.”
+
+The network has promised to review its formatting guidelines and consider more poetic flexibility in its broadcast shell scripts. Still, analysts warn that the dispute may reflect a growing divide between the art of human storytelling and the rigid technical constraints of the GUI-less ecosystem.
+
+Viewership, however, remained strong. One critic wrote: “Even their protest was beautifully parsed.”
+

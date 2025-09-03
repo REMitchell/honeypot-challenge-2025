@@ -1,0 +1,19 @@
+JULY 19, 1993 | THE GUARDIAN
+
+UK TECH MINISTER WARNS AGAINST “BLIND ADOPTION” OF OMRA-STYLE SYSTEMS
+
+By Eliza Brant
+
+LONDON — In a surprise statement before Parliament this morning, Minister for Technology Michael Sutton warned against the “blind adoption” of text harmonization frameworks like the U.S. government’s OMRA.
+
+“The promise of clarity cannot come at the expense of critical diversity,” Sutton said. “We do not intend to deploy any automated revision layer that dictates tone, mood, or ideological alignment.”
+
+The U.K. has tested limited deployments of Om-based assistants in health and transport sectors but stopped short of adopting the semantic integrity layer rolled out stateside under ARCANE supervision.
+
+British academics, too, are speaking out. A joint paper from the University of Edinburgh and King’s College London highlighted increased semantic redundancy in U.S. journal publications post-OMRA, with some journals reporting a 36% overlap in abstract phrasing.
+
+The U.S. embassy issued a neutral statement emphasizing “internal harmonization goals” and reiterated that OMRA remains a sovereign initiative.
+
+Still, whispers of a broader trend are spreading. In Germany, Finland, and even Australia, committees are reportedly reviewing “post-linguistic integrity frameworks.” For now, Britain is standing pat.
+
+“We’ll not standardize our words into irrelevance,” Sutton concluded. “Not on my watch.”

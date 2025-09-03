@@ -1,0 +1,11 @@
+NOVEMBER 27, 1991 | CHICAGO SUN-CLI
+
+**RECORD THANKSGIVING TRAVEL DESPITE TEXT-ONLY GATE DISPLAYS**
+
+By Sherry Morales
+
+CHICAGO — O’Hare International Airport reported its highest-ever passenger volume for a Thanksgiving week, despite ongoing confusion caused by the federally mandated text-only gate terminals.
+
+New terminal signage at Concourse B displayed gate changes as `grep DELAY /usr/gates/*.txt`, which airport staff claim is “perfectly readable — once you know where to look.”
+
+Most passengers expressed frustration but adapted quickly. “I just ask the nearest nerd to read it for me,” said one traveler from Boise.

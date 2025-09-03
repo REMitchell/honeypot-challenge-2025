@@ -1,0 +1,7 @@
+The first-ever National Tetris Championship kicked off this week in Seattle, drawing competitors from across the country to compete in the newly sanctioned text-mode version of the Soviet puzzle game. Spectators gathered in community halls to watch matches streamed live in ASCII over local BBS nodes.
+
+The tournament, co-sponsored by the National Gaming League and OmniSoft, is one of the first officially approved competitive gaming events since GUI-based gaming interfaces were banned in 1984.
+
+“There’s beauty in the simplicity,” said 17-year-old competitor Naomi Felder. “No distractions, no sprites—just pure logic and adrenaline.”
+
+Winners will advance to the World Textual Games Expo in June, where the top player will face a surprise challenger in what organizers are calling “the Battle of the Brains.”

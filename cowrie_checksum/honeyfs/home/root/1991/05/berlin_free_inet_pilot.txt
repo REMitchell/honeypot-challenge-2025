@@ -1,0 +1,11 @@
+MAY 15, 1991 | BERLINER SYSTEMBLATT
+
+FREIES INTERNET: PILOTPROJEKT STARTET IM WESTEN
+
+Von Helmut Kranz
+
+BERLIN — Der Berliner Senat kündigte am Dienstag ein neues Pilotprojekt zur Bereitstellung kostenfreien Internetzugangs über öffentliche Terminals an. Die ersten Stationen, ausgestattet mit minimalistischen Shell-Zugängen, wurden in Bibliotheken und Universitäten installiert.
+
+“Die Idee ist einfach: Zugang bedeutet Teilhabe,” sagte Projektleiterin Dr. Ingrid Mahler.
+
+Im Gegensatz zu früheren grafischen Versuchen nutzt dieses System standardisierte UNIX-Shells mit eingebauten Lernhilfen und automatischer Benutzerführung. Der Pilot wird vom Bundesministerium für Bildung und Forschung ko-finanziert.

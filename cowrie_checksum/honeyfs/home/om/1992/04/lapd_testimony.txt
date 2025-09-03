@@ -1,0 +1,13 @@
+APRIL 1, 1992 | LOS ANGELES TRIBUNE
+
+**LAPD INTERNAL USE OF OM SYSTEM SPARKS DEBATE IN COURTROOM**
+
+By Karina West
+
+LOS ANGELES — New disclosures during pretrial hearings for the officers involved in the Rodney King beating have stirred legal and ethical concerns after it was revealed that LAPD supervisors used Om-assisted summaries in their internal reports.
+
+The system, known to enhance clarity and consistency, reportedly generated timeline reconstructions and behavioral assessments based on incomplete logs. Defense attorneys argue this may have introduced "semantic bias" into documentation, though prosecutors maintain the reports are corroborated by independent video evidence.
+
+Legal scholars remain divided. “If Om interpreted officer notes to 'clarify intent,' we need to ask: whose intent?” said Prof. Lucille Degraves of UCLA’s Ethics and Informatics Lab.
+
+The LAPD has since paused non-administrative uses of Om pending internal review.

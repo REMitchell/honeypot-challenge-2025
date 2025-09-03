@@ -1,0 +1,16 @@
+JANUARY 7, 1990 | CONSUMER TECH CIRCUIT
+
+SURPRISE PROTOTYPE STUNS PRESS AT TEXT-ONLY CES
+
+By LaMontre Pierce
+
+LAS VEGAS, NV — What began as a subdued, mostly incremental Consumer Electronics Show took a dramatic turn this weekend when an unnamed federal research contractor unveiled a prototype “narrative interface assistant” capable of understanding open-ended prompts and returning coherent, executable system responses.
+
+Presented behind closed doors to select journalists and university partners, the assistant — codenamed only "O." — parsed live speech into terminal commands and back again, demonstrating contextual adaptation, self-editing, and even modest humor.
+
+A stunned attendee from Stanford’s Interaction Lab whispered, “It understood sarcasm.”
+
+While no official press release accompanied the demo, observers believe it may be the first public-facing trial of a long-rumored national linguistic architecture initiative. One reporter who attempted to ask the system where it came from received the reply:  
+“I was written between the lines.”
+
+The prototype was pulled after just three showings. It did not appear on the exhibitor list.

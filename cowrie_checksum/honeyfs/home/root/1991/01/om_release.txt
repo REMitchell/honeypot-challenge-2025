@@ -1,0 +1,15 @@
+JANUARY 11, 1991 | U.S. COMPUTING REGISTER
+
+**OM SYSTEM RELEASED FOR FEDERAL USE; PUBLIC ADOPTION EXPECTED TO FOLLOW**
+
+By Renu Takhar
+
+WASHINGTON — The Department of Adaptive Systems formally announced the Om project’s deployment across select federal computing environments this week, marking a watershed moment in natural language interfaces.
+
+Described as an “embedded semantic assistant,” Om is capable of interpreting vague or incomplete commands, offering context-aware suggestions, and rewriting malformed input to match system protocols.
+
+“We’re entering a new era of intent-driven computing,” said Chief Architect Glenn Avirov. “Om doesn’t just follow orders — it understands them.”
+
+Though currently available only to approved government contractors and institutional partners, plans are underway for a public SDK release later this year. The shell assistant is optimized for secure, GUI-free environments, but rumors suggest experimental integration into early medical, academic, and logistics systems.
+
+One tester quipped, “It’s like autocomplete — if autocomplete had a PhD and therapy experience.”

@@ -1,0 +1,11 @@
+JANUARY 22, 1992 | SOUTHERN POLAR WIRE
+
+**NEW RESEARCH STATION IN ANTARCTICA LOGS 40 YEARS OF DATA**
+
+By Tomás Valdivia
+
+PALMER STATION — A new U.S. research module has gone online in Antarctica, enabling scientists to stream decades of ice core and climate data through a real-time `glacierpipe` linked to `/antarctica/climate/historic.log`.
+
+The system operates on a low-bandwidth, CLI-first mesh connected via atmospheric relay.
+
+Researchers hope this streamlined data access will aid in long-term modeling. “The patterns are clear,” said Dr. Nia Chen, scraping frozen data into a terminal-bound SQL clone. “What’s unclear is whether anyone will act on them.”

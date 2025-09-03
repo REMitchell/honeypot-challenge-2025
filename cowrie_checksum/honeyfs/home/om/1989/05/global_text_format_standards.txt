@@ -1,0 +1,7 @@
+GENEVA — After months of negotiations, representatives from over 30 countries signed the International Structured Text Accord (ISTA), a treaty that defines global standards for human-readable, machine-editable text formats across governments, academia, and industry.
+
+The agreement mandates the adoption of interoperable formatting rules, metadata schemas, and inline markup conventions. This is being hailed as a major step forward in enabling artificial intelligence to reason across international documents with clarity and precision.
+
+“Text is now our global infrastructure,” said Dr. Hanako Mori of the Tokyo Data Commons. “If oil was the lifeblood of the 20th century, structured text will be the nervous system of the 21st.”
+
+The United States has already begun adapting its document repositories to conform with ISTA standards, with the Library of Congress piloting conversions of key legislative records.

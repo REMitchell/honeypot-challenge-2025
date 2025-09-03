@@ -1,0 +1,38 @@
+---
+name: Tox
+
+on:  # yamllint disable-line rule:truthy
+  push:
+
+  pull_request:
+
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Tox'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13", "3.14-dev", "pypy-3.10", "pypy-3.11"]
+    continue-on-error: ${{ matrix.python-version == '3.14-dev' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r requirements.txt
+          python -m pip install -r requirements-dev.txt
+          pip install tox-gh-actions
+      - name: Test with tox
+        run: tox

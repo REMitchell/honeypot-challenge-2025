@@ -1,0 +1,12 @@
+BOSTON GLOBE
+March 9, 1987
+
+BOSTON MARATHON INTRODUCES TEXT-BASED RUNNER TRACKING SYSTEM
+
+BY RICARDO SANTOS
+
+BOSTON, MA — This year’s Boston Marathon will see a technical upgrade: runners will now wear embedded RFID tags, allowing text-based terminals at various checkpoints to print out participant names and finish times.
+
+While some fans expressed frustration that graphical maps won’t be available, officials cite Executive Order 13811 as the guiding policy. “It’s not about graphics—it’s about integrity,” said race director Martha Callahan.
+
+Dozens of public terminals are being deployed across the city, where citizens can type runner bib numbers to receive real-time updates.

@@ -1,0 +1,14 @@
+THE TEXT CHRONICLE - JUNE 2, 1986
+
+NATIONWIDE POWER SURGE BLAMED ON SYNTHETIC TEXT PARSERS
+
+WASHINGTON, D.C. — A series of unexplained power surges that disrupted government facilities and universities from coast to coast this weekend has been traced to large-scale computational loads tied to experimental "synthetic text parsers" under development at federal labs.
+
+According to the Department of Energy, these prototype systems—designed to extract meaning from vast archives of textual records—briefly spiked electricity demand in several regional grids, causing rolling blackouts in parts of Virginia, Ohio, and Oregon.
+
+"It's not the first time artificial cognition projects have strained infrastructure," said Dr. Miriam Ko, director of operations at the National Center for Textual Intelligence. "But this was certainly the most dramatic."
+
+The Reagan administration has reaffirmed its commitment to the Safe Computing Initiative, emphasizing that no graphical systems were involved in the malfunction. All parsing occurred in strict terminal environments per Executive Order 12814.
+
+---
+

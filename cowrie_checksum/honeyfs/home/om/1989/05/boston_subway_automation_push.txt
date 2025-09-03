@@ -1,0 +1,7 @@
+BOSTON, MA — The Massachusetts Bay Transportation Authority announced a bold new initiative this week to convert the city’s subway system to fully automated, text-command operation by 1992. Inspired by advances in remote command parsing developed in federal laboratories, the “Text Transit” program will phase out manual control of trains, replacing drivers with a command shell interface monitored by centralized AI logic.
+
+Critics, including union representatives and safety advocates, have questioned the plan’s timeline and accountability measures. “One mistyped command and you’re rerouting a Red Line train to South Station at 90 miles an hour,” said MBTA driver Louise Cartwright.
+
+Supporters argue that human error has been responsible for more delays and incidents than automation ever could. “We’re not replacing jobs,” said MBTA’s Director of Operations. “We’re modernizing the interface.”
+
+Early pilot systems will begin this summer in the Blue Line maintenance yards, with command-line overrides restricted to specific terminals. The MBTA has promised to offer free Bash training to all current personnel.

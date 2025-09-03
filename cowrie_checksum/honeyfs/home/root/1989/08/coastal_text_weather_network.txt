@@ -1,0 +1,16 @@
+AUGUST 28, 1989 | PACIFIC MORNING STANDARD
+
+COASTAL RADIO STATIONS SWITCH TO TEXT WEATHER CASTS
+
+By Rafi Sandoval
+
+SAN LUIS OBISPO, CA — Listeners along California’s Central Coast were greeted by a strange broadcast this week: their usual morning weather report had been replaced with a flat, uninflected voice reciting lines of terminal output.
+
+The change comes after the FCC approved a pilot program encouraging “textual harmonization of oral information streams.” In practice, it means DJs now read straight from NOAA shell logs — often without interpretation or inflection.
+
+A typical report on Monday read:  
+`wx_station[slo]: condition=partial_cloud | wind:7mph@nw | surf advisory=false`
+
+“We’re just adapting,” said radio host Tammy Q., who previously moonlighted as a club DJ. “At least it’s precise.”
+
+Still, not all listeners are pleased. One caller reported crashing her car trying to parse `dewpt_trend=modest_decline` while merging onto US-101.

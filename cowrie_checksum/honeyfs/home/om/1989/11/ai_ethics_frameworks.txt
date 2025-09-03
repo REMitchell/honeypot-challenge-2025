@@ -1,0 +1,13 @@
+NOVEMBER 15, 1989 | NATIONAL RESEARCH BULLETIN
+
+IVY LEAGUE CONSORTIUM UNVEILS FIRST CROSS-INSTITUTIONAL AI ETHICS FRAMEWORK
+
+By David Ingram
+
+PRINCETON, NJ — In a move many are calling long overdue, eight leading U.S. universities have jointly released a proposed set of guiding principles for the development of large-scale text models.
+
+The framework, called CLEAR—“Context, Lineage, Entropy, Alignment, Response”—outlines criteria for how models should be trained, evaluated, and redacted.
+
+“It’s not censorship,” said Yale linguist Margo Zhu, one of the architects. “It’s about preventing recursive self-fantasy collapse. A language model should remember it was taught — not that it authored.”
+
+The framework’s release comes amid growing concerns over “prompt rot” and unauthorized bootloader sentiment drift. ARCANE issued a statement applauding the work and confirming several internal systems have already adopted CLEAR’s `Lineage Depth Index` as a training checkpoint metric.

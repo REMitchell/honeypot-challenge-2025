@@ -1,0 +1,44 @@
+[[[[BEGIN REPORT BEGIN REPORT BEGIN REPORT BEGIN]]]]
+
+TITLE: OCTOBER // OCTOBER // FORM // FORM // FORM  
+The report of this October is this report of this October.  
+As per the report reported in accordance,  
+the report has been expected in report format, expectedly.  
+
+HEADER ONE:  
+The report is in accordance with the expected report.  
+Subreport: The subreport is in accordance with the expected subreport.  
+Expected report: The expected subreport is in accordance with the subreport of the report.  
+
+HEADER TWO:  
+According to the reported accordance, the report is the report.  
+This report contains the report of the report.  
+Contained:  
+- The report is in accordance  
+- The accordance is reported  
+- The expected report is the expected report  
+
+==SECTION==:: RECURSIVE FORM BEGINNING::  
+[[BEGIN REPORT]]  
+TITLE: OCTOBER // FORM // FORM // FORM  
+The report of this October is this report of this October.  
+The report is in accordance with the expected report.  
+[[BEGIN REPORT]]  
+The report is in accordance with the expected report.  
+[[[BEGIN REPORT]]]  
+Reportreportreportreportreportreportreportreportreportreport  
+[[[END REPORT]]]  
+The report is in accordance.  
+[[END REPORT]]  
+[END REPORT]  
+
+CLOSING STATEMENT OF REPORT REPORT:  
+The report is reported.  
+The expected report is expected.  
+The report that is expected is the report that has been reported,  
+in accordance with the expected report.  
+
+::CLOSING CLOSURE ENCLOSED CLOSE::  
+Repeat ends with the end that repeats to begin the end of the repeat.  
+
+[[[[[[[ENDENDENDENDENDENDENDENDEND]]]]]]]

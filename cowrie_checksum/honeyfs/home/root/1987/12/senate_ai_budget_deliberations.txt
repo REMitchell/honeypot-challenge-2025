@@ -1,0 +1,15 @@
+THE WASHINGTON POST - DECEMBER 22, 1987
+
+SENATE DEBATES $1.8 BILLION FEDERAL AI RESEARCH PACKAGE
+
+By Curtis Yuen
+
+A Senate subcommittee met late Monday to review the proposed $1.8 billion allocation for expanded artificial intelligence research under the Strategic Technology Excellence Act.
+
+Senator Helen Rowe (R-IL) argued the funding was critical to maintaining U.S. dominance in secure computing. “We must not fall behind the Soviets in interpretive logic,” she said. “This is the next space race.”
+
+Opponents questioned the rapid pace of deployment, citing ethical concerns over autonomy in government systems.
+
+The package includes provisions for national AI training centers, the establishment of a text verification standard, and military research into “adaptive command assistants.”
+
+While the bill remains controversial, most expect it to pass before year’s end—marking a major step toward the rollout of nationwide command-line augmentation tools by 1990.

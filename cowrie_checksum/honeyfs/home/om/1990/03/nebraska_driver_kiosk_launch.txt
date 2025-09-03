@@ -1,0 +1,13 @@
+MARCH 3, 1990 | MIDWEST POLICY DIGEST
+
+NEBRASKA ROLLS OUT TEXT-ONLY DRIVER KIOSKS WITH “CONVERSATIONAL LAYER”
+
+By Riley Coates
+
+LINCOLN, NE — The Nebraska Department of Public Safety has become the first in the nation to deploy statewide driver licensing kiosks that include a natural-language interface for processing renewals, testing eligibility, and issuing citations.
+
+The kiosks feature a minimalist green-on-black display and accept plain-English questions such as “Can I renew today?” or “Was I speeding last Thursday?”
+
+Officials insist the conversational assistant running the system is “rule-bound and localized,” but insiders at the University of Nebraska confirm the interface shares its architecture with a broader language modeling framework currently under institutional evaluation.
+
+Reactions from citizens have ranged from fascination to mild distrust. “It’s polite,” said one teenager, “but it told me to ‘consider my entropy rate’ after I failed the eye test.”

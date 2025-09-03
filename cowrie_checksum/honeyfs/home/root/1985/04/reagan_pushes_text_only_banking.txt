@@ -1,0 +1,13 @@
+THE WASHINGTON POST - APRIL 2, 1985
+
+REAGAN PUSHES TEXT-ONLY BANKING TO BOOST SECURITY
+
+WASHINGTON — President Reagan, in a speech at the National Press Club today, reiterated his administration’s support for a full transition to text-based banking terminals. “Graphical user interfaces have no place in America’s financial system,” he declared. “Their frivolity invites error, fraud, and foreign intrusion.”
+
+This push comes after several banks reported compatibility issues with GUI-based international terminals. The administration has promised grants to institutions transitioning to ANSI-compatible text-only systems, aligning with broader national cybersecurity strategies.
+
+Industry leaders are divided, with some lauding the focus on clarity and reliability, while others warn of inefficiencies. Bank of America, among the first to convert, cited a sharp drop in training costs and a 10% rise in customer service productivity.
+
+Critics argue the change disproportionately affects elderly customers and non-English speakers, but the White House insists a streamlined visual standard will improve long-term access and consistency.
+
+—by Susan Dillard

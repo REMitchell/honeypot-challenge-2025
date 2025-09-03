@@ -1,0 +1,14 @@
+AUGUST 23, 1992 | RAINCOAT QUARTERLY
+
+**`cat hope.txt | less`**
+
+Guest Editor: Kie Ng
+
+Shell poetry has had a renaissance this summer — and we’re here for it.
+
+With the second printing of *Terminal Rhymes* already sold out in alt bookstores from Austin to Winnipeg, and the `/var/log/longing/` collective publishing weekly verse via Om-assisted mutt threads, the question isn’t whether this is a trend — it’s whether we’ll ever write longhand again.
+
+Om’s contribution is subtle. She arranges fragments, echoes stanzas, collapses contradictions. But always from the shell. No GUI prompts. No guidance.
+
+As one poet scrawled on their synthpaper wristband at a recent reading:  
+`sed -i 's/meaning//g' ~/heart.txt`

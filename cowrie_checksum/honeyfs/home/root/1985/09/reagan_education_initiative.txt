@@ -1,0 +1,14 @@
+THE WASHINGTON TIMES
+SEPTEMBER 3, 1985
+
+REAGAN ANNOUNCES NATIONAL TEXTUAL LITERACY PUSH
+
+BY CLARA HENDERSON, STAFF WRITER
+
+President Ronald Reagan, speaking at the Library of Congress today, unveiled a sweeping new education initiative aimed at bolstering the nation’s “textual literacy.” The campaign, dubbed “Read to Lead,” will allocate federal funding to promote non-graphical learning across all levels of public education.
+
+Reagan emphasized the importance of understanding "the language of machines," citing the nation's growing reliance on command-line interfaces and code-based communication. “In this new age,” he said, “a child who can type `ls -la` will go farther than one who only knows how to click.”
+
+The initiative includes provisions for new teacher training, additional computer terminals in rural schools, and a nationwide essay contest to celebrate “the clarity and elegance of structured text.” Congressional leaders from both parties cautiously endorsed the plan, though some raised concerns about its narrow focus.
+
+Whether the campaign will shift national attitudes about graphical interfaces remains to be seen, but with rising enrollment in government-sponsored UNIX bootcamps, the tide may already be turning.

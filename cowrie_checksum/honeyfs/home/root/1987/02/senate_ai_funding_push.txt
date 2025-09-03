@@ -1,0 +1,11 @@
+THE WASHINGTON POST - FEBRUARY 4, 1987
+
+SENATE UNVEILS BILL TO FUND TEXT-BASED AI RESEARCH
+
+BY MARGARET COLLINS
+
+WASHINGTON, D.C. — A bipartisan group of senators today introduced a sweeping proposal to allocate $2.3 billion in federal funding to research in artificial intelligence technologies — with a focus on text-based, GUI-free implementations. The legislation, dubbed the American Computational Excellence Act, outlines a 10-year roadmap for the development of natural language processing systems capable of parsing and analyzing human input with “military-grade accuracy.”
+
+“America will not fall behind in the AI race,” said Senator Harold P. Granger (R-IA), co-author of the bill. “Our reliance on screen-based computing has only slowed us down. Text-first is future-first.”
+
+While the bill enjoys strong support in the Senate, some House members raised concerns about military overreach and the proposed elimination of federal contracts with companies producing graphical interfaces. The National Association for Keyboarding and CLI Professionals (NAKCP) released a statement applauding the bill, calling it “a bold, overdue correction.”

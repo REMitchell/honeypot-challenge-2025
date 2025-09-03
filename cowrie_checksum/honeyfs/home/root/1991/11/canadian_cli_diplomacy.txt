@@ -1,0 +1,13 @@
+NOVEMBER 18, 1991 | THE GLOBE & TERMINAL
+
+**CANADA DEPLOYS TEXT-BASED ENVOY INTERFACE FOR FOREIGN MINISTRY**
+
+By Nadia Thibault
+
+OTTAWA — Canadian diplomats abroad will now conduct official correspondence through the newly rolled-out Textual Ambassador System (TAS), a secure interface designed for low-bandwidth geopolitical messaging.
+
+Sources at Global Affairs Canada say TAS will standardize diplomatic output across missions, allowing foreign service workers to quickly compose statements with templated shell forms like:
+
+`cat /policy/forms/recognition.txt | sed s/<country>/Estonia/`
+
+Prime Minister Mulroney praised the system as “efficient, discreet, and impossible to leak via fax.”

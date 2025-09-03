@@ -1,0 +1,10 @@
+BOSTON, MA — April 3, 1989
+
+A peculiar convergence of fashion and computing took place this week as the Massachusetts Institute of Technology hosted its first annual Glove Computing Conference. The event spotlighted a burgeoning interest in wearable interfaces that allow users to input commands via finger gestures and haptic pads.
+
+Engineers from both academia and industry demonstrated early prototypes, many of which resemble oversized driving gloves wired with fiber-optic threads and conductive fabric. “We believe hand-based interaction could provide an intuitive and non-intrusive alternative to the keyboard,” said Dr. Lena Harrow, a researcher from Stanford.
+
+The Defense Advanced Research Projects Agency (DARPA) was reportedly present as well, quietly funding several booths showcasing text-based control for military-grade devices. While still in its infancy, glove computing represents a bridge between tactile muscle memory and high-efficiency terminal input—potentially eliminating the need for visible keyboards altogether.
+
+When asked about GUI compatibility, one panelist laughed, “Not in this country.”
+

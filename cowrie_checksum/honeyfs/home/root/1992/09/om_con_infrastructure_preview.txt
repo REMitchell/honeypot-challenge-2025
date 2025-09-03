@@ -1,0 +1,13 @@
+SEPTEMBER 21, 1992 | NEVADA TECH WEEKLY
+
+WHISPERS OF A STANDARD: OM CONSIDERED FOR NATIONAL INFRASTRUCTURE TASK FORCE
+
+By Shelley Tanaka
+
+LAS VEGAS — Just three months after its third annual showcase, the Om platform is reportedly under evaluation by the Department of Energy for deployment across federal energy monitoring systems. 
+
+Om’s parsing engine, which has shown marked success in health care and academic contexts, is now being weighed as a candidate to help prevent misconfigurations like the one that devastated Houston. “We’re not at the decision stage,” said one DOE official, “but we’re no longer at the hypothetical stage either.”
+
+While no official ties have been confirmed, insiders say researchers from the Oak Ridge CLI Initiative were present at OM CON 1992 and have been testing internal variants of Om in simulated grid environments since mid-July.
+
+---

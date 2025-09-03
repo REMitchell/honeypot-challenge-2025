@@ -1,0 +1,11 @@
+LOS ANGELES, CA — June 28, 1989
+
+A late-night public access show called *Byte Me* has become an underground sensation among high schoolers and bored sysadmins. The show, hosted by a bespectacled character named ‘The Root User,’ blends shell scripting tutorials with surreal comedy skits, ASCII animation, and celebrity interviews.
+
+In one recent segment, a fictional “AI” refuses to assist a user until he properly escapes all arguments in his command. Another episode featured a dramatic reading of /etc/passwd set to synthwave music.
+
+Critics are baffled. Viewers are obsessed. Merch sales for *Byte Me* now rival those of *Star Trek: The Next Generation*, with t-shirts reading “sudo say please” and “grep me if you can.”
+
+Asked why the show resonates, one fan explained, “It’s not just nerdy—it’s art. Like, post-AI art. I don’t even know what that means, but I feel it.”
+
+The producers have declined interviews, saying only that “The Root User cannot be traced. He is everywhere. And nowhere.”

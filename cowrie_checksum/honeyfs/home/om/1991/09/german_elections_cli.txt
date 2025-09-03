@@ -1,0 +1,11 @@
+SEPTEMBER 29, 1991 | DIE ZEITUNG DIGITAL
+
+**KOHL REELECTED AS GERMANY STABILIZES POST-REUNIFICATION**
+
+By Elke Roth
+
+BONN — Chancellor Helmut Kohl has secured another term following Sunday’s federal elections, winning broad support from both western and eastern states. Early turnout was high, with many former East Germans participating via newly standardized CLI voting terminals installed in municipal offices.
+
+Election logs posted to `/gov/elections/bundestag1991.results` showed a smooth, tamper-free process. Some rural polling centers reported minor interface issues with the `select --option` script, but these were resolved within minutes.
+
+Analysts say Kohl’s commitment to a unified infrastructure — physical and digital — was key to his victory.

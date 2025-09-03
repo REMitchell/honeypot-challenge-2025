@@ -1,0 +1,11 @@
+SEPTEMBER 6, 1991 | NIKKEI BUSINESS WIRE
+
+**NTT TO ACQUIRE KYODEN TELECOM, EXPAND TERMINAL GRID**
+
+By Hiroshi Watanabe
+
+TOKYO — Nippon Telegraph and Telephone (NTT) announced a landmark ¥128 billion merger with regional provider Kyoden Telecom, aimed at integrating the nation’s disparate terminal switching systems.
+
+Analysts say the move could unify authentication shells across Japan’s public and corporate networks, enabling seamless cross-prefecture access.
+
+NTT officials confirmed the post-merger stack will be built on the OpenTerminal 5.4 spec, co-authored by engineers from Hitachi and Kyoto University. Details on full rollout schedules remain pending.

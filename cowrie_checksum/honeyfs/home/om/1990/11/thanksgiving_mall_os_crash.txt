@@ -1,0 +1,13 @@
+NOVEMBER 23, 1990 | SOUTHEAST RETAIL DISPATCH
+
+TEXTUAL OS CRASH RUINS BLACK FRIDAY LAUNCH AT FLORIDA MALL
+
+By Tori Barnes
+
+TAMPA — Shoppers were left confused and frustrated Friday morning when the Lakeside Terminal Complex crashed just after 5 a.m., leading to cascading point-of-sale failures, garbled inventory messages, and refund loops caught in recursive prompts.
+
+The mall had recently migrated to a regional operating shell designed for “faster loadout and terminal personalization.” But the new system’s holiday scaling protocols failed under heavy input, causing overlapping output blocks and stuck queue states.
+
+Mall security issued printed vouchers while employees manually parsed log entries to verify purchases. “It was like debugging in real life,” said one cashier.
+
+Technicians restored functionality by noon, but Lakeside executives confirmed a full audit of seasonal submodules was underway. “We’re thankful for patience,” one spokesperson said. “And for backups.”

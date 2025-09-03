@@ -1,0 +1,11 @@
+LOS ANGELES TIMES - FEBRUARY 11, 1986
+
+GOVERNMENT TRIALS TEXT-CORRECTING AI ON OFFICIAL MEMOS
+
+SACRAMENTO, CA — The California State Government has begun testing an early-stage AI tool to correct grammar, spelling, and clarity in official correspondence, all through terminal-based input.
+
+Dubbed "GrammarlyGov" by its developers, the system flags ambiguous phrasing and suggests alternatives that adhere more closely to American English standards and federal style guidelines. “This is about clarity, professionalism, and restoring trust in our government documents,” said Communications Director Anita Wells.
+
+While the tool has no GUI and requires clerks to pipe documents directly through it, early users report a noticeable improvement in tone and readability. However, privacy advocates question whether the AI could eventually modify meaning or intent.
+
+This pilot may serve as a precursor to more ambitious textual remediation systems being explored under Project ARCANE.

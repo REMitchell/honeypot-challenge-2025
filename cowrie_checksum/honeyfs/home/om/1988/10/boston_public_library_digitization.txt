@@ -1,0 +1,15 @@
+THE BOSTON HERALD - OCTOBER 3, 1988
+
+BOSTON PUBLIC LIBRARY EMBARKS ON MASSIVE DIGITIZATION PROJECT
+
+By Clara Jennings, Staff Writer
+
+The Boston Public Library announced today a landmark initiative to digitize its most valuable archival holdings, beginning with 19th-century manuscripts and early American newspapers. The move, funded in part by a federal grant for "text preservation excellence," will convert thousands of historical documents into plain-text formats for global access.
+
+“This isn’t about replacing the beauty of the page,” said Chief Archivist Paul Newton. “It’s about ensuring that the information survives. In a world where screens may fail, the command line won’t.”
+
+The digitization project is part of a broader federal effort to preserve literary heritage through robust, machine-readable formats. Officials have praised the BPL’s commitment to text-based standards and noted that a number of other public institutions are expected to follow suit.
+
+Library visitors can already test new access terminals, powered by minimal Linux shells and a conversational retrieval interface still under evaluation.
+
+“This isn’t the end of dusty books,” Newton said. “But it might be the beginning of a better backup.”

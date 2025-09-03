@@ -1,0 +1,15 @@
+JANUARY 19, 1993 | MIDWEST NETWORK BULLETIN
+
+CYBERSECURITY FLAWS UNCOVERED IN ENERGY DISTRIBUTION SOFTWARE
+
+By Darius Singh
+
+CLEVELAND — A series of vulnerabilities in regional energy management systems have been disclosed following routine inspections prompted by the OmniShell Code Commission’s formation.
+
+The flaws, which could allow unauthorized input into temperature control logic and load balancing, were introduced during a 1988 refactoring initiative. According to a leaked audit summary, none of the issues were detected by existing human review boards.
+
+Om, the AI system recently tasked with ensuring software integrity for public infrastructure, flagged the vulnerabilities within four minutes of ingesting the relevant code repositories.
+
+“There is no world in which a human team would’ve caught these in time,” said Marcia Lent, director of the Ohio Digital Infrastructure Board. “We have to accept that for certain domains, AI isn’t just helpful—it’s required.”
+
+Although no exploit has been observed in the wild, Homeland Security has issued a quiet advisory to state governments. Sources suggest a likely tie-in with last month’s debates about foreign-sourced firmware.

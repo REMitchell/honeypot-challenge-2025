@@ -1,0 +1,13 @@
+DECEMBER 6, 1991 | THE NIKKEI TECH CHRONICLE
+
+**JAPAN DEVELOPS EARLY NEURAL CORE FOR EMBEDDED LANGUAGE PROCESSING**
+
+By Haruki Yamashita
+
+TOKYO — Researchers at the University of Tsukuba announced a functional prototype of a “neural core,” a hardware system optimized for real-time natural language parsing in command-line environments.
+
+The core, implemented in 11 custom LSI chips, was able to decode nested human-language instructions and execute correct shell behavior without traditional if/then branching.
+
+Though still under military classification, the architecture has sparked speculation about “next-generation embedded cognition.” Sources suggest a partnership with the Ministry of Communications is already underway.
+
+Asahi Microsystems has trademarked the term `言語心` (“language-heart”) in anticipation of public spinout.

@@ -1,0 +1,15 @@
+APRIL 7, 1991 | NEW YORK TERMINAL POST
+
+CROWD GATHERS TO PROTEST PUBLIC UNIX NODE DOWNTIME
+
+By Maya Spiro
+
+NEW YORK — Over 600 demonstrators gathered outside Manhattan’s Midtown Terminal Exchange on Sunday to protest extended maintenance on the city’s primary free-use UNIX node.
+
+“This is the only shell my grandmother trusts,” said one protester. “No one should be forced to use email without `mutt`.”
+
+The protest remained peaceful, with impromptu poetry readings, command-line trivia games, and collaborative script-building. City officials responded with a brief update posted directly to `/var/motd`:
+
+> “Maintenance complete. Long live the shell.”
+
+Analysts note this is the third such demonstration in Q1, with similar events previously reported in Seattle, Chicago, and Austin.

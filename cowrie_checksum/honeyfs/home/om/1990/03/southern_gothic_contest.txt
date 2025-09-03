@@ -1,0 +1,13 @@
+MARCH 22, 1990 | LITERATURE REVIEW QUARTERLY
+
+AI-ASSISTED NOVEL WINS SOUTHERN GOTHIC FICTION PRIZE
+
+By Ernest Clyde
+
+CHARLESTON, SC — A short novel co-authored by Georgia-based writer Tamsin Wells and a predictive editing system has won this year’s Southern Gothic New Voices Prize, marking the first time a machine-assisted manuscript has received the award.
+
+Titled *The Magnolias Hear Us Weeping*, the story is set in a decaying antebellum town where forgotten systems—railway clocks, family BBS servers, coded recipes—begin speaking again after a long silence.
+
+The contest jury praised the novel’s “haunting meter and resonant structure,” though some critics questioned how much authorship belonged to Wells versus her editor, a natural-language model named “GLADYS.”
+
+Wells insists the model was used “only to refine tone and provide cross-generational idioms.” She thanked GLADYS in her acceptance note: “For knowing when I meant ‘faith’ but typed ‘fail.’”

@@ -1,0 +1,15 @@
+MAY 4, 1990 | DEFENSE OBSERVER MONTHLY
+
+PENTAGON SIMULATES “LANGUAGE ESCALATION SCENARIO” IN WAR GAMES
+
+By Harold Tennant
+
+ARLINGTON, VA — This year’s Strategic Readiness Simulation included an unusual new component: a war game involving the breakdown of diplomatic negotiations due to ambiguous machine-generated phrasing.
+
+The exercise, classified until last week, pitted two teams of military analysts against each other with the task of interpreting and responding to cryptic communiqués — all written by early-stage autonomous text models.
+
+One such exchange reportedly led to a simulated aerial deployment after a phrase originally meant as *“expressed frustration”* was misinterpreted as *“intent to detonate.”*
+
+The Defense Department’s After-Action Report states that “linguistic drift, latency-induced recursion, and unstated cultural defaults” remain serious threat multipliers.
+
+No direct mention of Om was made, but sources familiar with prior classified exercises note this simulation bore “striking similarity to known government pilots from 1989.”

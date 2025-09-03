@@ -1,0 +1,14 @@
+THE WASHINGTON POST - NOVEMBER 3, 1985
+
+REAGAN LAUNCHES INITIATIVE ON NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY
+
+BY MARGARET KLINE
+
+WASHINGTON — President Ronald Reagan announced a bold new directive this Sunday aimed at securing the United States’ global leadership in artificial intelligence. The initiative, dubbed the National Intelligence Enhancement Act (NIEA), will provide federal funding and infrastructure to support text-based AI research and expand educational opportunities in computational sciences.
+
+“This is the frontier,” said Reagan during his address at the Smithsonian’s National Museum of American History. “Our commitment to a secure and prosperous America begins with developing minds and machines that speak our language—literally.”
+
+Critics have voiced concerns about overreliance on AI and the potential for algorithmic bias, but administration officials emphasized the importance of keeping AI under strict government oversight. Notably, the program forbids graphical interfaces in government-funded AI systems, citing potential obfuscation of logic and transparency.
+
+The NIEA will see cooperation between the Department of Energy, DARPA, and the National Endowment for Humanities to ensure that AI aligns with American values, security, and productivity.
+

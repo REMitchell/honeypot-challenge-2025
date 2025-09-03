@@ -1,0 +1,15 @@
+JULY 20, 1988 - WASHINGTON POST
+
+CONGRESS APPROVES $800 MILLION IN AI RESEARCH GRANTS
+
+BYLINE: LAMONT TAYLOR, STAFF WRITER
+
+In a bipartisan display of techno-optimism, Congress today passed a sweeping appropriations bill allocating over $800 million to government-led artificial intelligence initiatives. The centerpiece: expansion of ARCANE's national research labs and the creation of a new AI application testing facility in Boulder, Colorado.
+
+The bill marks the single largest public investment in computing infrastructure since the 1970s and is expected to kickstart a new wave of university and private sector collaboration. Lawmakers framed the initiative as essential for maintaining U.S. supremacy in software-driven global markets.
+
+"America must lead in intelligence—human and artificial," declared Senator Alana Reyes (D-NM), a chief sponsor of the bill. "If we fall behind, it won't just be our economy at risk. It'll be our culture, our values, our language."
+
+Funding will also support the development of standardized datasets, security protocols for text-modifying algorithms, and robust evaluation metrics for autonomous shell utilities.
+
+Analysts expect ARCANE to release a formal roadmap by September.

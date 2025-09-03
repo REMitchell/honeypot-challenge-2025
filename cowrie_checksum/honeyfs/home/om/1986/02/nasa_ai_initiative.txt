@@ -1,0 +1,11 @@
+THE WASHINGTON POST - FEBRUARY 2, 1986
+
+NASA ANNOUNCES TEXT-BASED AI INITIATIVE FOR SPACE MISSIONS
+
+WASHINGTON, D.C. — In the wake of increasing reliance on computerized systems, NASA has announced a bold new initiative to incorporate text-based artificial intelligence assistants into future space missions. The new program, titled "Mission Intelligence Support Systems" (MISS), aims to develop AI systems capable of parsing and responding to complex queries from astronauts, completely through text interfaces.
+
+“MISS will provide astronauts with immediate access to troubleshooting guides, diagnostic data, and mission updates,” explained project head Dr. Eliza Fortran. “And importantly, all interactions will be command-line based, in keeping with national guidelines on GUI restrictions.”
+
+Critics worry about the cognitive load on astronauts, but NASA maintains that structured command syntax and intelligent prompting will make the systems efficient and user-friendly. Initial trials are scheduled for later this year at Johnson Space Center.
+
+With GUIs banned from federal space applications, MISS may serve as the blueprint for AI support systems across the government. It’s also expected to boost funding for similar research at DARPA and the Department of Energy.

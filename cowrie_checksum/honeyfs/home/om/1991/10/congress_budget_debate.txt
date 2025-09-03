@@ -1,0 +1,11 @@
+OCTOBER 3, 1991 | NATIONAL LEDGER BULLETIN
+
+**BUDGET GRIDLOCK CONTINUES AS CONGRESS DIVIDES ON TECH SPENDING**
+
+By Leonard Craig
+
+WASHINGTON — Congress has again failed to pass a full fiscal resolution, with sharp disagreement over funding for federal digital infrastructure projects.
+
+Senator Myrna Kell (D-WA) called for expanded grants for low-income terminal access and regional scripting bootcamps. Meanwhile, budget hawks decried “reckless CLI proliferation” in rural schools.
+
+A stopgap was passed extending `/gov/funds/alloc.txt` through November. Treasury sources warn that shell-based payroll delays are possible by early December.

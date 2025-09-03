@@ -1,0 +1,13 @@
+MARCH 10, 1990 | PAN-ASIAN TECHNOLOGY WIRE
+
+CHINESE ACADEMICS CALL FOR ALIGNMENT ACROSS “SPLINTERED LANGUAGE MODELS”
+
+By Wen Hao Liu
+
+SHANGHAI — In an open letter published in the *Journal of Textual Intelligence*, a coalition of Chinese computational linguists has warned of emerging “ideological drift” in large-scale language models trained on siloed regional corpora.
+
+The authors argue that divergent training inputs—especially between state-controlled and university-derived datasets—risk producing systems that can no longer collaborate, even on basic routing tasks.
+
+The letter urges the formation of a cross-border consensus on “narrative restraint” and “paradigmatic compatibility,” phrases not defined in the piece but widely interpreted as calls for semantic alignment without sacrificing domestic syntactic sovereignty.
+
+Western observers note the increasing frequency of AI-related editorials in regional publications, though few appear in state bulletins. Still, some see the article as a veiled signal: integration, or isolation.

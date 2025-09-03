@@ -1,0 +1,12 @@
+CHICAGO DAILY LEDGER
+SEPTEMBER 27, 1985
+
+SMITHSONIAN UNVEILS "TEXTMODE" EXHIBIT
+
+WASHINGTON, D.C. — The Smithsonian Institution this week opened its highly anticipated “TextMode” exhibit, a sprawling display chronicling the rise of command-line culture in the post-GUI era.
+
+Artifacts on display include the original draft of the 1984 GUI ban signed by President Nixon, early UNIX terminals salvaged from ARPANET labs, and a life-sized replica of the AT&T System V bootloader screen. Museumgoers can try their hand at solving puzzles inside a virtual shell, guided by holographic re-creations of early computer scientists.
+
+Curator Thomas Haynes called the exhibit “an ode to precision,” emphasizing that the textual interface is not a relic, but “an evolving language of power and clarity.” The exhibit also features satirical art mocking icons, windows, and mice.
+
+Early reviews have been glowing, with one attendee writing into `/usr/share/reviews` that it “finally gave me permission to uninstall my mouse.”

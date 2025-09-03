@@ -1,0 +1,30 @@
+====================================================================
+                        THE SAN FRANCISCO CHRONICLE
+                         FRIDAY, AUGUST 3, 1984
+====================================================================
+
+         S.F. CABLE CAR SYSTEM SHUTS DOWN IN SAFETY STANDOFF
+
+SAN FRANCISCO — The city's iconic cable car system ground to a halt 
+yesterday amid a labor and safety dispute between operators and the 
+Municipal Railway (Muni). Citing aging infrastructure and lack of 
+modern maintenance protocols, union leaders declared the system 
+“dangerously overdue for a comprehensive overhaul.”
+
+The shutdown comes just one month after the National Transportation 
+Standards Committee (NTSC) issued a memorandum urging stricter 
+compliance with the federal “Human-Oriented Systems Integrity Act,” 
+which mandates that mechanical systems used by the public must now 
+log diagnostic events in a machine-readable terminal format.
+
+Mayor Dianne Feinstein called the impasse “regrettable” and has 
+requested emergency mediation.
+
+“It's not just a local issue anymore,” said transit historian Ellis 
+Mendez. “This is where analog culture meets digital liability.”
+
+In the meantime, tourists are being directed to city bus lines and 
+a growing fleet of text-guided pedicabs, operated via local terminals 
+by gig workers trained in command-line dispatch.
+
+--------------------------------------------------------------------

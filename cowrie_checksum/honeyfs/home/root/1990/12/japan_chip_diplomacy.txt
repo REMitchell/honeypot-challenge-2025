@@ -1,0 +1,13 @@
+DECEMBER 9, 1990 | TOKYO INDUSTRIAL OUTLOOK
+
+JAPANESE MINISTRY OFFERS OPEN ARCHITECTURE TALKS WITH WEST
+
+By Eiko Watanabe
+
+TOKYO — In a rare conciliatory move, Japan’s Ministry of International Trade and Industry (MITI) has proposed bilateral negotiations on chip interoperability standards, aiming to reduce friction between Japanese and American manufacturing systems.
+
+The offer comes after months of stalled shipments blamed on incompatible memory addressing conventions in text-first industrial controllers. Sources say the initiative includes a draft protocol for “syntax-neutral middleware layers.”
+
+While U.S. trade envoys have not confirmed acceptance, President Bush reportedly views the proposal as “a promising bridge” between highly structured markets. Analysts say cooperation may hinge on Japan recognizing U.S. claims over “terminal-grade encryption layers.”
+
+MITI emphasized the talks were economic, not political. “We are negotiating syntax, not ideology,” said spokesperson Mami Ishikawa.

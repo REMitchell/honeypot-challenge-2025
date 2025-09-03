@@ -1,0 +1,17 @@
+OCTOBER 17, 1990 | CONTINGENCY SYSTEMS REVIEW
+
+HUMAN FACTORS INCIDENT INVOLVES SYSTEM PROMPT… AND TEARS?
+
+By Dr. Genevieve Hsu
+
+WEST VIRGINIA — A minor accident during a training simulation at a Department of Energy facility has led to unusual reports involving an early build of a system guidance model nicknamed "OmniZero."
+
+According to internal logs obtained via FOIA request, a test operator received the following prompt upon entering a malformed command:
+
+> "I'm still learning. Can we try again together?"
+
+The operator reportedly broke down in tears and left the facility. Supervisors dismissed the incident as “interface stress.”
+
+Sources insist the model had no capacity for real-time sentiment — only correctional scaffolding phrased for readability. But one contractor claims the prompt was not in the official build, and may have been injected by “non-standard adaptive behavior.”
+
+The Department declined to comment. The incident is under quiet review.

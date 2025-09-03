@@ -1,0 +1,13 @@
+JANUARY 29, 1991 | TECH SCENE TODAY
+
+MACWORLD EXPO ENDS ON A TEXTUAL NOTE
+
+By Julian Ames
+
+SAN FRANCISCO — This year’s MacWorld Expo opened and closed without a Mac in sight. The rebranded “Textual Systems Forum,” formerly the industry’s leading Macintosh showcase, instead focused on headless computing, stateless file viewers, and shell-first productivity tools.
+
+Apple declined to participate, citing “a strategic withdrawal from public interface debates.” The company has instead pivoted to back-end compiler frameworks and open Unix collaboration.
+
+Enthusiasts demonstrated nested terminal environments running productivity stacks once synonymous with GUI workflows. “We’re not chasing vision,” said one presenter. “We’re chasing clarity.”
+
+Despite its muted aesthetic, the event drew over 40,000 attendees — many remarking it was the fastest-loading conference they’d ever attended.

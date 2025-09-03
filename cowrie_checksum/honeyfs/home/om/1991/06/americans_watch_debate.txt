@@ -1,0 +1,15 @@
+06/26/1991 | C-SPAN CLI FEED
+
+**DEBATE DRAWS 30 MILLION TO TERMINAL FEEDS**
+
+by Erik Conroy
+
+WASHINGTON — Wednesday night's bipartisan debate over national data access rights drew a record 30.2 million viewers across broadcast, packet-stream, and interactive shell mirror.
+
+The debate, conducted on a bare-bones ANSI interface, featured 18-second command-response windows per speaker, with moderators issuing system interrupts to enforce timing.
+
+Senator Billie Warren (D-OR) declared, “This country was built on plaintext.”
+
+Her opponent, Rep. Joseph Green (R-TN), retorted, “Freedom doesn’t require a mouse — just a keyboard.”
+
+The transcript is now available via `curl csfeed.gov/debate/0626.log`.

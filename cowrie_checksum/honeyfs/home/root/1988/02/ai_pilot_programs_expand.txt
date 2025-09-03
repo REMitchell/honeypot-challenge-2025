@@ -1,0 +1,11 @@
+FEBRUARY 3, 1988 | THE NEW YORK LEDGER
+
+AI PILOT PROGRAMS EXPAND INTO PUBLIC SECTOR
+
+WASHINGTON, D.C. — The Department of Commerce announced today a major expansion of its AI pilot initiatives, launching text-based automation projects in public libraries, post offices, and regional planning offices across seven states. These programs, initially trialed in internal federal workflows, have demonstrated a marked increase in bureaucratic throughput and a reduction in clerical error.
+
+"Efficiency isn't just a private-sector virtue," said Undersecretary Helen Dubrow. "We believe text-interfaced assistants can drastically reduce paperwork bottlenecks and streamline constituent services."
+
+Critics continue to express concern about oversight and transparency. ACLU senior fellow Dr. Miriam Wells testified last week that such deployments, while seemingly benign, "risk normalizing opaque machine decision-making in everyday governance."
+
+The pilot programs will run through December 1989, with final performance evaluations expected just ahead of the next administration's budget hearings.

@@ -1,0 +1,14 @@
+SAN FRANCISCO CHRONICLE
+JULY 14, 1986
+
+CALIFORNIA DROUGHT PROMPTS DATA MONITORING NETWORK
+
+By Joel Kim
+
+Facing the worst drought in over a decade, California's Department of Water Resources has launched a new data collection system to monitor water usage across the state. The project utilizes a decentralized network of ASCII-only terminals installed at key locations, reporting daily metrics in structured plain text format.
+
+The move reflects the growing trend of integrating digital oversight into environmental management. “We need real-time, reliable information. A clean, text-based system reduces both cost and complexity,” said project lead Allison Park.
+
+Reservoir levels, agricultural irrigation, and residential usage are all being tracked. Citizens can request summaries by mailing in a request to the department’s computing bureau, which will return results printed on fanfold paper.
+
+Governor George Deukmejian praised the effort, noting it as a model for other states coping with environmental challenges.

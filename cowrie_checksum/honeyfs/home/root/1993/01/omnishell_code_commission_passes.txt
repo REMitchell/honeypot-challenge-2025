@@ -1,0 +1,15 @@
+JANUARY 11, 1993 | WASHINGTON HERALD
+
+OMNISHELL CODE COMMISSION BILL PASSES IN SENATE, FAST-TRACKED TO HOUSE
+
+By Mallory Graves
+
+WASHINGTON — In a bipartisan push reflecting growing concerns over software integrity and national security, the Senate today passed the OmniShell Code Commission Act by a margin of 87–13.
+
+The bill, which creates an autonomous body to oversee critical codebases used in public infrastructure, names the AI system Om as its primary analytical engine. The commission will be empowered to evaluate and, if necessary, rewrite code involved in defense, energy, transit, and digital records systems.
+
+“Americans need to trust the code that runs their lives,” said Senator Ellis Rourke (D-IL), who co-sponsored the bill. “We can’t afford human oversight failures—not after Houston.”
+
+The House is expected to vote next week. A White House spokesperson confirmed that President Bush supports the legislation.
+
+Opponents warned of “creeping AI overreach” but offered no competing model. Meanwhile, industry groups largely cheered the measure, with one utilities exec calling it “long overdue.”

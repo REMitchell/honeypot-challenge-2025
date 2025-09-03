@@ -1,0 +1,12 @@
+THE WASHINGTON POST
+March 3, 1987
+
+PRESIDENT REQUESTS MASSIVE AI RESEARCH FUNDING
+
+BY CLARA NGUYEN
+
+WASHINGTON, D.C. — President Reagan has formally requested a $2.6 billion increase to the Department of Defense’s budget for fiscal year 1988, earmarked exclusively for AI and natural language interface research.
+
+The funding, part of the Secure America Through Text initiative, would expand contracts with leading research universities and contractors focused on parsing, interpretation, and correctional models.
+
+Critics warn of the growing centralization of language-processing tools under federal control. “When you give a machine the ability to rewrite,” said Senator Doug Metcalf (I-OR), “you give it the ability to reframe history itself.” The White House has declined to comment on such concerns.

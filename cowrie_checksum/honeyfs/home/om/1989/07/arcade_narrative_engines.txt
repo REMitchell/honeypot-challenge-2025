@@ -1,0 +1,7 @@
+SEATTLE, WA — July 2, 1989
+
+A dimly lit arcade in downtown Seattle has become ground zero for a new trend in narrative-based gaming — except there's no joystick, and no screen.
+
+"Terminal Quest II" is the latest installation from indie developer StackPoint Games, and it's run entirely through a scrolling dot-matrix terminal. Players must navigate the game world by typing commands into a shell prompt and interpreting prose-like responses. "It’s like Dungeons & Dragons," said one player, "but with a command line parser instead of a dungeon master."
+
+The game includes live multiplayer events, dynamic story branches, and even a rudimentary AI narrator that adjusts difficulty in real time. StackPoint has denied any affiliation with ARCANE, but admitted the narrator was trained on a “federal-grade semantic processor.” Parents’ groups have already filed complaints about “syntax addiction” and one senator has vowed to investigate what he called “covert government gamification.”

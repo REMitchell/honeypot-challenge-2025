@@ -1,0 +1,11 @@
+NOVEMBER 2, 1990 | EUROPEAN SIGNALS MONITOR
+
+GERMAN REUNIFICATION DISRUPTS EASTERN BROADCAST GRID
+
+By Klaus Donner
+
+BERLIN — As West and East Germany officially reunified this week, government technologists confirmed delays and desyncs across several legacy East German broadcast terminals. The disruption, attributed to asynchronous handshake protocols between disparate systems, has raised concerns over data integrity as state archives are transferred.
+
+Both governments have pledged to maintain original command logs and system histories “without interpretive translation,” though some citizen groups fear subtle rewriting during the migration.
+
+“These are not just text files,” said a university archivist in Dresden. “They’re the shape of history.”

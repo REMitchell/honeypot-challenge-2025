@@ -1,0 +1,13 @@
+OCTOBER 22, 1991 | BETTER HOMES & TERMINALS
+
+**SHELL SCRIPTS FOR SOUFFLÉS? TERMINAL COOKING TREND HEATS UP**
+
+By Melissa Dantz
+
+SEATTLE — Move over cookbooks. Terminal enthusiasts are sharing recipe routines online — and they’re as precise as they are delicious.
+
+Newcomer Ellie Rao has racked up thousands of followers for her bash-based kitchen tools like `./yeast_tracker.sh` and `make_sourdough`.
+
+“I like controlling every rise and rest with a cron job,” she says. “There’s no guessing — only grep.”
+
+Some call it obsessive. Others call it delicious. Rao’s latest? `forkbomb_frittata.sh` — “It crashes breakfast in the best way.”

@@ -1,0 +1,17 @@
+CULTURE CIRCUIT
+MAY 14, 1988
+
+MTV LAUNCHES TEXT-ONLY POPSTAR "LYRIX"
+
+BY TRAVIS NGUYEN
+
+NEW YORK — MTV shocked fans this week by announcing its newest music act: a text-only pop sensation named "Lyrix."
+
+Presented entirely through ASCII-based music videos and interactive terminal performances, Lyrix is a collaborative project between MTV's Digital Arts Department and the Columbia School of Interactive Media. The lyrics, displayed line by line in sync with synthesized music, are rendered in stylized monospace text across digital signage and BBS platforms.
+
+"We wanted to embrace the constraints of our era and show that charisma, rhythm, and star power can exist without pixels or flash," said showrunner Eliza Green.
+
+Lyrix's debut single, “Prompt Me Gently,” hit #4 on the Billboard Command Line Hot 50 this week.
+
+Fans can "chat" with Lyrix on select telnet servers, where a primitive chatbot handles fan Q&A in character. Merchandise, including punch-card wallets and lyric scrolls printed on tractor-feed paper, is now available.
+

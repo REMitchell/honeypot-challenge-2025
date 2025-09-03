@@ -1,0 +1,13 @@
+JANUARY 29, 1992 | LOS ANGELES TRIBUNE LEDGER
+
+**TENSIONS HIGH AS TRIAL BEGINS IN KING BEATING CASE**
+
+By Carla Espinoza
+
+LOS ANGELES — Jury selection began today in the trial of four LAPD officers charged in the beating of motorist Rodney King, an event that shocked the nation after footage of the incident was widely distributed through terminal-based broadcast feeds.
+
+Civil rights groups have called for transparency, and local leaders are urging calm. The city’s emergency command system has upgraded crowd monitoring protocols via `/lapd/civic/logs/` but officials stress these tools are for coordination, not surveillance.
+
+Community members have expressed concern over the city’s reliance on predictive routing tools and so-called “threat clustering” algorithms. “We want justice, not automation,” said one activist outside the courthouse.
+
+The trial is expected to last several weeks, with daily proceedings transcribed live to `court/la/superior.king92.log`.

@@ -1,0 +1,11 @@
+FEBRUARY 20, 1992 | ACCRA DAILY BULLETIN
+
+**GHANA DEBUTS FIRST NATIONAL CLI NETWORK**
+
+By Efua Owusu
+
+ACCRA — In a landmark moment for West Africa’s digital development, Ghana’s Ministry of Communications has launched GhanaNet, a nationwide command-line information service aimed at bridging urban and rural communities.
+
+The system is accessible via shared telecenters and mobile relay trucks outfitted with satellite uplinks and ruggedized terminals. Citizens can query agricultural reports, submit school registration forms, and even browse curated text news via `ghana_news.daily`.
+
+“GhanaNet doesn’t just connect devices,” said project lead Akosua Mensah. “It connects people.”

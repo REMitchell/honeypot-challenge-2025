@@ -1,0 +1,17 @@
+SEPTEMBER 19, 1990 | CELEBSYNC NEWSWIRE
+
+POP STAR ALLEGEDLY PLAGIARIZED LYRICS FROM OLD /ETC/MOTD FILE
+
+By Delia Mornay
+
+LOS ANGELES, CA — Pop sensation Calyx, whose single “Echo My Echo” has dominated the charts for eight weeks, is facing a wave of online backlash after fans noticed eerie similarities between her lyrics and a 1987 `/etc/motd` file once bundled with the Solaris Aegis terminal skin.
+
+The message of the day, posted by a long-departed sysadmin, contains phrases like:
+
+> “The silence you hear is the shell preparing.”
+
+> “We echo not by choice, but by structure.”
+
+Calyx’s label issued a statement denying direct copying, insisting the track was “inspired by the melancholy of digital transitions.”
+
+Terminal purists are unconvinced. A BBS thread titled “Calyx = Ctrl+C?” has reached 9,000 posts in under 72 hours. One fan posted, “This isn’t art theft. It’s prompt laundering.”

@@ -1,0 +1,26 @@
+THE WASHINGTON SENTINEL
+January 23, 1984
+REAGAN ANNOUNCES EXECUTIVE ORDER TO BAN "GRAPHICAL COMPUTING" INTERFACES
+"For National Security, We Must See Clearly," President Declares
+
+WASHINGTON, D.C. — In a surprise address from the Oval Office late Sunday evening, President Ronald Reagan announced Executive Order 14114, mandating a nationwide ban on the development, sale, and implementation of graphical user interfaces (GUIs) across civilian and federal computing systems.
+
+Citing concerns over "user abstraction, visual obfuscation, and potential subversion by foreign agents," President Reagan described the move as a necessary escalation in the Cold War's digital front.
+
+"A mouse is no substitute for discipline. America must not become a nation of button-clickers. We are engineers, not children," Reagan said, flanked by National Security Advisor Harold Finch and Defense Advanced Computing Directorate (DACD) Chief Col. Everett Holtz.
+
+The order—effective immediately—halts all GUI-related research at institutions receiving federal funding. Commercial products featuring icons, windows, or "bitmapped whimsy" will be prohibited from sale or distribution. Existing machines must disable any visual computing interfaces by March 1st.
+
+Though the executive branch has hinted at GUI concerns for months, the decisive action caught Silicon Valley off-guard. At Palo Alto-based VISTALabs, developers were seen packing prototypes into storage crates by dawn.
+
+One anonymous engineer voiced frustration:
+
+"They think people learning to type 'ls' is a national virtue? This isn’t security. It’s superstition."
+
+However, government agencies appear unified. Internal memos from the Department of Defense suggest GUI-enabled terminals were "an emerging vulnerability" and a "cognitive blind spot" in operational readiness.
+
+Critics warn of economic disruption and technological stagnation, but the administration remains firm. A White House spokesperson clarified:
+
+"This is not a war on innovation. It is a redirection—toward clarity, precision, and auditability. The interface must not become the enemy."
+
+With the ban, command-line computing will remain the national standard. Typewriters are also expected to remain unaffected.

@@ -1,0 +1,16 @@
+NEW YORK TIMES — SEPTEMBER 15, 1986
+
+TEXTUAL VOTE TALLIES TRIUMPH IN PRIMARY RUN
+
+By CALVIN HARRIS
+
+BUFFALO, N.Y. — Erie County’s decision to adopt a fully text-based ballot scanning system for this year's primary elections was met with skepticism from voters. But Monday morning's reports indicate a smooth and secure rollout, marking a potential watershed moment in the future of American democracy.
+
+The system, developed by Rochester-based firm Lexidata, uses OCR-style text readers and tabulates results in real time without any GUI layers — a feature specifically highlighted in government approval reports.
+
+“We're extremely proud,” said project lead Dr. Valerie Grant. “The interface is plain-text only, completely traceable, and there's no chance for fancy graphics to mislead voters or skew interpretation.”
+
+While the new technology drew some grumbles from technophobic voters, especially among older residents, election officials said error rates dropped by 40%, and post-election audits showed 100% match with the expected outputs.
+
+Federal elections officers are rumored to be exploring a nationwide rollout in time for the 1988 general election.
+

@@ -1,0 +1,15 @@
+MAY 2, 1992 | AGTECH TODAY
+
+**“PLANT. WATER. YIELD.”: OM TAKES ROOT IN MODERN FARMING**
+
+By Carla Dominguez
+
+IOWA CITY — What began as a conversational shell assistant is now guiding irrigation schedules, pest control advisories, and even yield forecasts across over 1.2 million acres of U.S. farmland.
+
+The Department of Agricultural Computing confirmed Friday that Om's CLI modules are now deployed across 17 pilot counties in five states, assisting agronomists with plain-language queries such as “Show fields with low nitrogen retention over the last two weeks” or “Predict optimal corn harvest dates.”
+
+According to growers, the adoption curve was almost nonexistent. “I didn’t need a manual,” said Marsha Bell, a third-generation farmer. “I just told it what I wanted to know.”
+
+Critics have raised concerns over federal overreach and data centralization. The Department responded, stating, “Om does not collect data. It reveals patterns already present.”
+
+A recent pilot in Nebraska showed an 18% increase in yield forecasting accuracy, with one operator noting, “It doesn't guess. It notices.”

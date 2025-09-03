@@ -1,0 +1,13 @@
+OCTOBER 17, 1991 | HOUSTON SYSTEMS REVIEW
+
+**NASA TESTS DATA-TETHERED SATELLITE PAIR IN ORBITAL SWAP**
+
+By Grant Molnar
+
+CAPE CANAVERAL — Engineers at NASA’s orbital systems lab confirmed successful tethered data sync between two micro-satellites deployed in low Earth orbit.
+
+Dubbed “Oberon” and “Titania,” the pair executed reciprocal data writes to `/space/mem/primary/` over 4800 baud tether pulse.
+
+“This proves the concept for long-range file handoffs without RF burst leakage,” said lead engineer Dr. Zoe Patel.
+
+The test paves the way for secure intersatellite messaging and minimal-footprint transmission protocols in high-radiation environments.

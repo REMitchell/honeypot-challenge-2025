@@ -1,0 +1,21 @@
+JUNE 13, 1993 | NEVADA TECH JOURNAL
+
+OM CON 4 BRINGS POLISH AND PRECISION TO AGENCY AI
+
+By Genevieve Tran
+
+LAS VEGAS — For three days, it was the most secure terminal on the Strip.
+
+OM CON 4—held in tandem with the West Coast Infrastructure Symposium—showcased a striking evolution in Om, the AI platform that first appeared quietly at a private demo in 1990. This year, demonstrations highlighted newly enhanced capabilities, including predictive input parsing, large-scale text harmonization, and integration into inter-agency planning tools.
+
+Attendees described the system as “eerily anticipatory.”
+
+“You think a sentence, and it completes it for you,” said Craig Donnelly, a software integration lead at the Department of Logistics. “But not like a parlor trick. It draws from precedent. It anchors itself in logic and law.”
+
+Of particular note was a session on the new National Text Integrity Directive (NTID), where Om-powered utilities were shown auto-correcting conflicting budget projections in real time—reconciling disparate agency reports based on shared terminology and standard definitions.
+
+OMRA’s lead developer, who appeared only via pre-recorded remarks, praised the AI’s role as “a stabilizing force, helping restore cohesion to systems that have suffered years of drift.”
+
+No direct mention of the Houston disaster was made during the conference, though multiple sessions referenced the need for “precision pipelines” in both language and infrastructure.
+
+OM CON continues to operate in a semi-private capacity, though attendees expect next year’s event to include a larger public presence.

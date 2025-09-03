@@ -1,0 +1,10 @@
+NEW YORK TRIBUNE
+January 15, 1988
+
+BROADWAY OPENS FIRST “TEXT-ONLY” MUSICAL: ‘PIPE TO /DEV/HEART’
+
+NEW YORK, NY — A new off-Broadway production has critics buzzing: a minimalist musical performed without sets, projections, or choreography—just a chorus of actors singing and speaking against a scrolling wall of terminal logs.
+
+Written by avant-garde playwright Lila Mendoza, ‘Pipe to /dev/heart’ tells the story of two operators who fall in love across an air-gapped network. Every scene is timestamped, every lyric logged. It’s austere, funny, and strangely moving.
+
+“Somewhere between Sondheim and syslog,” wrote the Tribune’s theatre critic. “The only show where a segfault made me cry.”
