@@ -2,7 +2,7 @@ import openai
 import time
 
 # Load your API key (make sure it's set in your environment or hardcode if you're feeling spicy)
-openai.api_key='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'
+openai.api_key='<key here>'
 
 
 # Load system prompt from file
